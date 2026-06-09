@@ -1,0 +1,920 @@
+accession	description	source_file	line_no	clade	source_header	raw_date	reason
+JN825712.1	Porcine epidemic diarrhea virus isolate BJ-2011-1, complete genome	G2achinanew.txt	201	G2a	JN825712.1|BJ-2011-1|25-Apr-2011|China	25-Apr-2011	missing_or_unparseable_date
+JQ282909.1	Porcine epidemic diarrhea virus strain CH/FJND-3/2011, complete genome	G2achinanew.txt	409	G2a	JQ282909.1|CH/FJND-3/2011|03-May-2011|China	03-May-2011	missing_or_unparseable_date
+JQ517274.1	Porcine epidemic diarrhea virus isolate HuN spike protein (S) gene, complete cds	G2achinanew.txt	228	G2a	JQ517274.1|HuN|18-Jun-2011|China	18-Jun-2011	missing_or_unparseable_date
+JQ771751.1	Porcine epidemic diarrhea virus strain SH S protein mRNA, complete cds	G2achinanew.txt	481	G2a	JQ771751.1|SH|20-Oct-2011|China	20-Oct-2011	missing_or_unparseable_date
+JQ771752.1	Porcine epidemic diarrhea virus strain ZB S protein mRNA, complete cds	G2achinanew.txt	260	G2a	JQ771752.1|ZB|17-Dec-2011|China	17-Dec-2011	missing_or_unparseable_date
+JQ771753.1	Porcine epidemic diarrhea virus strain YS S protein mRNA, complete cds	G2achinanew.txt	23	G2a	JQ771753.1|YS|02-Feb-2012|China	02-Feb-2012	missing_or_unparseable_date
+JX163294.1	Porcine epidemic diarrhea virus isolate HBMC2012 S protein (S) gene, complete cds	G2achinanew.txt	590	G2a	JX163294.1|HBMC2012|06-May-2012|China	06-May-2012	missing_or_unparseable_date
+JX524137.1	Porcine epidemic diarrhea virus strain ZJCZ4, complete genome	G2achinanew.txt	10	G2a	JX524137.1|ZJCZ4|10-Apr-2011|China	10-Apr-2011	missing_or_unparseable_date
+KC140102.1	Porcine epidemic diarrhea virus strain CH/FJZZ-9/2012, complete genome	G2achinanew.txt	325	G2a	KC140102.1|CH/FJZZ-9/2012|20-Aug-2012|China	20-Aug-2012	missing_or_unparseable_date
+KC210145.1	Porcine epidemic diarrhea virus strain AH2012, complete genome	G2achinanew.txt	97	G2a	KC210145.1|AH2012|15-Mar-2012|China	15-Mar-2012	missing_or_unparseable_date
+KF177255.1	Porcine epidemic diarrhea virus isolate JY6C spike protein (S) gene, complete cds	G2achinanew.txt	126	G2a	KF177255.1|JY6C|01-Aug-2012|China	01-Aug-2012	missing_or_unparseable_date
+KF177256.1	Porcine epidemic diarrhea virus isolate JY7C spike protein (S) gene, complete cds	G2achinanew.txt	410	G2a	KF177256.1|JY7C|01-Aug-2012|China	01-Aug-2012	missing_or_unparseable_date
+KF177257.1	Porcine epidemic diarrhea virus isolate YJ3F spike protein (S) gene, complete cds	G2achinanew.txt	504	G2a	KF177257.1|YJ3F|01-Aug-2012|China	01-Aug-2012	missing_or_unparseable_date
+KF177258.1	Porcine epidemic diarrhea virus isolate YJ7C spike protein (S) gene, complete cds	G2achinanew.txt	330	G2a	KF177258.1|YJ7C|01-Aug-2012|China	01-Aug-2012	missing_or_unparseable_date
+KF294256.1	Porcine epidemic diarrhea virus isolate GJL spike protein (S) gene, complete cds	G2achinanew.txt	91	G2a	KF294256.1|GJL|29-Aug-2012|China	29-Aug-2012	missing_or_unparseable_date
+KF453510.1	Porcine epidemic diarrhea virus isolate AH120411 S protein gene, partial cds	G2achinanew.txt	20	G2a	KF453510.1|AH120411|11-Apr-2012|China	11-Apr-2012	missing_or_unparseable_date
+KF453511.1	Porcine epidemic diarrhea virus isolate GX120308 S protein gene, partial cds	G2achinanew.txt	11	G2a	KF453511.1|GX120308|08-Mar-2012|China	08-Mar-2012	missing_or_unparseable_date
+KF453512.1	Porcine epidemic diarrhea virus isolate HB121229 S protein gene, partial cds	G2achinanew.txt	160	G2a	KF453512.1|HB121229|29-Dec-2012|China	29-Dec-2012	missing_or_unparseable_date
+KF453514.1	Porcine epidemic diarrhea virus isolate SH120301 S protein gene, partial cds	G2achinanew.txt	178	G2a	KF453514.1|SH120301|01-Mar-2012|China	01-Mar-2012	missing_or_unparseable_date
+KF453515.1	Porcine epidemic diarrhea virus isolate SH121208 S protein gene, partial cds	G2achinanew.txt	507	G2a	KF453515.1|SH121208|08-Dec-2012|China	08-Dec-2012	missing_or_unparseable_date
+KF453516.1	Porcine epidemic diarrhea virus isolate ZJ110618 S protein gene, partial cds	G2achinanew.txt	12	G2a	KF453516.1|ZJ110618|18-Jun-2011|China	18-Jun-2011	missing_or_unparseable_date
+KF453517.1	Porcine epidemic diarrhea virus isolate ZJ111113 S protein gene, partial cds	G2achinanew.txt	320	G2a	KF453517.1|ZJ111113|13-Nov-2011|China	13-Nov-2011	missing_or_unparseable_date
+KF546800.1	Porcine epidemic diarrhea virus isolate GDFS/2011 spike protein (S) gene, complete cds	G2achinanew.txt	85	G2a	KF546800.1|GDFS/2011|07-Jul-2012|China	07-Jul-2012	missing_or_unparseable_date
+KF546801.1	Porcine epidemic diarrhea virus isolate GDQY/2011 spike protein (S) gene, complete cds	G2achinanew.txt	223	G2a	KF546801.1|GDQY/2011|07-Jul-2012|China	07-Jul-2012	missing_or_unparseable_date
+KF546802.1	Porcine epidemic diarrhea virus isolate GDDG/2011 spike protein (S) gene, complete cds	G2achinanew.txt	447	G2a	KF546802.1|GDDG/2011|07-Jul-2012|China	07-Jul-2012	missing_or_unparseable_date
+KF546803.1	Porcine epidemic diarrhea virus isolate GDJM/2012 spike protein (S) gene, complete cds	G2achinanew.txt	390	G2a	KF546803.1|GDJM/2012|07-Jul-2012|China	07-Jul-2012	missing_or_unparseable_date
+KF546804.1	Porcine epidemic diarrhea virus isolate GDZQ/2012 spike protein (S) gene, complete cds	G2achinanew.txt	383	G2a	KF546804.1|GDZQ/2012|07-Jul-2012|China	07-Jul-2012	missing_or_unparseable_date
+KF577730.1	Porcine epidemic diarrhea virus isolate YNKM/2012 spike protein (S) gene, complete cds	G2achinanew.txt	364	G2a	KF577730.1|YNKM/2012|14-Feb-2013|China	14-Feb-2013	missing_or_unparseable_date
+KF577731.1	Porcine epidemic diarrhea virus isolate GDMZ/2013 spike protein (S) gene, complete cds	G2achinanew.txt	717	G2a	KF577731.1|GDMZ/2013|14-Feb-2013|China	14-Feb-2013	missing_or_unparseable_date
+KF577732.1	Porcine epidemic diarrhea virus isolate GDGZ/2013 spike protein (S) gene, complete cds	G2achinanew.txt	277	G2a	KF577732.1|GDGZ/2013|14-Feb-2013|China	14-Feb-2013	missing_or_unparseable_date
+KF601195.1	Porcine epidemic diarrhea virus isolate GXLZ/2013 spike protein (S) gene, complete cds	G2achinanew.txt	577	G2a	KF601195.1|GXLZ/2013|18-Apr-2013|China	18-Apr-2013	missing_or_unparseable_date
+KF601196.1	Porcine epidemic diarrhea virus isolate JXGZ/2013 spike protein (S) gene, complete cds	G2achinanew.txt	336	G2a	KF601196.1|JXGZ/2013|18-Apr-2013|China	18-Apr-2013	missing_or_unparseable_date
+KF601198.1	Porcine epidemic diarrhea virus isolate JXJA/2013 spike protein (S) gene, complete cds	G2achinanew.txt	419	G2a	KF601198.1|JXJA/2013|18-Apr-2013|China	18-Apr-2013	missing_or_unparseable_date
+KF601200.1	Porcine epidemic diarrhea virus isolate GDEP/2013 spike protein (S) gene, complete cds	G2achinanew.txt	656	G2a	KF601200.1|GDEP/2013|18-Apr-2013|China	18-Apr-2013	missing_or_unparseable_date
+KF601201.1	Porcine epidemic diarrhea virus isolate GXNN/2013 spike protein (S) gene, complete cds	G2achinanew.txt	649	G2a	KF601201.1|GXNN/2013|18-Apr-2013|China	18-Apr-2013	missing_or_unparseable_date
+KF738258.1	Porcine epidemic diarrhea virus strain GD120330 spike protein gene, complete cds	G2achinanew.txt	525	G2a	KF738258.1|GD120330|30-May-2012|China	30-May-2012	missing_or_unparseable_date
+KF738259.1	Porcine epidemic diarrhea virus strain JS130604 spike protein gene, complete cds	G2achinanew.txt	615	G2a	KF738259.1|JS130604|04-Jun-2013|China	04-Jun-2013	missing_or_unparseable_date
+KF738260.1	Porcine epidemic diarrhea virus strain JX130506 spike protein gene, complete cds	G2achinanew.txt	341	G2a	KF738260.1|JX130506|06-May-2013|China	06-May-2013	missing_or_unparseable_date
+KF738261.1	Porcine epidemic diarrhea virus strain SD130502 spike protein gene, complete cds	G2achinanew.txt	639	G2a	KF738261.1|SD130502|13-May-2013|China	13-May-2013	missing_or_unparseable_date
+KF738262.1	Porcine epidemic diarrhea virus strain SD130611 spike protein gene, complete cds	G2achinanew.txt	288	G2a	KF738262.1|SD130611|11-Jun-2013|China	11-Jun-2013	missing_or_unparseable_date
+KF738263.1	Porcine epidemic diarrhea virus strain SH121229 spike protein gene, complete cds	G2achinanew.txt	133	G2a	KF738263.1|SH121229|29-Dec-2012|China	29-Dec-2012	missing_or_unparseable_date
+KF738264.1	Porcine epidemic diarrhea virus strain ZJ121030 spike protein gene, complete cds	G2achinanew.txt	38	G2a	KF738264.1|ZJ121030|30-Oct-2012|China	30-Oct-2012	missing_or_unparseable_date
+KF761675.1	Porcine epidemic diarrhea virus strain CH/YNKM-8/2013, complete genome	G2achinanew.txt	124	G2a	KF761675.1|CH/YNKM-8/2013|20-Sep-2013|China	20-Sep-2013	missing_or_unparseable_date
+KF840537.1	Porcine epidemic diarrhea virus isolate CH/ZJCX-1/2012, complete genome	G2achinanew.txt	651	G2a	KF840537.1|CH/ZJCX-1/2012|04-Mar-2012|China	04-Mar-2012	missing_or_unparseable_date
+KF840538.1	Porcine epidemic diarrhea virus isolate CH/ZJHY-2/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	640	G2a	KF840538.1|CH/ZJHY-2/2012|12-Feb-2012|China	12-Feb-2012	missing_or_unparseable_date
+KF840539.1	Porcine epidemic diarrhea virus isolate CH/ZJJS-Z/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	312	G2a	KF840539.1|CH/ZJJS-Z/2012|02-May-2012|China	02-May-2012	missing_or_unparseable_date
+KF840540.1	Porcine epidemic diarrhea virus isolate CH/ZJJS-1Z/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	55	G2a	KF840540.1|CH/ZJJS-1Z/2012|14-Feb-2012|China	14-Feb-2012	missing_or_unparseable_date
+KF840541.1	Porcine epidemic diarrhea virus isolate CH/JXZS-3H/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	684	G2a	KF840541.1|CH/JXZS-3H/2012|21-Mar-2012|China	21-Mar-2012	missing_or_unparseable_date
+KF840542.1	Porcine epidemic diarrhea virus isolate CH/JXZS-2H/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein genes, complete cds	G2achinanew.txt	216	G2a	KF840542.1|CH/JXZS-2H/2012|21-Mar-2012|China	21-Mar-2012	missing_or_unparseable_date
+KF840543.1	Porcine epidemic diarrhea virus isolate CH/ZJXS212/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein, and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	186	G2a	KF840543.1|CH/ZJXS212/2012|12-Feb-2012|China	12-Feb-2012	missing_or_unparseable_date
+KF840544.1	Porcine epidemic diarrhea virus isolate CH/ZJHZHY-6/2013 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	570	G2a	KF840544.1|CH/ZJHZHY-6/2013|20-Feb-2013|China	20-Feb-2013	missing_or_unparseable_date
+KF840545.1	Porcine epidemic diarrhea virus isolate CH/JXJDZ-F/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	117	G2a	KF840545.1|CH/JXJDZ-F/2012|22-Mar-2012|China	22-Mar-2012	missing_or_unparseable_date
+KF840546.1	Porcine epidemic diarrhea virus isolate CH/ZJJS-2Z/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein genes, complete cds	G2achinanew.txt	317	G2a	KF840546.1|CH/ZJJS-2Z/2012|12-Feb-2012|China	12-Feb-2012	missing_or_unparseable_date
+KF840547.1	Porcine epidemic diarrhea virus isolate CH/JXZS-3L spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	196	G2a	KF840547.1|CH/JXZS-3L|21-Mar-2012|China	21-Mar-2012	missing_or_unparseable_date
+KF840548.1	Porcine epidemic diarrhea virus isolate CH/JXZS-1223L spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	467	G2a	KF840548.1|CH/JXZS-1223L|21-Mar-2012|China	21-Mar-2012	missing_or_unparseable_date
+KF840549.1	Porcine epidemic diarrhea virus isolate CH/SDZD-1/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	359	G2a	KF840549.1|CH/SDZD-1/2012|26-Apr-2012|China	26-Apr-2012	missing_or_unparseable_date
+KF840550.1	Porcine epidemic diarrhea virus isolate CH/SDZD-2/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	209	G2a	KF840550.1|CH/SDZD-2/2012|26-Apr-2012|China	26-Apr-2012	missing_or_unparseable_date
+KF840552.1	Porcine epidemic diarrhea virus isolate CH/ZJQZ-2/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	335	G2a	KF840552.1|CH/ZJQZ-2/2012|04-May-2012|China	04-May-2012	missing_or_unparseable_date
+KF840553.1	Porcine epidemic diarrhea virus isolate CH/ZJHZ-1C/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	132	G2a	KF840553.1|CH/ZJHZ-1C/2012|27-Apr-2012|China	27-Apr-2012	missing_or_unparseable_date
+KF840554.1	Porcine epidemic diarrhea virus isolate CH/ZJHZ-2C/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	565	G2a	KF840554.1|CH/ZJHZ-2C/2012|27-Apr-2012|China	27-Apr-2012	missing_or_unparseable_date
+KF840555.1	Porcine epidemic diarrhea virus isolate CH/JXJDZ-1/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	149	G2a	KF840555.1|CH/JXJDZ-1/2012|22-Mar-2012|China	22-Mar-2012	missing_or_unparseable_date
+KF840556.1	Porcine epidemic diarrhea virus isolate CH/ZJJS-4X/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2achinanew.txt	618	G2a	KF840556.1|CH/ZJJS-4X/2012|08-Mar-2012|China	08-Mar-2012	missing_or_unparseable_date
+KF840561.1	Porcine epidemic diarrhea virus isolate CH/JSZL-S2/2013 spike protein (S) gene, complete cds	G2achinanew.txt	175	G2a	KF840561.1|CH/JSZL-S2/2013|20-Jul-2013|China	20-Jul-2013	missing_or_unparseable_date
+KF840562.1	Porcine epidemic diarrhea virus isolate CH/JSZL-N2/2013 spike protein (S) gene, complete cds	G2achinanew.txt	588	G2a	KF840562.1|CH/JSZL-N2/2013|20-Jul-2013|China	20-Jul-2013	missing_or_unparseable_date
+KJ196348.1	Porcine epidemic diarrhea virus strain SHQP/YM/2013, complete genome	G2achinanew.txt	527	G2a	KJ196348.1|SHQP/YM/2013|05-Feb-2013|China	05-Feb-2013	missing_or_unparseable_date
+KM225239.1	Porcine epidemic diarrhea virus strain FJ63 spike protein (S) gene, complete cds	G2achinanew.txt	648	G2a	KM225239.1|FJ63|15-Jun-2014|China	15-Jun-2014	missing_or_unparseable_date
+KM225240.1	Porcine epidemic diarrhea virus strain FJ64 spike protein (S) gene, complete cds	G2achinanew.txt	54	G2a	KM225240.1|FJ64|15-Jun-2014|China	15-Jun-2014	missing_or_unparseable_date
+KM225241.1	Porcine epidemic diarrhea virus strain HN41 spike protein (S) gene, complete cds	G2achinanew.txt	110	G2a	KM225241.1|HN41|15-Jun-2014|China	15-Jun-2014	missing_or_unparseable_date
+KM225242.1	Porcine epidemic diarrhea virus strain HN26 spike protein (S) gene, complete cds	G2achinanew.txt	22	G2a	KM225242.1|HN26|15-Jun-2014|China	15-Jun-2014	missing_or_unparseable_date
+KM225243.1	Porcine epidemic diarrhea virus strain HN27 spike protein (S) gene, complete cds	G2achinanew.txt	111	G2a	KM225243.1|HN27|15-Jun-2014|China	15-Jun-2014	missing_or_unparseable_date
+KM225244.1	Porcine epidemic diarrhea virus strain HN40 spike protein (S) gene, complete cds	G2achinanew.txt	220	G2a	KM225244.1|HN40|15-Jun-2014|China	15-Jun-2014	missing_or_unparseable_date
+KM225245.1	Porcine epidemic diarrhea virus strain YN4-1 spike protein (S) gene, complete cds	G2achinanew.txt	375	G2a	KM225245.1|YN4-1|21-Aug-2012|China	21-Aug-2012	missing_or_unparseable_date
+KM406178.1	Porcine epidemic diarrhea virus strain LS1401 S protein (S) gene, complete cds	G2achinanew.txt	290	G2a	KM406178.1|LS1401|NA|China	N/A	missing_or_unparseable_date
+KM609205.1	Porcine epidemic diarrhea virus strain PEDV-8C, complete genome	G2achinanew.txt	466	G2a	KM609205.1|PEDV-8C|NA|China	N/A	missing_or_unparseable_date
+KR095279.1	Porcine epidemic diarrhea virus strain CH/HNQX-3/14, complete genome	G2achinanew.txt	188	G2a	KR095279.1|CH/HNQX-3/14|27-Jan-2015|China	27-Jan-2015	missing_or_unparseable_date
+KR514318.1	Porcine epidemic diarrhea virus isolate CH/NMG/CF spike protein gene, complete cds	G2achinanew.txt	222	G2a	KR514318.1|CH/NMG/CF|24-Jan-2013|China	24-Jan-2013	missing_or_unparseable_date
+KR514319.1	Porcine epidemic diarrhea virus isolate CH/NMG/EEDS spike protein gene, complete cds	G2achinanew.txt	46	G2a	KR514319.1|CH/NMG/EEDS|15-May-2013|China	15-May-2013	missing_or_unparseable_date
+KR514320.1	Porcine epidemic diarrhea virus isolate CH/NMG/HHHT spike protein gene, complete cds	G2achinanew.txt	514	G2a	KR514320.1|CH/NMG/HHHT|14-Jan-2013|China	14-Jan-2013	missing_or_unparseable_date
+KR514321.1	Porcine epidemic diarrhea virus isolate CH/NMG/HLBE spike protein gene, complete cds	G2achinanew.txt	69	G2a	KR514321.1|CH/NMG/HLBE|14-Jan-2014|China	14-Jan-2014	missing_or_unparseable_date
+KT239506.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHFY-2 spike protein-like gene, complete sequence	G2achinanew.txt	530	G2a	KT239506.1|AHFY-2|NA|China	N/A	missing_or_unparseable_date
+KT239508.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHXC-1 spike protein-like gene, complete sequence	G2achinanew.txt	74	G2a	KT239508.1|AHXC-1|NA|China	N/A	missing_or_unparseable_date
+KT239509.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHHF-1 spike protein-like gene, complete sequence	G2achinanew.txt	703	G2a	KT239509.1|AHHF-1|NA|China	N/A	missing_or_unparseable_date
+KT239510.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHHF-2 spike protein-like gene, complete sequence	G2achinanew.txt	546	G2a	KT239510.1|AHHF-2|NA|China	N/A	missing_or_unparseable_date
+KT239514.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHBB-2 spike protein-like gene, complete sequence	G2achinanew.txt	526	G2a	KT239514.1|AHBB-2|NA|China	N/A	missing_or_unparseable_date
+KT239515.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHMAS-1 spike protein-like gene, complete sequence	G2achinanew.txt	679	G2a	KT239515.1|AHMAS-1|NA|China	N/A	missing_or_unparseable_date
+KT239517.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHAQ-1 spike protein-like gene, complete sequence	G2achinanew.txt	460	G2a	KT239517.1|AHAQ-1|NA|China	N/A	missing_or_unparseable_date
+KT239520.1	UNVERIFIED: Porcine epidemic diarrhea virus strain JXJJ-1 spike protein-like gene, complete sequence	G2achinanew.txt	511	G2a	KT239520.1|JXJJ-1|NA|China	N/A	missing_or_unparseable_date
+KT239521.1	UNVERIFIED: Porcine epidemic diarrhea virus strain JXJJ-2 spike protein-like gene, complete sequence	G2achinanew.txt	213	G2a	KT239521.1|JXJJ-2|NA|China	N/A	missing_or_unparseable_date
+KT239522.1	UNVERIFIED: Porcine epidemic diarrhea virus strain JXXY-1 spike protein-like gene, complete sequence	G2achinanew.txt	702	G2a	KT239522.1|JXXY-1|NA|China	N/A	missing_or_unparseable_date
+KT239523.1	UNVERIFIED: Porcine epidemic diarrhea virus strain JXXY-2 spike protein-like gene, complete sequence	G2achinanew.txt	625	G2a	KT239523.1|JXXY-2|NA|China	N/A	missing_or_unparseable_date
+KT313036.1	Porcine epidemic diarrhea virus isolate PEDV2-S-5 spike protein (S) gene, complete cds	G2achinanew.txt	675	G2a	KT313036.1|PEDV2-S-5|20-May-2015|China	20-May-2015	missing_or_unparseable_date
+KT313037.1	Porcine epidemic diarrhea virus isolate PEDV3-S-1 spike protein (S) gene, complete cds	G2achinanew.txt	310	G2a	KT313037.1|PEDV3-S-1|12-May-2015|China	12-May-2015	missing_or_unparseable_date
+KT313038.1	Porcine epidemic diarrhea virus isolate PEDV4-S-3 spike protein (S) gene, complete cds	G2achinanew.txt	515	G2a	KT313038.1|PEDV4-S-3|02-Jun-2015|China	02-Jun-2015	missing_or_unparseable_date
+KT313039.1	Porcine epidemic diarrhea virus isolate PEDV1-S-4 spike protein (S) gene, complete cds	G2achinanew.txt	718	G2a	KT313039.1|PEDV1-S-4|17-Oct-2014|China	17-Oct-2014	missing_or_unparseable_date
+KT323980.1	Porcine epidemic diarrhea virus strain LNCT2, complete genome	G2achinanew.txt	333	G2a	KT323980.1|LNCT2|11-Sep-2014|China	11-Sep-2014	missing_or_unparseable_date
+KT388411.1	Porcine epidemic diarrhea virus isolate CH-XWC-2014 spike glycoprotein gene, complete cds	G2achinanew.txt	407	G2a	KT388411.1|CH-XWC-2014|20-Mar-2014|China	20-Mar-2014	missing_or_unparseable_date
+KT388415.1	Porcine epidemic diarrhea virus isolate CH-TPC-2014 spike glycoprotein gene, complete cds	G2achinanew.txt	294	G2a	KT388415.1|CH-TPC-2014|17-Dec-2014|China	17-Dec-2014	missing_or_unparseable_date
+KT388416.1	Porcine epidemic diarrhea virus isolate CH-STC-2014 spike glycoprotein gene, complete cds	G2achinanew.txt	229	G2a	KT388416.1|CH-STC-2014|10-Dec-2014|China	10-Dec-2014	missing_or_unparseable_date
+KT388417.1	Porcine epidemic diarrhea virus isolate CH-SBC-2013 spike glycoprotein gene, complete cds	G2achinanew.txt	537	G2a	KT388417.1|CH-SBC-2013|13-Sep-2013|China	13-Sep-2013	missing_or_unparseable_date
+KT388418.1	Porcine epidemic diarrhea virus isolate CH-LXC-2014 spike glycoprotein gene, complete cds	G2achinanew.txt	592	G2a	KT388418.1|CH-LXC-2014|05-Nov-2014|China	05-Nov-2014	missing_or_unparseable_date
+KT388419.1	Porcine epidemic diarrhea virus isolate CH-HSY-2013 spike glycoprotein gene, complete cds	G2achinanew.txt	724	G2a	KT388419.1|CH-HSY-2013|15-Jan-2013|China	15-Jan-2013	missing_or_unparseable_date
+KT948011.1	Porcine epidemic diarrhea virus isolate CH-CWC-2013 spike protein gene, partial cds	G2achinanew.txt	662	G2a	KT948011.1|CH-CWC-2013|09-Jan-2013|China	09-Jan-2013	missing_or_unparseable_date
+KU133232.1	Porcine epidemic diarrhea virus isolate CH-SDBZ-1-2015 spike protein (S) gene, complete cds	G2achinanew.txt	377	G2a	KU133232.1|CH-SDBZ-1-2015|29-Apr-2014|China	29-Apr-2014	missing_or_unparseable_date
+KU133233.1	Porcine epidemic diarrhea virus isolate CH-SDBZ-2-2015 spike protein (S) gene, complete cds	G2achinanew.txt	488	G2a	KU133233.1|CH-SDBZ-2-2015|14-Apr-2014|China	14-Apr-2014	missing_or_unparseable_date
+KU133235.1	Porcine epidemic diarrhea virus isolate CH-SDCQ-2015 spike protein (S) gene, complete cds	G2achinanew.txt	393	G2a	KU133235.1|CH-SDCQ-2015|08-May-2015|China	08-May-2015	missing_or_unparseable_date
+KU133237.1	Porcine epidemic diarrhea virus isolate CH-SDDP-2-2014 spike protein (S) gene, complete cds	G2achinanew.txt	450	G2a	KU133237.1|CH-SDDP-2-2014|01-Apr-2014|China	01-Apr-2014	missing_or_unparseable_date
+KU133239.1	Porcine epidemic diarrhea virus isolate CH-SDDY-2012 spike protein (S) gene, complete cds	G2achinanew.txt	698	G2a	KU133239.1|CH-SDDY-2012|17-Mar-2012|China	17-Mar-2012	missing_or_unparseable_date
+KU133240.1	Porcine epidemic diarrhea virus isolate CH-SDDZ-2012 spike protein (S) gene, complete cds	G2achinanew.txt	129	G2a	KU133240.1|CH-SDDZ-2012|05-Jan-2012|China	05-Jan-2012	missing_or_unparseable_date
+KU133241.1	Porcine epidemic diarrhea virus isolate CH-SDHZ-1-2013 spike protein (S) gene, complete cds	G2achinanew.txt	454	G2a	KU133241.1|CH-SDHZ-1-2013|07-Apr-2013|China	07-Apr-2013	missing_or_unparseable_date
+KU133242.1	Porcine epidemic diarrhea virus isolate CH-SDHZ-2-2013 spike protein (S) gene, complete cds	G2achinanew.txt	606	G2a	KU133242.1|CH-SDHZ-2-2013|07-Apr-2013|China	07-Apr-2013	missing_or_unparseable_date
+KU133243.1	Porcine epidemic diarrhea virus isolate CH-SDHZ-3-2013 spike protein (S) gene, complete cds	G2achinanew.txt	633	G2a	KU133243.1|CH-SDHZ-3-2013|06-Feb-2013|China	06-Feb-2013	missing_or_unparseable_date
+KU133244.1	Porcine epidemic diarrhea virus isolate CH-SDHZ-4-2013 spike protein (S) gene, complete cds	G2achinanew.txt	87	G2a	KU133244.1|CH-SDHZ-4-2013|07-Apr-2013|China	07-Apr-2013	missing_or_unparseable_date
+KU133245.1	Porcine epidemic diarrhea virus isolate CH-SDJY-2012 spike protein (S) gene, complete cds	G2achinanew.txt	93	G2a	KU133245.1|CH-SDJY-2012|06-Mar-2012|China	06-Mar-2012	missing_or_unparseable_date
+KU133246.1	Porcine epidemic diarrhea virus isolate CH-SDLQ-2015 spike protein (S) gene, complete cds	G2achinanew.txt	190	G2a	KU133246.1|CH-SDLQ-2015|23-Apr-2015|China	23-Apr-2015	missing_or_unparseable_date
+KU133249.1	Porcine epidemic diarrhea virus isolate CH-SDLY-1-2012 spike protein (S) gene, complete cds	G2achinanew.txt	416	G2a	KU133249.1|CH-SDLY-1-2012|09-Feb-2012|China	09-Feb-2012	missing_or_unparseable_date
+KU133252.1	Porcine epidemic diarrhea virus isolate CH-SDLY-2-2012 spike protein (S) gene, complete cds	G2achinanew.txt	29	G2a	KU133252.1|CH-SDLY-2-2012|05-Mar-2012|China	05-Mar-2012	missing_or_unparseable_date
+KU133253.1	Porcine epidemic diarrhea virus isolate CH-SDLY-2-2013 spike protein (S) gene, complete cds	G2achinanew.txt	612	G2a	KU133253.1|CH-SDLY-2-2013|26-Dec-2013|China	26-Dec-2013	missing_or_unparseable_date
+KU133260.1	Porcine epidemic diarrhea virus isolate CH-SDQF-5-2014 spike protein (S) gene, complete cds	G2achinanew.txt	457	G2a	KU133260.1|CH-SDQF-5-2014|04-Apr-2014|China	04-Apr-2014	missing_or_unparseable_date
+KU133261.1	Porcine epidemic diarrhea virus isolate CH-SDQH-2014 spike protein (S) gene, complete cds	G2achinanew.txt	697	G2a	KU133261.1|CH-SDQH-2014|08-Apr-2014|China	08-Apr-2014	missing_or_unparseable_date
+KU133263.1	Porcine epidemic diarrhea virus isolate CH-SDTA-2012 spike protein (S) gene, complete cds	G2achinanew.txt	446	G2a	KU133263.1|CH-SDTA-2012|20-Mar-2012|China	20-Mar-2012	missing_or_unparseable_date
+KU133264.1	Porcine epidemic diarrhea virus isolate CH-SDWF-2012 spike protein (S) gene, complete cds	G2achinanew.txt	102	G2a	KU133264.1|CH-SDWF-2012|10-Mar-2012|China	10-Mar-2012	missing_or_unparseable_date
+KU133265.1	Porcine epidemic diarrhea virus isolate CH-SDWF-2015 spike protein (S) gene, complete cds	G2achinanew.txt	198	G2a	KU133265.1|CH-SDWF-2015|26-Mar-2015|China	26-Mar-2015	missing_or_unparseable_date
+KU133266.1	Porcine epidemic diarrhea virus isolate CH-SDYT-2012 spike protein (S) gene, complete cds	G2achinanew.txt	629	G2a	KU133266.1|CH-SDYT-2012|11-Dec-2012|China	11-Dec-2012	missing_or_unparseable_date
+KU133268.1	Porcine epidemic diarrhea virus isolate CH-SDZC-2012 spike protein (S) gene, complete cds	G2achinanew.txt	589	G2a	KU133268.1|CH-SDZC-2012|07-Mar-2013|China	07-Mar-2013	missing_or_unparseable_date
+KU237214.1	Porcine epidemic diarrhea virus strain DF1 S protein (S) gene, complete cds	G2achinanew.txt	533	G2a	KU237214.1|CH/DF1/2014|01-Aug-2014|China	01-Aug-2014	missing_or_unparseable_date
+KU237215.1	Porcine epidemic diarrhea virus strain DF2 S protein (S) gene, complete cds	G2achinanew.txt	368	G2a	KU237215.1|CH/DF2/2014|01-Aug-2014|China	01-Aug-2014	missing_or_unparseable_date
+KU237216.1	Porcine epidemic diarrhea virus strain DF3 S protein (S) gene, complete cds	G2achinanew.txt	255	G2a	KU237216.1|CH/DF3/2014|01-Aug-2014|China	01-Aug-2014	missing_or_unparseable_date
+KU237218.1	Porcine epidemic diarrhea virus strain HY S protein (S) gene, complete cds	G2achinanew.txt	584	G2a	KU237218.1|CH/HY/2015|01-Mar-2015|China	01-Mar-2015	missing_or_unparseable_date
+KU237221.1	Porcine epidemic diarrhea virus strain LY S protein (S) gene, complete cds	G2achinanew.txt	361	G2a	KU237221.1|CH/LY/2015|01-Mar-2015|China	01-Mar-2015	missing_or_unparseable_date
+KU237228.1	Porcine epidemic diarrhea virus strain SS S protein (S) gene, complete cds	G2achinanew.txt	258	G2a	KU237228.1|CH/SS/2015|01-Apr-2015|China	01-Apr-2015	missing_or_unparseable_date
+KU237232.1	Porcine epidemic diarrhea virus strain YY S protein (S) gene, complete cds	G2achinanew.txt	587	G2a	KU237232.1|CH/YY/2015|01-Apr-2015|China	01-Apr-2015	missing_or_unparseable_date
+KU237234.1	Porcine epidemic diarrhea virus strain YZ2 S protein (S) gene, complete cds	G2achinanew.txt	249	G2a	KU237234.1|CH/YZ2/2015|01-May-2015|China	01-May-2015	missing_or_unparseable_date
+KU558701.1	Porcine epidemic diarrhea virus isolate ZJU/G2/2013, complete genome	G2achinanew.txt	714	G2a	KU558701.1|ZJU/G2/2013|14-Nov-2013|China	14-Nov-2013	missing_or_unparseable_date
+KU975403.1	Porcine epidemic diarrhea virus isolate CH-SCAY-1-2015 spike protein (S) gene, complete cds	G2achinanew.txt	90	G2a	KU975403.1|CH-SCAY-1-2015|21-Nov-2015|China	21-Nov-2015	missing_or_unparseable_date
+KU975404.1	Porcine epidemic diarrhea virus isolate CH-SCAY-2-2015 spike protein (S) gene, complete cds	G2achinanew.txt	554	G2a	KU975404.1|CH-SCAY-2-2015|20-Dec-2015|China	20-Dec-2015	missing_or_unparseable_date
+KU975406.1	Porcine epidemic diarrhea virus isolate CH-SCCD-2014 spike protein (S) gene, complete cds	G2achinanew.txt	204	G2a	KU975406.1|CH-SCCD-2014|15-Mar-2015|China	15-Mar-2015	missing_or_unparseable_date
+KU975409.1	Porcine epidemic diarrhea virus isolate CH-SCJT-2015 spike protein (S) gene, complete cds	G2achinanew.txt	158	G2a	KU975409.1|CH-SCJT-2015|08-Jul-2015|China	08-Jul-2015	missing_or_unparseable_date
+KU975410.1	Porcine epidemic diarrhea virus isolate CH-SCMY-1-2014 spike protein (S) gene, complete cds	G2achinanew.txt	394	G2a	KU975410.1|CH-SCMY-1-2014|07-Mar-2014|China	07-Mar-2014	missing_or_unparseable_date
+KU975411.1	Porcine epidemic diarrhea virus isolate CH-SCMY-2-2014 spike protein (S) gene, complete cds	G2achinanew.txt	257	G2a	KU975411.1|CH-SCMY-2-2014|28-Apr-2014|China	28-Apr-2014	missing_or_unparseable_date
+KU975412.1	Porcine epidemic diarrhea virus isolate CH-SCMY-3-2014 spike protein (S) gene, complete cds	G2achinanew.txt	523	G2a	KU975412.1|CH-SCMY-3-2014|26-May-2014|China	26-May-2014	missing_or_unparseable_date
+KU975413.1	Porcine epidemic diarrhea virus isolate CH-SCMY-4-2014 spike protein (S) gene, complete cds	G2achinanew.txt	688	G2a	KU975413.1|CH-SCMY-4-2014|02-Aug-2014|China	02-Aug-2014	missing_or_unparseable_date
+KU975414.1	Porcine epidemic diarrhea virus isolate CH-SCNC-1-2015 spike protein (S) gene, complete cds	G2achinanew.txt	664	G2a	KU975414.1|CH-SCNC-1-2015|01-Dec-2015|China	01-Dec-2015	missing_or_unparseable_date
+KU975415.1	Porcine epidemic diarrhea virus isolate CH-SCNC-2-2015 spike protein (S) gene, complete cds	G2achinanew.txt	541	G2a	KU975415.1|CH-SCNC-2-2015|14-Dec-2015|China	14-Dec-2015	missing_or_unparseable_date
+KU975416.1	Porcine epidemic diarrhea virus isolate CH-SCNC-3-2015 spike protein (S) gene, complete cds	G2achinanew.txt	233	G2a	KU975416.1|CH-SCNC-3-2015|23-Dec-2015|China	23-Dec-2015	missing_or_unparseable_date
+KU975418.1	Porcine epidemic diarrhea virus isolate CH-SCXC-1-2015 spike protein (S) gene, complete cds	G2achinanew.txt	172	G2a	KU975418.1|CH-SCXC-1-2015|04-Mar-2015|China	04-Mar-2015	missing_or_unparseable_date
+KU975419.1	Porcine epidemic diarrhea virus isolate CH-SCXC-2-2015 spike protein (S) gene, complete cds	G2achinanew.txt	287	G2a	KU975419.1|CH-SCXC-2-2015|28-Mar-2015|China	28-Mar-2015	missing_or_unparseable_date
+KU975422.1	Porcine epidemic diarrhea virus isolate CH-SCZG-2015 spike protein (S) gene, complete cds	G2achinanew.txt	166	G2a	KU975422.1|CH-SCZG-2015|12-Mar-2015|China	12-Mar-2015	missing_or_unparseable_date
+KU975423.1	Porcine epidemic diarrhea virus isolate CH-SCYA-2-2014 spike protein (S) gene, complete cds	G2achinanew.txt	495	G2a	KU975423.1|CH-SCYA-2-2014|06-Jan-2014|China	06-Jan-2014	missing_or_unparseable_date
+KX064280.1	Porcine epidemic diarrhea virus isolate SD2014, complete genome	G2achinanew.txt	293	G2a	KX064280.1|SD2014|20-Oct-2014|China	20-Oct-2014	missing_or_unparseable_date
+KX550281.1	Porcine epidemic diarrhea virus strain ZJ15XS0101 P1, complete genome	G2achinanew.txt	73	G2a	KX550281.1|ZJ15XS0101_P1|16-Jan-2015|China	16-Jan-2015	missing_or_unparseable_date
+KX812523.1	Porcine epidemic diarrhea virus isolate XM1-2, complete genome	G2achinanew.txt	285	G2a	KX812523.1|XM1-2|30-Mar-2016|China	30-Mar-2016	missing_or_unparseable_date
+KY007139.1	Porcine epidemic diarrhea virus isolate PEDV-Hjms, complete genome	G2achinanew.txt	479	G2a	KY007139.1|PEDV-Hjms|11-May-2015|China	11-May-2015	missing_or_unparseable_date
+KY007140.1	Porcine epidemic diarrhea virus isolate PEDV-LNsy, complete genome	G2achinanew.txt	574	G2a	KY007140.1|PEDV-LNsy|02-Mar-2015|China	02-Mar-2015	missing_or_unparseable_date
+MF038004.1	Porcine epidemic diarrhea virus isolate PED-JS-2015-12-3 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	542	G2a	MF038004.1|PED-JS-2015-12-3|25-Dec-2015|China	25-Dec-2015	missing_or_unparseable_date
+MF038005.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-12-2 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	417	G2a	MF038005.1|PED-JS-2016-12-2|28-Dec-2016|China	28-Dec-2016	missing_or_unparseable_date
+MF038006.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-12-1 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	518	G2a	MF038006.1|PED-JS-2016-12-1|01-Dec-2016|China	01-Dec-2016	missing_or_unparseable_date
+MF038007.1	Porcine epidemic diarrhea virus isolate PED-JS-2015-12-4 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	297	G2a	MF038007.1|PED-JS-2015-12-4|28-Dec-2016|China	28-Dec-2016	missing_or_unparseable_date
+MF038008.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-05-1 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	236	G2a	MF038008.1|PED-JS-2016-05-1|04-May-2016|China	04-May-2016	missing_or_unparseable_date
+MF038009.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-05-2 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	208	G2a	MF038009.1|PED-JS-2016-05-2|04-May-2016|China	04-May-2016	missing_or_unparseable_date
+MF038010.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-05-3 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	280	G2a	MF038010.1|PED-JS-2016-05-3|04-May-2016|China	04-May-2016	missing_or_unparseable_date
+MF038011.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-05-4 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	365	G2a	MF038011.1|PED-JS-2016-05-4|04-May-2016|China	04-May-2016	missing_or_unparseable_date
+MF038012.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-05-5 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	81	G2a	MF038012.1|PED-JS-2016-05-5|04-May-2016|China	04-May-2016	missing_or_unparseable_date
+MF038013.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-07-1 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	549	G2a	MF038013.1|PED-JS-2016-07-1|07-Jul-2016|China	07-Jul-2016	missing_or_unparseable_date
+MF038014.1	Porcine epidemic diarrhea virus isolate PED-JS-2016-07-2 spike glycoprotein (S) gene, complete cds	G2achinanew.txt	480	G2a	MF038014.1|PED-JS-2016-07-2|09-Jul-2016|China	09-Jul-2016	missing_or_unparseable_date
+MF462814.1	Porcine epidemic diarrhea virus strain CH/SXYL/2016, complete genome	G2achinanew.txt	40	G2a	MF462814.1|CH/SXYL/2016|10-Sep-2016|China	10-Sep-2016	missing_or_unparseable_date
+MF807952.1	Porcine epidemic diarrhea virus strain B5-HB2017, complete genome	G2achinanew.txt	37	G2a	MF807952.1|B5-HB2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MG020540.1	Porcine epidemic diarrhea virus isolate CH-AHSZ-1-2016 spike protein (S) gene, complete cds	G2achinanew.txt	475	G2a	MG020540.1|CH-AHSZ-1-2016|17-Nov-2016|China	17-Nov-2016	missing_or_unparseable_date
+MG020544.1	Porcine epidemic diarrhea virus isolate CH-JSYC-1-2016 spike protein (S) gene, complete cds	G2achinanew.txt	234	G2a	MG020544.1|CH-JSYC-1-2016|04-Dec-2016|China	04-Dec-2016	missing_or_unparseable_date
+MG020548.1	Porcine epidemic diarrhea virus isolate CH-JXXY-1-2016 spike protein (S) gene, complete cds	G2achinanew.txt	387	G2a	MG020548.1|CH-JXXY-1-2016|17-Feb-2016|China	17-Feb-2016	missing_or_unparseable_date
+MG020549.1	Porcine epidemic diarrhea virus isolate CH-JXXY-2-2016 spike protein (S) gene, complete cds	G2achinanew.txt	307	G2a	MG020549.1|CH-JXXY-2-2016|17-Feb-2016|China	17-Feb-2016	missing_or_unparseable_date
+MG020550.1	Porcine epidemic diarrhea virus isolate CH-JXXY-3-2016 spike protein (S) gene, complete cds	G2achinanew.txt	314	G2a	MG020550.1|CH-JXXY-3-2016|17-Feb-2016|China	17-Feb-2016	missing_or_unparseable_date
+MG020554.1	Porcine epidemic diarrhea virus isolate CH-ZJQZ-1-2016 spike protein (S) gene, complete cds	G2achinanew.txt	116	G2a	MG020554.1|CH-ZJQZ-1-2016|06-Apr-2016|China	06-Apr-2016	missing_or_unparseable_date
+MG020555.1	Porcine epidemic diarrhea virus isolate CH-ZJQZ-2-2016 spike protein (S) gene, complete cds	G2achinanew.txt	657	G2a	MG020555.1|CH-ZJQZ-2-2016|06-Apr-2016|China	06-Apr-2016	missing_or_unparseable_date
+MG706117.1	Porcine epidemic diarrhea virus isolate PED-JS-2017-06 spike protein gene, complete cds	G2achinanew.txt	493	G2a	MG706117.1|PED-JS-2017-06|25-Jun-2017|China	25-Jun-2017	missing_or_unparseable_date
+MG706118.1	Porcine epidemic diarrhea virus isolate PED-JS-2017-07-2 spike protein gene, complete cds	G2achinanew.txt	304	G2a	MG706118.1|PED-JS-2017-07-2|11-Jul-2017|China	11-Jul-2017	missing_or_unparseable_date
+MG706119.1	Porcine epidemic diarrhea virus isolate PED-JS-2017-07-1 spike protein gene, complete cds	G2achinanew.txt	352	G2a	MG706119.1|PED-JS-2017-07-1|21-Jul-2017|China	21-Jul-2017	missing_or_unparseable_date
+MG706120.1	Porcine epidemic diarrhea virus isolate PED-JS-2017-01-2 spike protein gene, complete cds	G2achinanew.txt	486	G2a	MG706120.1|PED-JS-2017-01-2|21-Jan-2017|China	21-Jan-2017	missing_or_unparseable_date
+MG706121.1	Porcine epidemic diarrhea virus isolate PED-JS-2017-01 spike protein gene, complete cds	G2achinanew.txt	441	G2a	MG706121.1|PED-JS-2017-01|15-Jan-2017|China	15-Jan-2017	missing_or_unparseable_date
+MG837011.1	Porcine epidemic diarrhea virus isolate CHN/SH-2012-5/2012, complete genome	G2achinanew.txt	386	G2a	MG837011.1|CHN/SH-2012-5/2012|21-Feb-2012|China	21-Feb-2012	missing_or_unparseable_date
+MG837012.1	Porcine epidemic diarrhea virus isolate CHN/SH-2016-4/2016, complete genome	G2achinanew.txt	309	G2a	MG837012.1|CHN/SH-2016-4/2016|20-Jan-2016|China	20-Jan-2016	missing_or_unparseable_date
+MH053414.1	Porcine epidemic diarrhea virus isolate CH/SCZJ/2017 spike protein (S) gene, complete cds	G2achinanew.txt	582	G2a	MH053414.1|CH/SCZJ/2017|26-Oct-2017|China	26-Oct-2017	missing_or_unparseable_date
+MH053415.1	Porcine epidemic diarrhea virus isolate CH/SCTJ/2017 spike protein (S) gene, complete cds	G2achinanew.txt	200	G2a	MH053415.1|CH/SCTJ/2017|13-Feb-2017|China	13-Feb-2017	missing_or_unparseable_date
+MH053416.1	Porcine epidemic diarrhea virus isolate CH/SCQX1/2017 spike protein (S) gene, complete cds	G2achinanew.txt	491	G2a	MH053416.1|CH/SCQX1/2017|06-Jan-2017|China	06-Jan-2017	missing_or_unparseable_date
+MH053417.1	Porcine epidemic diarrhea virus isolate CH/SCQX2/2017 spike protein (S) gene, complete cds	G2achinanew.txt	611	G2a	MH053417.1|CH/SCQX2/2017|08-Jan-2017|China	08-Jan-2017	missing_or_unparseable_date
+MH061342.1	Porcine epidemic diarrhea virus strain CH/SCZJ/2018, complete genome	G2achinanew.txt	242	G2a	MH061342.1|CH/SCZJ/2018|06-Feb-2018|China	06-Feb-2018	missing_or_unparseable_date
+MH107321.1	Porcine epidemic diarrhea virus isolate GDS10, complete genome	G2achinanew.txt	385	G2a	MH107321.1|GDS10|16-Jan-2013|China	16-Jan-2013	missing_or_unparseable_date
+MH107322.1	Porcine epidemic diarrhea virus isolate GDS23, complete genome	G2achinanew.txt	99	G2a	MH107322.1|GDS23|05-Nov-2012|China	05-Nov-2012	missing_or_unparseable_date
+MH244927.1	Porcine epidemic diarrhea virus strain QY2016 S protein (S) gene, complete cds	G2achinanew.txt	232	G2a	MH244927.1|QY2016|12-Dec-2016|China	12-Dec-2016	missing_or_unparseable_date
+MH726362.1	Porcine epidemic diarrhea virus isolate GDS05, complete genome	G2achinanew.txt	425	G2a	MH726362.1|GDS05|08-Feb-2012|China	08-Feb-2012	missing_or_unparseable_date
+MH726363.1	Porcine epidemic diarrhea virus isolate GDS20, complete genome	G2achinanew.txt	433	G2a	MH726363.1|GDS20|22-Jun-2012|China	22-Jun-2012	missing_or_unparseable_date
+MH726364.1	Porcine epidemic diarrhea virus isolate GDS17, complete genome	G2achinanew.txt	163	G2a	MH726364.1|GDS17|13-Dec-2012|China	13-Dec-2012	missing_or_unparseable_date
+MH726365.1	Porcine epidemic diarrhea virus isolate GDS25, complete genome	G2achinanew.txt	716	G2a	MH726365.1|GDS25|15-Jan-2013|China	15-Jan-2013	missing_or_unparseable_date
+MH726366.1	Porcine epidemic diarrhea virus isolate GDS24, complete genome	G2achinanew.txt	534	G2a	MH726366.1|GDS24|04-Jun-2012|China	04-Jun-2012	missing_or_unparseable_date
+MH726367.1	Porcine epidemic diarrhea virus isolate GDS26, complete genome	G2achinanew.txt	135	G2a	MH726367.1|GDS26|17-Sep-2012|China	17-Sep-2012	missing_or_unparseable_date
+MH726368.1	Porcine epidemic diarrhea virus isolate GDS22, complete genome	G2achinanew.txt	477	G2a	MH726368.1|GDS22|23-Sep-2012|China	23-Sep-2012	missing_or_unparseable_date
+MH726369.1	Porcine epidemic diarrhea virus isolate GDS30, complete genome	G2achinanew.txt	327	G2a	MH726369.1|GDS30|21-Aug-2014|China	21-Aug-2014	missing_or_unparseable_date
+MH726370.1	Porcine epidemic diarrhea virus isolate GDS07, complete genome	G2achinanew.txt	472	G2a	MH726370.1|GDS07|12-Mar-2014|China	12-Mar-2014	missing_or_unparseable_date
+MH726373.1	Porcine epidemic diarrhea virus isolate GDS13, complete genome	G2achinanew.txt	281	G2a	MH726373.1|GDS13|15-Jun-2012|China	15-Jun-2012	missing_or_unparseable_date
+MH726374.1	Porcine epidemic diarrhea virus isolate GDS11, complete genome	G2achinanew.txt	131	G2a	MH726374.1|GDS11|07-Jun-2014|China	07-Jun-2014	missing_or_unparseable_date
+MH726375.1	Porcine epidemic diarrhea virus isolate GDS19, complete genome	G2achinanew.txt	571	G2a	MH726375.1|GDS19|04-Jun-2012|China	04-Jun-2012	missing_or_unparseable_date
+MH726376.1	Porcine epidemic diarrhea virus isolate GDS18, complete genome	G2achinanew.txt	552	G2a	MH726376.1|GDS18|24-Mar-2014|China	24-Mar-2014	missing_or_unparseable_date
+MH726377.1	Porcine epidemic diarrhea virus isolate GDS29, complete genome	G2achinanew.txt	210	G2a	MH726377.1|GDS29|11-Jul-2014|China	11-Jul-2014	missing_or_unparseable_date
+MH726378.1	Porcine epidemic diarrhea virus isolate GDS34, complete genome	G2achinanew.txt	282	G2a	MH726378.1|GDS34|28-Jul-2014|China	28-Jul-2014	missing_or_unparseable_date
+MH726379.1	Porcine epidemic diarrhea virus isolate GDS33, complete genome	G2achinanew.txt	452	G2a	MH726379.1|GDS33|28-Jul-2014|China	28-Jul-2014	missing_or_unparseable_date
+MH726380.1	Porcine epidemic diarrhea virus isolate GDS27, complete genome	G2achinanew.txt	677	G2a	MH726380.1|GDS27|06-Jun-2014|China	06-Jun-2014	missing_or_unparseable_date
+MH726381.1	Porcine epidemic diarrhea virus isolate GDS43, complete genome	G2achinanew.txt	329	G2a	MH726381.1|GDS43|06-May-2015|China	06-May-2015	missing_or_unparseable_date
+MH910099.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate JS-2013, complete genome	G2achinanew.txt	351	G2a	MH910099.1|JS-2013|02-Jan-2013|China	02-Jan-2013	missing_or_unparseable_date
+MH991825.1	Porcine epidemic diarrhea virus strain A1-HB2016 S protein (S) gene, complete cds	G2achinanew.txt	125	G2a	MH991825.1|A1-HB2016|30-Dec-2016|China	30-Dec-2016	missing_or_unparseable_date
+MH991838.1	Porcine epidemic diarrhea virus strain M8-HA2017 S protein (S) gene, complete cds	G2achinanew.txt	96	G2a	MH991838.1|M8-HA2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MH991839.1	Porcine epidemic diarrhea virus strain M9-HA2017 S protein (S) gene, complete cds	G2achinanew.txt	715	G2a	MH991839.1|M9-HA2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MH991842.1	Porcine epidemic diarrhea virus strain N7-GD2017 S protein (S) gene, complete cds	G2achinanew.txt	7	G2a	MH991842.1|N7-GD2017|13-Nov-2017|China	13-Nov-2017	missing_or_unparseable_date
+MH991843.1	Porcine epidemic diarrhea virus strain O8-HB2017 S protein (S) gene, complete cds	G2achinanew.txt	295	G2a	MH991843.1|O8-HB2017|01-Dec-2017|China	01-Dec-2017	missing_or_unparseable_date
+MH991855.1	Porcine epidemic diarrhea virus strain V7-HB2018 S protein (S) gene, complete cds	G2achinanew.txt	470	G2a	MH991855.1|V7-HB2018|09-Mar-2018|China	09-Mar-2018	missing_or_unparseable_date
+MH991864.1	Porcine epidemic diarrhea virus strain Y9-SX2018 S protein (S) gene, complete cds	G2achinanew.txt	311	G2a	MH991864.1|Y9-SX2018|27-Apr-2018|China	27-Apr-2018	missing_or_unparseable_date
+MH991865.1	Porcine epidemic diarrhea virus strain Z11-HA2018 S protein (S) gene, complete cds	G2achinanew.txt	328	G2a	MH991865.1|Z11-HA2018|28-May-2018|China	28-May-2018	missing_or_unparseable_date
+MK138516.1	Porcine epidemic diarrhea virus strain V7-HB2018, complete genome	G2achinanew.txt	8	G2a	MK138516.1|V7-HB2018|09-Mar-2018|China	09-Mar-2018	missing_or_unparseable_date
+MK532983.1	Porcine epidemic diarrhea virus strain B1-HB2017 spike protein (S) gene, complete cds	G2achinanew.txt	374	G2a	MK532983.1|B1-HB2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MK532984.1	Porcine epidemic diarrhea virus strain B2-HB2017 spike protein (S) gene, complete cds	G2achinanew.txt	557	G2a	MK532984.1|B2-HB2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MK532985.1	Porcine epidemic diarrhea virus strain B3-HB2017 spike protein (S) gene, complete cds	G2achinanew.txt	142	G2a	MK532985.1|B3-HB2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MK532986.1	Porcine epidemic diarrhea virus strain B6-HB2017 spike protein (S) gene, complete cds	G2achinanew.txt	579	G2a	MK532986.1|B6-HB2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MK532987.1	Porcine epidemic diarrhea virus strain B7-HB2017 spike protein (S) gene, complete cds	G2achinanew.txt	497	G2a	MK532987.1|B7-HB2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MK532988.1	Porcine epidemic diarrhea virus strain B8-HB2017 spike protein (S) gene, complete cds	G2achinanew.txt	324	G2a	MK532988.1|B8-HB2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MK533002.1	Porcine epidemic diarrhea virus strain N1-GD2017 spike protein (S) gene, complete cds	G2achinanew.txt	34	G2a	MK533002.1|N1-GD2017|13-Nov-2017|China	13-Nov-2017	missing_or_unparseable_date
+MK533004.1	Porcine epidemic diarrhea virus strain N13-GD2017 spike protein (S) gene, complete cds	G2achinanew.txt	130	G2a	MK533004.1|N13-GD2017|13-Nov-2017|China	13-Nov-2017	missing_or_unparseable_date
+MK606368.1	Porcine epidemic diarrhea virus isolate CH-HB1-2018, complete genome	G2achinanew.txt	635	G2a	MK606368.1|CH-HB1-2018|24-Jun-2018|China	24-Jun-2018	missing_or_unparseable_date
+MK644604.1	Porcine epidemic diarrhea virus isolate N7-GD2017, complete genome	G2achinanew.txt	355	G2a	MK644604.1|N7-GD2017|13-Nov-2017|China	13-Nov-2017	missing_or_unparseable_date
+MK656504.1	Porcine epidemic diarrhea virus strain JN1806-23 S protein gene, partial cds	G2achinanew.txt	253	G2a	MK656504.1|JN1806-23|15-Jun-2018|China	15-Jun-2018	missing_or_unparseable_date
+MK656508.1	Porcine epidemic diarrhea virus strain QD1803-2 S protein gene, partial cds	G2achinanew.txt	342	G2a	MK656508.1|QD1803-2|03-Mar-2018|China	03-Mar-2018	missing_or_unparseable_date
+MK656509.1	Porcine epidemic diarrhea virus strain QD1803-5 S protein gene, partial cds	G2achinanew.txt	103	G2a	MK656509.1|QD1803-5|03-Mar-2018|China	03-Mar-2018	missing_or_unparseable_date
+MK656510.1	Porcine epidemic diarrhea virus strain QD1804-9 S protein gene, partial cds	G2achinanew.txt	665	G2a	MK656510.1|QD1804-9|05-Apr-2018|China	05-Apr-2018	missing_or_unparseable_date
+MK656511.1	Porcine epidemic diarrhea virus strain QD1807-65 S protein gene, partial cds	G2achinanew.txt	63	G2a	MK656511.1|QD1807-65|02-Jun-2018|China	02-Jun-2018	missing_or_unparseable_date
+MK656512.1	Porcine epidemic diarrhea virus strain QD1807-67 S protein gene, partial cds	G2achinanew.txt	26	G2a	MK656512.1|QD1807-67|22-Jul-2018|China	22-Jul-2018	missing_or_unparseable_date
+MK656513.1	Porcine epidemic diarrhea virus strain QD1807-68 S protein gene, partial cds	G2achinanew.txt	672	G2a	MK656513.1|QD1807-68|23-Jul-2018|China	23-Jul-2018	missing_or_unparseable_date
+MN368662.1	Porcine epidemic diarrhea virus isolate JXyc15 spike protein (S) gene, complete cds	G2achinanew.txt	217	G2a	MN368662.1|JXyc15|NA|China	N/A	missing_or_unparseable_date
+MN368663.1	Porcine epidemic diarrhea virus isolate FJly15 spike protein (S) gene, complete cds	G2achinanew.txt	624	G2a	MN368663.1|FJly15|NA|China	N/A	missing_or_unparseable_date
+MN368664.1	Porcine epidemic diarrhea virus isolate FJqz15 spike protein (S) gene, complete cds	G2achinanew.txt	723	G2a	MN368664.1|FJqz15|NA|China	N/A	missing_or_unparseable_date
+MN368666.1	Porcine epidemic diarrhea virus isolate GDgz15-1 spike protein (S) gene, complete cds	G2achinanew.txt	77	G2a	MN368666.1|GDgz15-1|NA|China	N/A	missing_or_unparseable_date
+MN368667.1	Porcine epidemic diarrhea virus isolate GDgz15-2 spike protein (S) gene, complete cds	G2achinanew.txt	437	G2a	MN368667.1|GDgz15-2|NA|China	N/A	missing_or_unparseable_date
+MN368671.1	Porcine epidemic diarrhea virus isolate GDmm15 spike protein (S) gene, complete cds	G2achinanew.txt	517	G2a	MN368671.1|GDmm15|NA|China	N/A	missing_or_unparseable_date
+MN368673.1	Porcine epidemic diarrhea virus isolate GDsg15-2 spike protein (S) gene, complete cds	G2achinanew.txt	680	G2a	MN368673.1|GDsg15-2|NA|China	N/A	missing_or_unparseable_date
+MN368674.1	Porcine epidemic diarrhea virus isolate GDsg15-3 spike protein (S) gene, complete cds	G2achinanew.txt	112	G2a	MN368674.1|GDsg15-3|NA|China	N/A	missing_or_unparseable_date
+MN368675.1	Porcine epidemic diarrhea virus isolate GDzq15-1 spike protein (S) gene, complete cds	G2achinanew.txt	275	G2a	MN368675.1|GDzq15-1|NA|China	N/A	missing_or_unparseable_date
+MN368676.1	Porcine epidemic diarrhea virus isolate GDzq15-2 spike protein (S) gene, complete cds	G2achinanew.txt	436	G2a	MN368676.1|GDzq15-2|NA|China	N/A	missing_or_unparseable_date
+MN368680.1	Porcine epidemic diarrhea virus isolate HBhg15 spike protein (S) gene, complete cds	G2achinanew.txt	104	G2a	MN368680.1|HBhg15|NA|China	N/A	missing_or_unparseable_date
+MN368688.1	Porcine epidemic diarrhea virus isolate GDjm16-2 spike protein (S) gene, complete cds	G2achinanew.txt	28	G2a	MN368688.1|GDjm16-2|NA|China	N/A	missing_or_unparseable_date
+MN368694.1	Porcine epidemic diarrhea virus isolate SCmy17 spike protein (S) gene, complete cds	G2achinanew.txt	456	G2a	MN368694.1|SCmy17|NA|China	N/A	missing_or_unparseable_date
+MN368696.1	Porcine epidemic diarrhea virus isolate FJfz17-2 spike protein (S) gene, complete cds	G2achinanew.txt	18	G2a	MN368696.1|FJfz17-2|NA|China	N/A	missing_or_unparseable_date
+MN368697.1	Porcine epidemic diarrhea virus isolate FJqz17-1 spike protein (S) gene, complete cds	G2achinanew.txt	408	G2a	MN368697.1|FJqz17-1|NA|China	N/A	missing_or_unparseable_date
+MN368706.1	Porcine epidemic diarrhea virus isolate GDsg17 spike protein (S) gene, complete cds	G2achinanew.txt	48	G2a	MN368706.1|GDsg17|NA|China	N/A	missing_or_unparseable_date
+MN368710.1	Porcine epidemic diarrhea virus isolate FJfz18-1 spike protein (S) gene, complete cds	G2achinanew.txt	56	G2a	MN368710.1|FJfz18-1|NA|China	N/A	missing_or_unparseable_date
+MN368724.1	Porcine epidemic diarrhea virus isolate GDzj18-1 spike protein (S) gene, complete cds	G2achinanew.txt	266	G2a	MN368724.1|GDzj18-1|NA|China	N/A	missing_or_unparseable_date
+MN594506.1	UNVERIFIED: Porcine epidemic diarrhea virus strain SX-WH, complete genome	G2achinanew.txt	561	G2a	MN594506.1|SX-WH|27-Mar-2018|China	27-Mar-2018	missing_or_unparseable_date
+MN612069.1	Porcine epidemic diarrhea virus strain CH-MDJ-NA03 spike protein gene, complete cds	G2achinanew.txt	254	G2a	MN612069.1|CH-MDJ-NA03|22-Aug-2019|China	22-Aug-2019	missing_or_unparseable_date
+MN612070.1	Porcine epidemic diarrhea virus strain CH-AH-HX122 spike protein gene, complete cds	G2achinanew.txt	151	G2a	MN612070.1|CH-AH-HX122|23-Jun-2018|China	23-Jun-2018	missing_or_unparseable_date
+MN612071.1	Porcine epidemic diarrhea virus strain CH-SX-CZ01 spike protein gene, complete cds	G2achinanew.txt	121	G2a	MN612071.1|CH-SX-CZ01|25-Mar-2018|China	25-Mar-2018	missing_or_unparseable_date
+MN612072.1	Porcine epidemic diarrhea virus strain CH-HeB-XT01 spike protein gene, complete cds	G2achinanew.txt	276	G2a	MN612072.1|CH-HeB-XT01|28-Jul-2019|China	28-Jul-2019	missing_or_unparseable_date
+MN612073.1	Porcine epidemic diarrhea virus strain CH-SD-WF01 spike protein gene, complete cds	G2achinanew.txt	202	G2a	MN612073.1|CH-SD-WF01|15-Sep-2018|China	15-Sep-2018	missing_or_unparseable_date
+MN612074.1	Porcine epidemic diarrhea virus strain CH-HuN-SY01 spike protein gene, complete cds	G2achinanew.txt	376	G2a	MN612074.1|CH-HuN-SY01|15-Feb-2019|China	15-Feb-2019	missing_or_unparseable_date
+MN612075.1	Porcine epidemic diarrhea virus strain CH-FJ-SM01 spike protein gene, complete cds	G2achinanew.txt	661	G2a	MN612075.1|CH-FJ-SM01|30-Jan-2018|China	30-Jan-2018	missing_or_unparseable_date
+MN612076.1	Porcine epidemic diarrhea virus strain CH-GD-ZQ01 spike protein gene, complete cds	G2achinanew.txt	598	G2a	MN612076.1|CH-GD-ZQ01|30-Mar-2019|China	30-Mar-2019	missing_or_unparseable_date
+MN612077.1	Porcine epidemic diarrhea virus strain CH-HuB-YC01 spike protein gene, complete cds	G2achinanew.txt	347	G2a	MN612077.1|CH-HuB-YC01|30-May-2018|China	30-May-2018	missing_or_unparseable_date
+MN617863.1	Porcine epidemic diarrhea virus isolate CH/SCGY-1/2018 spike protein (S) gene, complete cds	G2achinanew.txt	51	G2a	MN617863.1|CH/SCGY-1/2018|26-Apr-2018|China	26-Apr-2018	missing_or_unparseable_date
+MN721360.1	Porcine epidemic diarrhea virus isolate CH-SX-YCDZ spike protein gene, complete cds	G2achinanew.txt	303	G2a	MN721360.1|CH-SX-YCDZ|23-Sep-2015|China	23-Sep-2015	missing_or_unparseable_date
+MN721361.1	Porcine epidemic diarrhea virus isolate CH-Tibet-SN22 spike protein gene, complete cds	G2achinanew.txt	434	G2a	MN721361.1|CH-Tibet-SN22|25-Mar-2014|China	25-Mar-2014	missing_or_unparseable_date
+MN721362.1	Porcine epidemic diarrhea virus isolate CH-SX-YL6567 spike protein gene, complete cds	G2achinanew.txt	334	G2a	MN721362.1|CH-SX-YL6567|08-Mar-2016|China	08-Mar-2016	missing_or_unparseable_date
+MN721363.1	Porcine epidemic diarrhea virus isolate CH-GS-TS01 spike protein gene, complete cds	G2achinanew.txt	52	G2a	MN721363.1|CH-GS-TS01|10-Sep-2014|China	10-Sep-2014	missing_or_unparseable_date
+MN721365.1	Porcine epidemic diarrhea virus isolate CH-GZ-GY254 spike protein gene, complete cds	G2achinanew.txt	206	G2a	MN721365.1|CH-GZ-GY254|30-Sep-2016|China	30-Sep-2016	missing_or_unparseable_date
+MN721366.1	Porcine epidemic diarrhea virus isolate CH-NX-WZ spike protein gene, complete cds	G2achinanew.txt	713	G2a	MN721366.1|CH-NX-WZ|30-Jan-2017|China	30-Jan-2017	missing_or_unparseable_date
+MN721367.1	Porcine epidemic diarrhea virus isolate CH-SC-DY01 spike protein gene, complete cds	G2achinanew.txt	429	G2a	MN721367.1|CH-SC-DY01|30-Dec-2015|China	30-Dec-2015	missing_or_unparseable_date
+MN721368.1	Porcine epidemic diarrhea virus isolate CH-SX-YL27 spike protein gene, complete cds	G2achinanew.txt	423	G2a	MN721368.1|CH-SX-YL27|08-Nov-2014|China	08-Nov-2014	missing_or_unparseable_date
+MN721369.1	Porcine epidemic diarrhea virus isolate CH-JL-BS7 spike protein gene, complete cds	G2achinanew.txt	500	G2a	MN721369.1|CH-JL-BS7|30-Oct-2016|China	30-Oct-2016	missing_or_unparseable_date
+MN721371.1	Porcine epidemic diarrhea virus isolate CH-LN-TL01 spike protein gene, complete cds	G2achinanew.txt	558	G2a	MN721371.1|CH-LN-TL01|22-Feb-2016|China	22-Feb-2016	missing_or_unparseable_date
+MN721372.1	Porcine epidemic diarrhea virus isolate CH-LN-CY27 spike protein gene, complete cds	G2achinanew.txt	591	G2a	MN721372.1|CH-LN-CY27|01-May-2015|China	01-May-2015	missing_or_unparseable_date
+MN721373.1	Porcine epidemic diarrhea virus isolate CH-GX-GG27 spike protein gene, complete cds	G2achinanew.txt	391	G2a	MN721373.1|CH-GX-GG27|11-Jan-2017|China	11-Jan-2017	missing_or_unparseable_date
+MN893417.1	Porcine epidemic diarrhea virus isolate CH-HNSMX-2016 spike glycoprotein gene, complete cds	G2achinanew.txt	564	G2a	MN893417.1|CH-HNSMX-2016|01-Sep-2016|China	01-Sep-2016	missing_or_unparseable_date
+MN893424.1	Porcine epidemic diarrhea virus isolate CH-HNZK-3-2018 spike glycoprotein gene, complete cds	G2achinanew.txt	122	G2a	MN893424.1|CH-HNZK-3-2018|01-Jan-2018|China	01-Jan-2018	missing_or_unparseable_date
+MN893427.1	Porcine epidemic diarrhea virus isolate CH-HNZZ-2017 spike glycoprotein gene, complete cds	G2achinanew.txt	540	G2a	MN893427.1|CH-HNZZ-2017|01-Oct-2017|China	01-Oct-2017	missing_or_unparseable_date
+MW762534.1	Porcine epidemic diarrhea virus isolate GXNN, complete genome	G2achinanew.txt	401	G2a	MW762534.1|GXNN|08-Dec-2020|China	08-Dec-2020	missing_or_unparseable_date
+ON168795.1	Porcine epidemic diarrhea virus strain CH-SD-LS1702-2017 spike protein gene, complete cds	G2achinanew.txt	323	G2a	ON168795.1|CH-SD-LS1702-2017|02-Feb-2017|China	02-Feb-2017	missing_or_unparseable_date
+OP019344.1	Porcine epidemic diarrhea virus isolate PEDV/CH/JC1/2021 spike protein (S) gene, partial cds	G2achinanew.txt	338	G2a	OP019344.1|PEDV/CH/JC1/2021|14-May-2021|China	14-May-2021	missing_or_unparseable_date
+OP019355.1	Porcine epidemic diarrhea virus isolate PEDV/CH/YF2/2021 spike protein (S) gene, partial cds	G2achinanew.txt	384	G2a	OP019355.1|PEDV/CH/YF2/2021|09-Jun-2021|China	09-Jun-2021	missing_or_unparseable_date
+OP382083.1	Porcine epidemic diarrhea virus isolate PEDV-GX4/2021, complete genome	G2achinanew.txt	337	G2a	OP382083.1|PEDV-GX4/2021|10-Feb-2021|China	10-Feb-2021	missing_or_unparseable_date
+OP603897.1	Porcine epidemic diarrhea virus isolate PEDV-GX6/2021, complete genome	G2achinanew.txt	67	G2a	OP603897.1|PEDV-GX6/2021|20-May-2022|China	20-May-2022	missing_or_unparseable_date
+OQ122102.1	Porcine epidemic diarrhea virus isolate JXYC/2021 spike protein (S) gene, complete cds	G2achinanew.txt	162	G2a	OQ122102.1|JXYC/2021|15-Dec-2021|China	15-Dec-2021	missing_or_unparseable_date
+OQ122108.1	Porcine epidemic diarrhea virus isolate HNXY-2/2022 spike protein (S) gene, complete cds	G2achinanew.txt	316	G2a	OQ122108.1|HNXY-2/2022|16-Mar-2022|China	16-Mar-2022	missing_or_unparseable_date
+OQ122109.1	Porcine epidemic diarrhea virus isolate HBQJ/2022 spike protein (S) gene, complete cds	G2achinanew.txt	609	G2a	OQ122109.1|HBQJ/2022|16-Mar-2022|China	16-Mar-2022	missing_or_unparseable_date
+OQ718863.1	Porcine epidemic diarrhea virus isolate CH-HeN27-2023 spike protein gene, complete cds	G2achinanew.txt	599	G2a	OQ718863.1|CH-HeN27-2023|15-Jan-2023|China	15-Jan-2023	missing_or_unparseable_date
+OQ723792.1	Porcine epidemic diarrhea virus isolate PEDV CHGS20 spike protein gene, complete cds	G2achinanew.txt	274	G2a	OQ723792.1|PEDV_CHGS20|21-Jul-2020|China	21-Jul-2020	missing_or_unparseable_date
+PP395578.1	Porcine epidemic diarrhea virus strain SC2021MY spike protein (S) gene, complete cds	G2achinanew.txt	185	G2a	PP395578.1|SC2021MY|05-Feb-2021|China	05-Feb-2021	missing_or_unparseable_date
+PP395582.1	Porcine epidemic diarrhea virus strain SC2021CD spike protein (S) gene, complete cds	G2achinanew.txt	432	G2a	PP395582.1|SC2021CD|08-Dec-2021|China	08-Dec-2021	missing_or_unparseable_date
+PP395585.1	Porcine epidemic diarrhea virus strain SC2022SN spike protein (S) gene, complete cds	G2achinanew.txt	489	G2a	PP395585.1|SC2022SN|27-Feb-2022|China	27-Feb-2022	missing_or_unparseable_date
+PP395588.1	Porcine epidemic diarrhea virus strain SC2022NJ spike protein (S) gene, complete cds	G2achinanew.txt	694	G2a	PP395588.1|SC2022NJ|23-Sep-2022|China	23-Sep-2022	missing_or_unparseable_date
+PQ124000.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-HH S protein gene, complete cds	G2achinanew.txt	666	G2a	PQ124000.1|SCABTC-PEDV-HH|17-Sep-2023|China	17-Sep-2023	missing_or_unparseable_date
+PV164722.1	Porcine epidemic diarrhea virus isolate PEDV ZJ22QZ0501 spike protein (S) gene, complete cds	G2achinanew.txt	536	G2a	PV164722.1|PEDV_ZJ22QZ0501|17-May-2022|China	17-May-2022	missing_or_unparseable_date
+PV164727.1	Porcine epidemic diarrhea virus isolate PEDV ZJ23SX0401-01 spike protein (S) gene, complete cds	G2achinanew.txt	270	G2a	PV164727.1|PEDV_ZJ23SX0401-01|26-Apr-2023|China	26-Apr-2023	missing_or_unparseable_date
+PV167808.1	Porcine epidemic diarrhea virus isolate FJPT-07 spike protein (S) gene, complete cds	G2achinanew.txt	469	G2a	PV167808.1|FJPT-07|04-Dec-2024|China	04-Dec-2024	missing_or_unparseable_date
+PV167809.1	Porcine epidemic diarrhea virus isolate FJPT-08 spike protein (S) gene, complete cds	G2achinanew.txt	459	G2a	PV167809.1|FJPT-08|04-Dec-2024|China	04-Dec-2024	missing_or_unparseable_date
+PV167810.1	Porcine epidemic diarrhea virus isolate FJPT-09 spike protein (S) gene, complete cds	G2achinanew.txt	438	G2a	PV167810.1|FJPT-09|04-Dec-2024|China	04-Dec-2024	missing_or_unparseable_date
+PV167811.1	Porcine epidemic diarrhea virus isolate FJPT-10 spike protein (S) gene, complete cds	G2achinanew.txt	267	G2a	PV167811.1|FJPT-10|04-Dec-2024|China	04-Dec-2024	missing_or_unparseable_date
+PV536108.1	Porcine epidemic diarrhea virus isolate PEDV-SXDD1-2023, partial genome	G2achinanew.txt	681	G2a	PV536108.1|PEDV-SXDD1-2023|14-Apr-2023|China	14-Apr-2023	missing_or_unparseable_date
+PV536109.1	Porcine epidemic diarrhea virus isolate PEDV-SXDD4-2023, partial genome	G2achinanew.txt	455	G2a	PV536109.1|PEDV-SXDD4-2023|14-Apr-2023|China	14-Apr-2023	missing_or_unparseable_date
+PV536110.1	Porcine epidemic diarrhea virus isolate PEDV-XJCZ16-2024, partial genome	G2achinanew.txt	302	G2a	PV536110.1|PEDV-XJCZ16-2024|24-Apr-2024|China	24-Apr-2024	missing_or_unparseable_date
+PV536111.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-XJCZ24-2024, partial genome	G2achinanew.txt	583	G2a	PV536111.1|PEDV-XJCZ24-2024|24-Apr-2024|China	24-Apr-2024	missing_or_unparseable_date
+PX619215.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SHB/2025-02 genomic sequence	G2achinanew.txt	300	G2a	PX619215.1|SHB/2025-02|03-Oct-2024|China	03-Oct-2024	missing_or_unparseable_date
+JN980698.1	Porcine epidemic diarrhea virus isolate CHGD-01 spike protein (S) gene, complete cds	G2bchinanew.txt	73	G2b	JN980698.1|CHGD-01|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+JX261936.1	Porcine epidemic diarrhea virus strain CHGD-01, complete genome	G2bchinanew.txt	99	G2b	JX261936.1|CHGD-01|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+KF601197.1	Porcine epidemic diarrhea virus isolate HNCZ/2013 spike protein (S) gene, complete cds	G2bchinanew.txt	81	G2b	KF601197.1|HNCZ/2013|18-Apr-2013|China	18-Apr-2013	missing_or_unparseable_date
+KF601199.1	Porcine epidemic diarrhea virus isolate GXHZ/2013 spike protein (S) gene, complete cds	G2bchinanew.txt	82	G2b	KF601199.1|GXHZ/2013|18-Apr-2013|China	18-Apr-2013	missing_or_unparseable_date
+KM089829.1	Porcine epidemic diarrhea virus strain GDS01, complete genome	G2bchinanew.txt	115	G2b	KM089829.1|GDS01|10-Nov-2012|China	10-Nov-2012	missing_or_unparseable_date
+KM225247.1	Porcine epidemic diarrhea virus strain YN4-15 spike protein (S) gene, complete cds	G2bchinanew.txt	7	G2b	KM225247.1|YN4-15|21-Aug-2012|China	21-Aug-2012	missing_or_unparseable_date
+KM225248.1	Porcine epidemic diarrhea virus strain YN4-30 spike protein (S) gene, complete cds	G2bchinanew.txt	8	G2b	KM225248.1|YN4-30|21-Aug-2012|China	21-Aug-2012	missing_or_unparseable_date
+KM225249.1	Porcine epidemic diarrhea virus strain YN4-60 spike protein (S) gene, complete cds	G2bchinanew.txt	13	G2b	KM225249.1|YN4-60|21-Aug-2012|China	21-Aug-2012	missing_or_unparseable_date
+KM225250.1	Porcine epidemic diarrhea virus strain YN4-90 spike protein (S) gene, complete cds	G2bchinanew.txt	14	G2b	KM225250.1|YN4-90|21-Aug-2012|China	21-Aug-2012	missing_or_unparseable_date
+KM225251.1	Porcine epidemic diarrhea virus strain YN4-120 spike protein (S) gene, complete cds	G2bchinanew.txt	17	G2b	KM225251.1|YN4-120|21-Aug-2012|China	21-Aug-2012	missing_or_unparseable_date
+KM225252.1	Porcine epidemic diarrhea virus strain YN4-144 spike protein (S) gene, complete cds	G2bchinanew.txt	18	G2b	KM225252.1|YN4-144|21-Aug-2012|China	21-Aug-2012	missing_or_unparseable_date
+KT021228.1	Porcine epidemic diarrhea virus strain YN15, complete genome	G2bchinanew.txt	6	G2b	KT021228.1|YN15|05-Oct-2013|China	05-Oct-2013	missing_or_unparseable_date
+KT021229.1	Porcine epidemic diarrhea virus strain YN30, complete genome	G2bchinanew.txt	10	G2b	KT021229.1|YN30|08-Nov-2013|China	08-Nov-2013	missing_or_unparseable_date
+KT021230.1	Porcine epidemic diarrhea virus strain YN60, complete genome	G2bchinanew.txt	11	G2b	KT021230.1|YN60|05-Feb-2014|China	05-Feb-2014	missing_or_unparseable_date
+KT021231.1	Porcine epidemic diarrhea virus strain YN90, complete genome	G2bchinanew.txt	12	G2b	KT021231.1|YN90|10-May-2014|China	10-May-2014	missing_or_unparseable_date
+KT021233.1	Porcine epidemic diarrhea virus strain YN200, complete genome	G2bchinanew.txt	15	G2b	KT021233.1|YN200|11-Nov-2014|China	11-Nov-2014	missing_or_unparseable_date
+KT388421.1	Porcine epidemic diarrhea virus isolate CH-CCC-2013 spike glycoprotein gene, complete cds	G2bchinanew.txt	25	G2b	KT388421.1|CH-CCC-2013|18-Dec-2013|China	18-Dec-2013	missing_or_unparseable_date
+KU133254.1	Porcine epidemic diarrhea virus isolate CH-SDLY-2-2014 spike protein (S) gene, complete cds	G2bchinanew.txt	42	G2b	KU133254.1|CH-SDLY-2-2014|04-Apr-2014|China	04-Apr-2014	missing_or_unparseable_date
+KU133255.1	Porcine epidemic diarrhea virus isolate CH-SDLY-3-2014 spike protein (S) gene, complete cds	G2bchinanew.txt	40	G2b	KU133255.1|CH-SDLY-3-2014|04-Apr-2014|China	04-Apr-2014	missing_or_unparseable_date
+KU380331.1	Porcine epidemic diarrhea virus isolate CH-SD01, complete genome	G2bchinanew.txt	41	G2b	KU380331.1|CH-SD01|01-May-2015|China	01-May-2015	missing_or_unparseable_date
+KU985230.1	Porcine epidemic diarrhea virus strain GDU spike protein gene, complete cds	G2bchinanew.txt	87	G2b	KU985230.1|GDU|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+KX791060.1	Porcine epidemic diarrhea virus isolate CHSD2014, complete genome	G2bchinanew.txt	43	G2b	KX791060.1|CHSD2014|12-May-2014|China	12-May-2014	missing_or_unparseable_date
+MH708895.1	Porcine epidemic diarrhea virus isolate FJ2011, complete genome	G2bchinanew.txt	67	G2b	MH708895.1|FJ2011|18-Jan-2011|China	18-Jan-2011	missing_or_unparseable_date
+MH726384.1	Porcine epidemic diarrhea virus isolate GDS06, complete genome	G2bchinanew.txt	57	G2b	MH726384.1|GDS06|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+MH726385.1	Porcine epidemic diarrhea virus isolate GDS08, complete genome	G2bchinanew.txt	90	G2b	MH726385.1|GDS08|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+MH726386.1	Porcine epidemic diarrhea virus isolate GDS16, complete genome	G2bchinanew.txt	98	G2b	MH726386.1|GDS16|25-May-2011|China	25-May-2011	missing_or_unparseable_date
+MH726387.1	Porcine epidemic diarrhea virus isolate GDS12, complete genome	G2bchinanew.txt	91	G2b	MH726387.1|GDS12|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+MH726388.1	Porcine epidemic diarrhea virus isolate GDS36, complete genome	G2bchinanew.txt	101	G2b	MH726388.1|GDS36|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+MH726389.1	Porcine epidemic diarrhea virus isolate GDS39, complete genome	G2bchinanew.txt	102	G2b	MH726389.1|GDS39|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+MH726390.1	Porcine epidemic diarrhea virus isolate GDS40, complete genome	G2bchinanew.txt	111	G2b	MH726390.1|GDS40|10-Feb-2011|China	10-Feb-2011	missing_or_unparseable_date
+MH726391.1	Porcine epidemic diarrhea virus isolate GDS15, complete genome	G2bchinanew.txt	112	G2b	MH726391.1|GDS15|15-Jul-2012|China	15-Jul-2012	missing_or_unparseable_date
+MH726392.1	Porcine epidemic diarrhea virus isolate GDS44, complete genome	G2bchinanew.txt	109	G2b	MH726392.1|GDS44|02-Jul-2013|China	02-Jul-2013	missing_or_unparseable_date
+MH726393.1	Porcine epidemic diarrhea virus isolate GDS14, complete genome	G2bchinanew.txt	1	G2b	MH726393.1|GDS14|10-Mar-2011|China	10-Mar-2011	missing_or_unparseable_date
+MH726394.1	Porcine epidemic diarrhea virus isolate GDS31, complete genome	G2bchinanew.txt	31	G2b	MH726394.1|GDS31|08-Dec-2015|China	08-Dec-2015	missing_or_unparseable_date
+MH726395.1	Porcine epidemic diarrhea virus isolate GDS32, complete genome	G2bchinanew.txt	33	G2b	MH726395.1|GDS32|06-Feb-2013|China	06-Feb-2013	missing_or_unparseable_date
+MH726396.1	Porcine epidemic diarrhea virus isolate GDS35, complete genome	G2bchinanew.txt	29	G2b	MH726396.1|GDS35|07-Dec-2013|China	07-Dec-2013	missing_or_unparseable_date
+MH726397.1	Porcine epidemic diarrhea virus isolate GDS38, complete genome	G2bchinanew.txt	30	G2b	MH726397.1|GDS38|20-Oct-2012|China	20-Oct-2012	missing_or_unparseable_date
+MH726398.1	Porcine epidemic diarrhea virus isolate GDS37, complete genome	G2bchinanew.txt	28	G2b	MH726398.1|GDS37|25-May-2011|China	25-May-2011	missing_or_unparseable_date
+MH726399.1	Porcine epidemic diarrhea virus isolate GDS42, complete genome	G2bchinanew.txt	34	G2b	MH726399.1|GDS42|25-Sep-2011|China	25-Sep-2011	missing_or_unparseable_date
+MH726400.1	Porcine epidemic diarrhea virus isolate GDS45, complete genome	G2bchinanew.txt	35	G2b	MH726400.1|GDS45|26-Apr-2011|China	26-Apr-2011	missing_or_unparseable_date
+MH726401.1	Porcine epidemic diarrhea virus isolate GDS41, complete genome	G2bchinanew.txt	32	G2b	MH726401.1|GDS41|27-Nov-2011|China	27-Nov-2011	missing_or_unparseable_date
+MH748550.1	Porcine epidemic diarrhea virus strain PEDV JS-A, complete genome	G2bchinanew.txt	118	G2b	MH748550.1|PEDV_JS-A|10-Nov-2017|China	10-Nov-2017	missing_or_unparseable_date
+MK288006.1	Porcine epidemic diarrhea virus isolate FJzz1, complete genome	G2bchinanew.txt	85	G2b	MK288006.1|FJzz1|22-May-2011|China	22-May-2011	missing_or_unparseable_date
+MN368700.1	Porcine epidemic diarrhea virus isolate GDhz17 spike protein (S) gene, complete cds	G2bchinanew.txt	38	G2b	MN368700.1|GDhz17|NA|China	N/A	missing_or_unparseable_date
+MN368702.1	Porcine epidemic diarrhea virus isolate GDjm17-2 spike protein (S) gene, complete cds	G2bchinanew.txt	39	G2b	MN368702.1|GDjm17-2|NA|China	N/A	missing_or_unparseable_date
+MN508818.1	Porcine epidemic diarrhea virus isolate SHpd/2012 S protein (S) gene, complete cds	G2bchinanew.txt	72	G2b	MN508818.1|SHpd/2012|17-Mar-2012|China	17-Mar-2012	missing_or_unparseable_date
+MN759311.1	Porcine epidemic diarrhea virus strain GD-XL-2019, complete genome	G2bchinanew.txt	114	G2b	MN759311.1|GD-XL-2019|18-Mar-2019|China	18-Mar-2019	missing_or_unparseable_date
+MZ364307.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/938/2016, complete genome	G2bchinanew.txt	50	G2b	MZ364307.1|CH/GX/PEDV/938/2016|29-Feb-2016|China	29-Feb-2016	missing_or_unparseable_date
+MZ364308.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/997/2016, complete genome	G2bchinanew.txt	49	G2b	MZ364308.1|CH/GX/PEDV/997/2016|05-May-2016|China	05-May-2016	missing_or_unparseable_date
+MZ364309.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/1008/2016, complete genome	G2bchinanew.txt	51	G2b	MZ364309.1|CH/GX/PEDV/1008/2016|29-May-2016|China	29-May-2016	missing_or_unparseable_date
+MZ364314.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/2373/2018, complete genome	G2bchinanew.txt	156	G2b	MZ364314.1|CH/GX/PEDV/2373/2018|14-Nov-2018|China	14-Nov-2018	missing_or_unparseable_date
+MZ581326.1	Porcine epidemic diarrhea virus strain YN150, complete genome	G2bchinanew.txt	16	G2b	MZ581326.1|YN150|20-Jul-2017|China	20-Jul-2017	missing_or_unparseable_date
+ON649885.1	Porcine epidemic diarrhea virus strain JS-B, complete genome	G2bchinanew.txt	116	G2b	ON649885.1|JS-B|30-Dec-2021|China	30-Dec-2021	missing_or_unparseable_date
+OP019333.1	Porcine epidemic diarrhea virus isolate PEDV/CH/BZ/2021 spike protein (S) gene, partial cds	G2bchinanew.txt	174	G2b	OP019333.1|PEDV/CH/BZ/2021|14-Aug-2021|China	14-Aug-2021	missing_or_unparseable_date
+OP972835.1	Porcine epidemic diarrhea virus isolate YNBS/2022, complete genome	G2bchinanew.txt	169	G2b	OP972835.1|YNBS/2022|25-Oct-2022|China	25-Oct-2022	missing_or_unparseable_date
+OQ122098.1	Porcine epidemic diarrhea virus isolate HBXG/2022 spike protein (S) gene, complete cds	G2bchinanew.txt	178	G2b	OQ122098.1|HBXG/2022|07-Apr-2022|China	07-Apr-2022	missing_or_unparseable_date
+OQ122103.1	Porcine epidemic diarrhea virus isolate HBXT/2021 spike protein (S) gene, complete cds	G2bchinanew.txt	176	G2b	OQ122103.1|HBXT/2021|09-Nov-2021|China	09-Nov-2021	missing_or_unparseable_date
+OQ122105.1	Porcine epidemic diarrhea virus isolate FJLY/2021 spike protein (S) gene, complete cds	G2bchinanew.txt	132	G2b	OQ122105.1|FJLY/2021|27-Dec-2021|China	27-Dec-2021	missing_or_unparseable_date
+OQ122111.1	Porcine epidemic diarrhea virus isolate JXGZ/2022 spike protein (S) gene, complete cds	G2bchinanew.txt	182	G2b	OQ122111.1|JXGZ/2022|14-Mar-2022|China	14-Mar-2022	missing_or_unparseable_date
+OQ437174.1	Porcine epidemic diarrhea virus strain YNLP/2022, complete genome	G2bchinanew.txt	100	G2b	OQ437174.1|YNLP/2022|10-Dec-2022|China	10-Dec-2022	missing_or_unparseable_date
+OQ589489.1	Porcine epidemic diarrhea virus strain attenuated AJ1102-R, complete genome	G2bchinanew.txt	120	G2b	OQ589489.1|attenuated_AJ1102-R|25-Feb-2023|China	25-Feb-2023	missing_or_unparseable_date
+OR001817.1	Porcine epidemic diarrhea virus isolate A22073101 spike protein (S) gene, complete cds	G2bchinanew.txt	167	G2b	OR001817.1|A22073101|31-Jul-2022|China	31-Jul-2022	missing_or_unparseable_date
+OR479072.1	Porcine epidemic diarrhea virus isolate CH/GD2101 spike protein (S) gene, complete cds	G2bchinanew.txt	113	G2b	OR479072.1|CH/GD2101|NA|China	N/A	missing_or_unparseable_date
+OR479073.1	Porcine epidemic diarrhea virus isolate CH/GD2201 spike protein (S) gene, complete cds	G2bchinanew.txt	177	G2b	OR479073.1|CH/GD2201|NA|China	N/A	missing_or_unparseable_date
+OR479074.1	Porcine epidemic diarrhea virus isolate CH/GD2301 spike protein (S) gene, complete cds	G2bchinanew.txt	181	G2b	OR479074.1|CH/GD2301|NA|China	N/A	missing_or_unparseable_date
+OR479075.1	Porcine epidemic diarrhea virus isolate CH/GX2101 spike protein (S) gene, complete cds	G2bchinanew.txt	110	G2b	OR479075.1|CH/GX2101|NA|China	N/A	missing_or_unparseable_date
+OR479076.1	Porcine epidemic diarrhea virus isolate CH/GX2201 spike protein (S) gene, complete cds	G2bchinanew.txt	155	G2b	OR479076.1|CH/GX2201|NA|China	N/A	missing_or_unparseable_date
+OR479077.1	Porcine epidemic diarrhea virus isolate CH/GX2301 spike protein (S) gene, complete cds	G2bchinanew.txt	65	G2b	OR479077.1|CH/GX2301|NA|China	N/A	missing_or_unparseable_date
+OR479078.1	Porcine epidemic diarrhea virus isolate CH/JX2101 spike protein (S) gene, complete cds	G2bchinanew.txt	131	G2b	OR479078.1|CH/JX2101|NA|China	N/A	missing_or_unparseable_date
+OR479079.1	Porcine epidemic diarrhea virus isolate CH/JX2201 spike protein (S) gene, complete cds	G2bchinanew.txt	149	G2b	OR479079.1|CH/JX2201|NA|China	N/A	missing_or_unparseable_date
+PP395584.1	Porcine epidemic diarrhea virus strain SC2022YA spike protein (S) gene, complete cds	G2bchinanew.txt	44	G2b	PP395584.1|SC2022YA|11-Feb-2022|China	11-Feb-2022	missing_or_unparseable_date
+PV164728.1	Porcine epidemic diarrhea virus isolate PEDV ZJ23TZ0201-01 spike protein (S) gene, complete cds	G2bchinanew.txt	130	G2b	PV164728.1|PEDV_ZJ23TZ0201-01|07-Feb-2023|China	07-Feb-2023	missing_or_unparseable_date
+PV536080.1	Porcine epidemic diarrhea virus isolate PEDV-GDYL30-2022, partial genome	G2bchinanew.txt	153	G2b	PV536080.1|PEDV-GDYL30-2022|01-Dec-2022|China	01-Dec-2022	missing_or_unparseable_date
+PV536081.1	Porcine epidemic diarrhea virus isolate PEDV-GDYL9-2022, partial genome	G2bchinanew.txt	154	G2b	PV536081.1|PEDV-GDYL9-2022|01-Dec-2022|China	01-Dec-2022	missing_or_unparseable_date
+PV536106.1	Porcine epidemic diarrhea virus isolate PEDV-NMBB15-2023, partial genome	G2bchinanew.txt	144	G2b	PV536106.1|PEDV-NMBB15-2023|17-Sep-2023|China	17-Sep-2023	missing_or_unparseable_date
+KF840551.1	Porcine epidemic diarrhea virus isolate CH/HuBWHYQ/2012 spike protein (S), hypothetical protein (ORF3), envelope protein (E), membrane protein (M), and nucleocapsid protein (N) genes, complete cds	G2cchinanew.txt	10	G2c	KF840551.1|CH/HuBWHYQ/2012|24-Sep-2012|China	24-Sep-2012	missing_or_unparseable_date
+KR153326.1	Porcine epidemic diarrhea virus strain CH/GDZHDM/1401, complete genome	G2cchinanew.txt	152	G2c	KR153326.1|CH/GDZHDM/1401|04-Jan-2014|China	04-Jan-2014	missing_or_unparseable_date
+KR809885.1	Porcine epidemic diarrhea virus isolate CH/HNAY/2015, complete genome	G2cchinanew.txt	219	G2c	KR809885.1|CH/HNAY/2015|18-Mar-2015|China	18-Mar-2015	missing_or_unparseable_date
+KT199103.1	Porcine epidemic diarrhea virus isolate CH/HNLH/2015, complete genome	G2cchinanew.txt	127	G2c	KT199103.1|CH/HNLH/2015|01-Jun-2015|China	01-Jun-2015	missing_or_unparseable_date
+KT239505.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHFY-1 spike protein-like gene, complete sequence	G2cchinanew.txt	51	G2c	KT239505.1|AHFY-1|NA|China	N/A	missing_or_unparseable_date
+KT239507.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHSZ-1 spike protein-like gene, complete sequence	G2cchinanew.txt	135	G2c	KT239507.1|AHSZ-1|NA|China	N/A	missing_or_unparseable_date
+KT239511.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHHF-3 spike protein-like gene, complete sequence	G2cchinanew.txt	141	G2c	KT239511.1|AHHF-3|NA|China	N/A	missing_or_unparseable_date
+KT239512.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHCZ-1 spike protein-like gene, complete sequence	G2cchinanew.txt	31	G2c	KT239512.1|AHCZ-1|NA|China	N/A	missing_or_unparseable_date
+KT239516.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHLA-1 spike protein-like gene, complete sequence	G2cchinanew.txt	21	G2c	KT239516.1|AHLA-1|NA|China	N/A	missing_or_unparseable_date
+KT239518.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHTL-1 spike protein-like gene, complete sequence	G2cchinanew.txt	160	G2c	KT239518.1|AHTL-1|NA|China	N/A	missing_or_unparseable_date
+KT239519.1	UNVERIFIED: Porcine epidemic diarrhea virus strain AHBZ-1 spike protein-like gene, complete sequence	G2cchinanew.txt	49	G2c	KT239519.1|AHBZ-1|NA|China	N/A	missing_or_unparseable_date
+KT388410.1	Porcine epidemic diarrhea virus isolate CH-YYC-2025 spike glycoprotein gene, complete cds	G2cchinanew.txt	162	G2c	KT388410.1|CH-YYC-2025|08-Jan-2015|China	08-Jan-2015	missing_or_unparseable_date
+KT388413.1	Porcine epidemic diarrhea virus isolate CH-XDC-2015 spike glycoprotein gene, complete cds	G2cchinanew.txt	124	G2c	KT388413.1|CH-XDC-2015|10-Mar-2015|China	10-Mar-2015	missing_or_unparseable_date
+KU133236.1	Porcine epidemic diarrhea virus isolate CH-SDDP-1-2014 spike protein (S) gene, complete cds	G2cchinanew.txt	53	G2c	KU133236.1|CH-SDDP-1-2014|01-Apr-2014|China	01-Apr-2014	missing_or_unparseable_date
+KU133238.1	Porcine epidemic diarrhea virus isolate CH-SDDP-3-2014 spike protein (S) gene, complete cds	G2cchinanew.txt	171	G2c	KU133238.1|CH-SDDP-3-2014|04-Apr-2014|China	04-Apr-2014	missing_or_unparseable_date
+KU133247.1	Porcine epidemic diarrhea virus isolate CH-SDLS-1-2014 spike protein (S) gene, complete cds	G2cchinanew.txt	176	G2c	KU133247.1|CH-SDLS-1-2014|09-Mar-2014|China	09-Mar-2014	missing_or_unparseable_date
+KU133248.1	Porcine epidemic diarrhea virus isolate CH-SDLS-2-2014 spike protein (S) gene, complete cds	G2cchinanew.txt	177	G2c	KU133248.1|CH-SDLS-2-2014|09-Mar-2014|China	09-Mar-2014	missing_or_unparseable_date
+KU133250.1	Porcine epidemic diarrhea virus isolate CH-SDLY-1-2013 spike protein (S) gene, complete cds	G2cchinanew.txt	151	G2c	KU133250.1|CH-SDLY-1-2013|26-Dec-2013|China	26-Dec-2013	missing_or_unparseable_date
+KU133251.1	Porcine epidemic diarrhea virus isolate CH-SDLY-1-2014 spike protein (S) gene, complete cds	G2cchinanew.txt	175	G2c	KU133251.1|CH-SDLY-1-2014|12-Nov-2014|China	12-Nov-2014	missing_or_unparseable_date
+KU133259.1	Porcine epidemic diarrhea virus isolate CH-SDQF-4-2014 spike protein (S) gene, complete cds	G2cchinanew.txt	172	G2c	KU133259.1|CH-SDQF-4-2014|04-Apr-2014|China	04-Apr-2014	missing_or_unparseable_date
+KU133269.1	Porcine epidemic diarrhea virus isolate CH-SDZC-2015 spike protein (S) gene, complete cds	G2cchinanew.txt	33	G2c	KU133269.1|CH-SDZC-2015|20-Apr-2015|China	20-Apr-2015	missing_or_unparseable_date
+KU237217.1	Porcine epidemic diarrhea virus strain HJ S protein (S) gene, complete cds	G2cchinanew.txt	220	G2c	KU237217.1|CH/HJ/2015|01-Feb-2015|China	01-Feb-2015	missing_or_unparseable_date
+KU237219.1	Porcine epidemic diarrhea virus strain JY S protein (S) gene, complete cds	G2cchinanew.txt	216	G2c	KU237219.1|CH/JY/2015|01-Feb-2015|China	01-Feb-2015	missing_or_unparseable_date
+KU237220.1	Porcine epidemic diarrhea virus strain KF S protein (S) gene, complete cds	G2cchinanew.txt	123	G2c	KU237220.1|CH/KF/2015|01-Feb-2015|China	01-Feb-2015	missing_or_unparseable_date
+KU237222.1	Porcine epidemic diarrhea virus strain MZ S protein (S) gene, complete cds	G2cchinanew.txt	173	G2c	KU237222.1|CH/MZ/2014|01-Oct-2014|China	01-Oct-2014	missing_or_unparseable_date
+KU237223.1	Porcine epidemic diarrhea virus strain NH S protein (S) gene, complete cds	G2cchinanew.txt	170	G2c	KU237223.1|CH/NH/2015|01-Mar-2015|China	01-Mar-2015	missing_or_unparseable_date
+KU237224.1	Porcine epidemic diarrhea virus strain PDS S protein (S) gene, complete cds	G2cchinanew.txt	130	G2c	KU237224.1|CH/PDS/2015|01-Apr-2015|China	01-Apr-2015	missing_or_unparseable_date
+KU237225.1	Porcine epidemic diarrhea virus strain QX1 S protein (S) gene, complete cds	G2cchinanew.txt	155	G2c	KU237225.1|CH/QX1/2014|01-Sep-2014|China	01-Sep-2014	missing_or_unparseable_date
+KU237226.1	Porcine epidemic diarrhea virus strain QX2 S protein (S) gene, complete cds	G2cchinanew.txt	154	G2c	KU237226.1|CH/QX2/2014|01-Sep-2014|China	01-Sep-2014	missing_or_unparseable_date
+KU237227.1	Porcine epidemic diarrhea virus strain QX3 S protein (S) gene, complete cds	G2cchinanew.txt	156	G2c	KU237227.1|CH/QX3/2014|01-Sep-2014|China	01-Sep-2014	missing_or_unparseable_date
+KU237229.1	Porcine epidemic diarrhea virus strain WZ1 S protein (S) gene, complete cds	G2cchinanew.txt	217	G2c	KU237229.1|CH/WZ1/2014|01-Dec-2014|China	01-Dec-2014	missing_or_unparseable_date
+KU237230.1	Porcine epidemic diarrhea virus strain WZ2 S protein (S) gene, complete cds	G2cchinanew.txt	218	G2c	KU237230.1|CH/WZ2/2014|01-Dec-2014|China	01-Dec-2014	missing_or_unparseable_date
+KU237231.1	Porcine epidemic diarrhea virus strain XX S protein (S) gene, complete cds	G2cchinanew.txt	149	G2c	KU237231.1|CH/XX/2015|01-Apr-2015|China	01-Apr-2015	missing_or_unparseable_date
+KU237233.1	UNVERIFIED: Porcine epidemic diarrhea virus strain YZ1 S protein (S) gene, complete cds	G2cchinanew.txt	174	G2c	KU237233.1|CH/YZ1/2015|01-May-2015|China	01-May-2015	missing_or_unparseable_date
+KU252649.1	Porcine epidemic diarrhea virus strain YC2014, complete genome	G2cchinanew.txt	196	G2c	KU252649.1|YC2014|08-May-2014|China	08-May-2014	missing_or_unparseable_date
+KU743294.1	Porcine epidemic diarrhea virus strain AHCZ-2 spike protein (S) gene, complete cds	G2cchinanew.txt	136	G2c	KU743294.1|AHCZ-2|NA|China	N/A	missing_or_unparseable_date
+KU743295.1	Porcine epidemic diarrhea virus strain AHAQ-2 spike protein (S) gene, complete cds	G2cchinanew.txt	139	G2c	KU743295.1|AHAQ-2|NA|China	N/A	missing_or_unparseable_date
+KU743296.1	Porcine epidemic diarrhea virus strain AHSZ-2 spike protein (S) gene, complete cds	G2cchinanew.txt	30	G2c	KU743296.1|AHSZ-2|NA|China	N/A	missing_or_unparseable_date
+KU743297.1	Porcine epidemic diarrhea virus strain AHHF-4 spike protein (S) gene, complete cds	G2cchinanew.txt	178	G2c	KU743297.1|AHHF-4|NA|China	N/A	missing_or_unparseable_date
+KU743298.1	Porcine epidemic diarrhea virus strain AHHB-1 spike protein (S) gene, complete cds	G2cchinanew.txt	179	G2c	KU743298.1|AHHB-1|NA|China	N/A	missing_or_unparseable_date
+KU743299.1	Porcine epidemic diarrhea virus strain AHCZ-1 spike protein (S) gene, complete cds	G2cchinanew.txt	24	G2c	KU743299.1|AHCZ-1|NA|China	N/A	missing_or_unparseable_date
+KU975405.1	Porcine epidemic diarrhea virus isolate CH-SCAY-2014 spike protein (S) gene, complete cds	G2cchinanew.txt	52	G2c	KU975405.1|CH-SCAY-2014|23-Dec-2014|China	23-Dec-2014	missing_or_unparseable_date
+KX016034.1	Porcine epidemic diarrhea virus isolate CH/GDZHDM/1401, complete genome	G2cchinanew.txt	153	G2c	KX016034.1|CH/GDZHDM/1401|04-Jan-2014|China	04-Jan-2014	missing_or_unparseable_date
+KX058031.1	UNVERIFIED: Porcine epidemic diarrhea virus strain CH/JX/01/P0, complete genome	G2cchinanew.txt	125	G2c	KX058031.1|CH/JX/01/P0|05-Dec-2014|China	05-Dec-2014	missing_or_unparseable_date
+KX812524.1	Porcine epidemic diarrhea virus isolate XM2-4, complete genome	G2cchinanew.txt	226	G2c	KX812524.1|XM2-4|01-Aug-2016|China	01-Aug-2016	missing_or_unparseable_date
+KY649107.1	Porcine epidemic diarrhea virus strain CH-HNKF-16, complete genome	G2cchinanew.txt	209	G2c	KY649107.1|CH-HNKF-16|01-May-2016|China	01-May-2016	missing_or_unparseable_date
+KY793536.1	Porcine epidemic diarrhea virus strain CH/GX/2015/750A, complete genome	G2cchinanew.txt	159	G2c	KY793536.1|CH/GX/2015/750A|14-Feb-2015|China	14-Feb-2015	missing_or_unparseable_date
+MF375374.1	Porcine epidemic diarrhea virus isolate CH/JXJA/2017, complete genome	G2cchinanew.txt	805	G2c	MF375374.1|CH/JXJA/2017|21-May-2017|China	21-May-2017	missing_or_unparseable_date
+MF807951.1	Porcine epidemic diarrhea virus strain C3-HB2017, complete genome	G2cchinanew.txt	534	G2c	MF807951.1|C3-HB2017|19-Feb-2017|China	19-Feb-2017	missing_or_unparseable_date
+MG020538.1	Porcine epidemic diarrhea virus isolate CH-AHBB-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	349	G2c	MG020538.1|CH-AHBB-1-2016|13-Sep-2016|China	13-Sep-2016	missing_or_unparseable_date
+MG020539.1	Porcine epidemic diarrhea virus isolate CH-AHHX-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	479	G2c	MG020539.1|CH-AHHX-1-2016|19-Nov-2016|China	19-Nov-2016	missing_or_unparseable_date
+MG020541.1	Porcine epidemic diarrhea virus isolate CH-AHXC-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	476	G2c	MG020541.1|CH-AHXC-1-2016|22-Dec-2016|China	22-Dec-2016	missing_or_unparseable_date
+MG020542.1	Porcine epidemic diarrhea virus isolate CH-HBMC-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	17	G2c	MG020542.1|CH-HBMC-1-2016|17-Nov-2016|China	17-Nov-2016	missing_or_unparseable_date
+MG020543.1	Porcine epidemic diarrhea virus isolate CH-HBMC-2-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	611	G2c	MG020543.1|CH-HBMC-2-2016|17-Nov-2016|China	17-Nov-2016	missing_or_unparseable_date
+MG020545.1	Porcine epidemic diarrhea virus isolate CH-JSZJ-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	18	G2c	MG020545.1|CH-JSZJ-1-2016|11-Apr-2016|China	11-Apr-2016	missing_or_unparseable_date
+MG020546.1	Porcine epidemic diarrhea virus isolate CH-JSZJ-2-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	612	G2c	MG020546.1|CH-JSZJ-2-2016|11-Apr-2016|China	11-Apr-2016	missing_or_unparseable_date
+MG020547.1	Porcine epidemic diarrhea virus isolate CH-JXJJ-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	477	G2c	MG020547.1|CH-JXJJ-1-2016|04-Mar-2016|China	04-Mar-2016	missing_or_unparseable_date
+MG020551.1	Porcine epidemic diarrhea virus isolate CH-ML-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	480	G2c	MG020551.1|CH-ML-1-2016|18-Mar-2016|China	18-Mar-2016	missing_or_unparseable_date
+MG020552.1	Porcine epidemic diarrhea virus isolate CH-ML-2-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	113	G2c	MG020552.1|CH-ML-2-2016|21-Mar-2016|China	21-Mar-2016	missing_or_unparseable_date
+MG020553.1	Porcine epidemic diarrhea virus isolate CH-ZJLS-1-2016 spike protein (S) gene, complete cds	G2cchinanew.txt	110	G2c	MG020553.1|CH-ZJLS-1-2016|07-Dec-2016|China	07-Dec-2016	missing_or_unparseable_date
+MH053412.1	Porcine epidemic diarrhea virus isolate CH/SCMZ/2017 spike protein (S) gene, complete cds	G2cchinanew.txt	99	G2c	MH053412.1|CH/SCMZ/2017|05-Jan-2017|China	05-Jan-2017	missing_or_unparseable_date
+MH053413.1	Porcine epidemic diarrhea virus isolate CH/SCSH/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	106	G2c	MH053413.1|CH/SCSH/2018|23-Jan-2018|China	23-Jan-2018	missing_or_unparseable_date
+MH053418.1	Porcine epidemic diarrhea virus isolate CH/SCAZ1/2017 spike protein (S) gene, complete cds	G2cchinanew.txt	423	G2c	MH053418.1|CH/SCAZ1/2017|18-Sep-2017|China	18-Sep-2017	missing_or_unparseable_date
+MH053419.1	Porcine epidemic diarrhea virus isolate CH/SCCZ/2017 spike protein (S) gene, complete cds	G2cchinanew.txt	325	G2c	MH053419.1|CH/SCCZ/2017|04-Mar-2017|China	04-Mar-2017	missing_or_unparseable_date
+MH053420.1	Porcine epidemic diarrhea virus isolate CH/SCJY/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	344	G2c	MH053420.1|CH/SCJY/2018|05-Mar-2018|China	05-Mar-2018	missing_or_unparseable_date
+MH061337.1	Porcine epidemic diarrhea virus strain CH/SCZG/2017, complete genome	G2cchinanew.txt	402	G2c	MH061337.1|CH/SCZG/2017|05-Jan-2017|China	05-Jan-2017	missing_or_unparseable_date
+MH061339.1	Porcine epidemic diarrhea virus strain CH/SCAZ10/2017, complete genome	G2cchinanew.txt	424	G2c	MH061339.1|CH/SCAZ10/2017|27-Nov-2017|China	27-Nov-2017	missing_or_unparseable_date
+MH061340.1	Porcine epidemic diarrhea virus strain CH/SCZY103/2017, complete genome	G2cchinanew.txt	98	G2c	MH061340.1|CH/SCZY103/2017|01-Dec-2017|China	01-Dec-2017	missing_or_unparseable_date
+MH061341.1	Porcine epidemic diarrhea virus strain CH/SCLS/2018, complete genome	G2cchinanew.txt	377	G2c	MH061341.1|CH/SCLS/2018|12-Jan-2018|China	12-Jan-2018	missing_or_unparseable_date
+MH581489.1	Porcine epidemic diarrhea virus isolate CH/HBTS/2017, complete genome	G2cchinanew.txt	488	G2c	MH581489.1|CH/HBTS/2017|20-Jul-2017|China	20-Jul-2017	missing_or_unparseable_date
+MH593139.1	Porcine epidemic diarrhea virus isolate CH/SCSH425/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	107	G2c	MH593139.1|CH/SCSH425/2018|25-Apr-2018|China	25-Apr-2018	missing_or_unparseable_date
+MH593140.1	Porcine epidemic diarrhea virus isolate CH/SCDY503/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	72	G2c	MH593140.1|CH/SCDY503/2018|03-May-2018|China	03-May-2018	missing_or_unparseable_date
+MH593142.1	Porcine epidemic diarrhea virus isolate CH/SCQL517/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	94	G2c	MH593142.1|CH/SCQL517/2018|17-May-2018|China	17-May-2018	missing_or_unparseable_date
+MH593143.1	Porcine epidemic diarrhea virus isolate CH/SCDL/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	116	G2c	MH593143.1|CH/SCDL/2018|19-May-2018|China	19-May-2018	missing_or_unparseable_date
+MH593144.1	Porcine epidemic diarrhea virus isolate CH/SCDY523/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	504	G2c	MH593144.1|CH/SCDY523/2018|23-May-2018|China	23-May-2018	missing_or_unparseable_date
+MH593145.1	Porcine epidemic diarrhea virus isolate CH/SCSH525/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	97	G2c	MH593145.1|CH/SCSH525/2018|25-May-2018|China	25-May-2018	missing_or_unparseable_date
+MH593146.1	Porcine epidemic diarrhea virus isolate CH/SCZZ/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	95	G2c	MH593146.1|CH/SCZZ/2018|29-May-2018|China	29-May-2018	missing_or_unparseable_date
+MH593147.1	Porcine epidemic diarrhea virus isolate CH/SCPZ/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	581	G2c	MH593147.1|CH/SCPZ/2018|31-May-2018|China	31-May-2018	missing_or_unparseable_date
+MH593149.1	Porcine epidemic diarrhea virus isolate CH/SCYA/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	637	G2c	MH593149.1|CH/SCYA/2018|02-Jun-2018|China	02-Jun-2018	missing_or_unparseable_date
+MH593150.1	Porcine epidemic diarrhea virus isolate CH/SCLS608/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	806	G2c	MH593150.1|CH/SCLS608/2018|08-Jun-2018|China	08-Jun-2018	missing_or_unparseable_date
+MH593151.1	Porcine epidemic diarrhea virus isolate CH/SCXH/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	768	G2c	MH593151.1|CH/SCXH/2018|22-Jun-2018|China	22-Jun-2018	missing_or_unparseable_date
+MH593153.1	Porcine epidemic diarrhea virus isolate CH/SCBC/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	502	G2c	MH593153.1|CH/SCBC/2018|28-Jun-2018|China	28-Jun-2018	missing_or_unparseable_date
+MH593893.1	Porcine epidemic diarrhea virus isolate CH/TP/4-4/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	405	G2c	MH593893.1|CH/TP/4-4/2018|06-Feb-2018|China	06-Feb-2018	missing_or_unparseable_date
+MH593895.1	Porcine epidemic diarrhea virus isolate CH/TP/D15/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	406	G2c	MH593895.1|CH/TP/D15/2018|15-Mar-2018|China	15-Mar-2018	missing_or_unparseable_date
+MH678638.1	Porcine epidemic diarrhea virus isolate CH/SCJY710/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	393	G2c	MH678638.1|CH/SCJY710/2018|10-Jul-2018|China	10-Jul-2018	missing_or_unparseable_date
+MH708243.1	Porcine epidemic diarrhea virus strain H11-SD2017, complete genome	G2cchinanew.txt	497	G2c	MH708243.1|H11-SD2017|01-Sep-2017|China	01-Sep-2017	missing_or_unparseable_date
+MH726371.1	Porcine epidemic diarrhea virus isolate GDS21, complete genome	G2cchinanew.txt	205	G2c	MH726371.1|GDS21|09-Jan-2014|China	09-Jan-2014	missing_or_unparseable_date
+MH726372.1	Porcine epidemic diarrhea virus isolate GDS28, complete genome	G2cchinanew.txt	121	G2c	MH726372.1|GDS28|13-Dec-2012|China	13-Dec-2012	missing_or_unparseable_date
+MH726382.1	Porcine epidemic diarrhea virus isolate GDS47, complete genome	G2cchinanew.txt	35	G2c	MH726382.1|GDS47|18-May-2016|China	18-May-2016	missing_or_unparseable_date
+MH726383.1	Porcine epidemic diarrhea virus isolate GDS50, complete genome	G2cchinanew.txt	427	G2c	MH726383.1|GDS50|27-Feb-2017|China	27-Feb-2017	missing_or_unparseable_date
+MH726402.1	Porcine epidemic diarrhea virus isolate GDS46, complete genome	G2cchinanew.txt	586	G2c	MH726402.1|GDS46|06-May-2016|China	06-May-2016	missing_or_unparseable_date
+MH726403.1	Porcine epidemic diarrhea virus isolate GDS51, complete genome	G2cchinanew.txt	514	G2c	MH726403.1|GDS51|24-Feb-2017|China	24-Feb-2017	missing_or_unparseable_date
+MH726404.1	Porcine epidemic diarrhea virus isolate GDS53, complete genome	G2cchinanew.txt	515	G2c	MH726404.1|GDS53|17-Dec-2017|China	17-Dec-2017	missing_or_unparseable_date
+MH726405.1	Porcine epidemic diarrhea virus isolate GDS48, complete genome	G2cchinanew.txt	507	G2c	MH726405.1|GDS48|06-Dec-2016|China	06-Dec-2016	missing_or_unparseable_date
+MH726406.1	Porcine epidemic diarrhea virus isolate GDS49, complete genome	G2cchinanew.txt	600	G2c	MH726406.1|GDS49|25-Feb-2017|China	25-Feb-2017	missing_or_unparseable_date
+MH726407.1	Porcine epidemic diarrhea virus isolate GDS52, complete genome	G2cchinanew.txt	601	G2c	MH726407.1|GDS52|25-Feb-2017|China	25-Feb-2017	missing_or_unparseable_date
+MH991826.1	Porcine epidemic diarrhea virus strain A3-GD2016 S protein (S) gene, complete cds	G2cchinanew.txt	238	G2c	MH991826.1|A3-GD2016|30-Dec-2016|China	30-Dec-2016	missing_or_unparseable_date
+MH991827.1	Porcine epidemic diarrhea virus strain B10-GD2017 S protein (S) gene, complete cds	G2cchinanew.txt	13	G2c	MH991827.1|B10-GD2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MH991828.1	Porcine epidemic diarrhea virus strain E3-SX2017 S protein (S) gene, complete cds	G2cchinanew.txt	140	G2c	MH991828.1|E3-SX2017|18-Mar-2017|China	18-Mar-2017	missing_or_unparseable_date
+MH991829.1	Porcine epidemic diarrhea virus strain E6-SN2017 S protein (S) gene, complete cds	G2cchinanew.txt	100	G2c	MH991829.1|E6-SN2017|18-Mar-2017|China	18-Mar-2017	missing_or_unparseable_date
+MH991830.1	Porcine epidemic diarrhea virus strain F11-HB2017 S protein (S) gene, complete cds	G2cchinanew.txt	145	G2c	MH991830.1|F11-HB2017|26-May-2017|China	26-May-2017	missing_or_unparseable_date
+MH991831.1	Porcine epidemic diarrhea virus strain F12-HA2017 S protein (S) gene, complete cds	G2cchinanew.txt	36	G2c	MH991831.1|F12-HA2017|26-May-2017|China	26-May-2017	missing_or_unparseable_date
+MH991832.1	Porcine epidemic diarrhea virus strain G2-HE2017 S protein (S) gene, complete cds	G2cchinanew.txt	584	G2c	MH991832.1|G2-HE2017|01-Jun-2017|China	01-Jun-2017	missing_or_unparseable_date
+MH991833.1	Porcine epidemic diarrhea virus strain G7-SC2017 S protein (S) gene, complete cds	G2cchinanew.txt	343	G2c	MH991833.1|G7-SC2017|01-Jun-2017|China	01-Jun-2017	missing_or_unparseable_date
+MH991834.1	Porcine epidemic diarrhea virus strain H13-HA2017 S protein (S) gene, complete cds	G2cchinanew.txt	499	G2c	MH991834.1|H13-HA2017|04-Sep-2017|China	04-Sep-2017	missing_or_unparseable_date
+MH991835.1	Porcine epidemic diarrhea virus strain J3-HA2017 S protein (S) gene, complete cds	G2cchinanew.txt	520	G2c	MH991835.1|J3-HA2017|03-Sep-2017|China	03-Sep-2017	missing_or_unparseable_date
+MH991836.1	Porcine epidemic diarrhea virus strain L6-HB2017 S protein (S) gene, complete cds	G2cchinanew.txt	46	G2c	MH991836.1|L6-HB2017|20-Oct-2017|China	20-Oct-2017	missing_or_unparseable_date
+MH991837.1	Porcine epidemic diarrhea virus strain M3-SX2017 S protein (S) gene, complete cds	G2cchinanew.txt	605	G2c	MH991837.1|M3-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MH991840.1	Porcine epidemic diarrhea virus strain N14-ZJ2017 S protein (S) gene, complete cds	G2cchinanew.txt	2	G2c	MH991840.1|N14-ZJ2017|13-Nov-2017|China	13-Nov-2017	missing_or_unparseable_date
+MH991841.1	Porcine epidemic diarrhea virus strain N5-ZJ2017 S protein (S) gene, complete cds	G2cchinanew.txt	3	G2c	MH991841.1|N5-ZJ2017|13-Nov-2017|China	13-Nov-2017	missing_or_unparseable_date
+MH991844.1	Porcine epidemic diarrhea virus strain P12-HB2017 S protein (S) gene, complete cds	G2cchinanew.txt	146	G2c	MH991844.1|P12-HB2017|15-Dec-2017|China	15-Dec-2017	missing_or_unparseable_date
+MH991845.1	Porcine epidemic diarrhea virus strain PA2-HB2018 S protein (S) gene, complete cds	G2cchinanew.txt	76	G2c	MH991845.1|PA2-HB2018|15-Jun-2018|China	15-Jun-2018	missing_or_unparseable_date
+MH991846.1	Porcine epidemic diarrhea virus strain PA3-GD2018 S protein (S) gene, complete cds	G2cchinanew.txt	428	G2c	MH991846.1|PA3-GD2018|15-Jun-2018|China	15-Jun-2018	missing_or_unparseable_date
+MH991847.1	Porcine epidemic diarrhea virus strain Q10-HB2017 S protein (S) gene, complete cds	G2cchinanew.txt	96	G2c	MH991847.1|Q10-HB2017|22-Dec-2017|China	22-Dec-2017	missing_or_unparseable_date
+MH991848.1	Porcine epidemic diarrhea virus strain Q1-AH2017 S protein (S) gene, complete cds	G2cchinanew.txt	770	G2c	MH991848.1|Q1-AH2017|22-Dec-2017|China	22-Dec-2017	missing_or_unparseable_date
+MH991849.1	Porcine epidemic diarrhea virus strain R3-GD2017 S protein (S) gene, complete cds	G2cchinanew.txt	563	G2c	MH991849.1|R3-GD2017|29-Dec-2017|China	29-Dec-2017	missing_or_unparseable_date
+MH991850.1	Porcine epidemic diarrhea virus strain S1-GD2018 S protein (S) gene, complete cds	G2cchinanew.txt	223	G2c	MH991850.1|S1-GD2018|23-Jan-2018|China	23-Jan-2018	missing_or_unparseable_date
+MH991851.1	Porcine epidemic diarrhea virus strain T10-HB2018 S protein (S) gene, complete cds	G2cchinanew.txt	470	G2c	MH991851.1|T10-HB2018|02-Feb-2018|China	02-Feb-2018	missing_or_unparseable_date
+MH991852.1	Porcine epidemic diarrhea virus strain T5-HA2018 S protein (S) gene, complete cds	G2cchinanew.txt	353	G2c	MH991852.1|T5-HA2018|02-Feb-2018|China	02-Feb-2018	missing_or_unparseable_date
+MH991853.1	Porcine epidemic diarrhea virus strain U2-HA2018 S protein (S) gene, complete cds	G2cchinanew.txt	392	G2c	MH991853.1|U2-HA2018|07-Feb-2018|China	07-Feb-2018	missing_or_unparseable_date
+MH991854.1	Porcine epidemic diarrhea virus strain V1-HB2018 S protein (S) gene, complete cds	G2cchinanew.txt	87	G2c	MH991854.1|V1-HB2018|09-Mar-2018|China	09-Mar-2018	missing_or_unparseable_date
+MH991856.1	Porcine epidemic diarrhea virus strain W3-AH2018 S protein (S) gene, complete cds	G2cchinanew.txt	351	G2c	MH991856.1|W3-AH2018|23-Mar-2018|China	23-Mar-2018	missing_or_unparseable_date
+MH991857.1	Porcine epidemic diarrhea virus strain W6-HB2018 S protein (S) gene, complete cds	G2cchinanew.txt	769	G2c	MH991857.1|W6-HB2018|23-Mar-2018|China	23-Mar-2018	missing_or_unparseable_date
+MH991858.1	Porcine epidemic diarrhea virus strain W8-JS2018 S protein (S) gene, complete cds	G2cchinanew.txt	365	G2c	MH991858.1|W8-JS2018|23-Mar-2018|China	23-Mar-2018	missing_or_unparseable_date
+MH991859.1	Porcine epidemic diarrhea virus strain X2-GD2018 S protein (S) gene, complete cds	G2cchinanew.txt	778	G2c	MH991859.1|X2-GD2018|13-Apr-2018|China	13-Apr-2018	missing_or_unparseable_date
+MH991860.1	Porcine epidemic diarrhea virus strain Y11-FJ2018 S protein (S) gene, complete cds	G2cchinanew.txt	433	G2c	MH991860.1|Y11-FJ2018|27-Apr-2018|China	27-Apr-2018	missing_or_unparseable_date
+MH991861.1	Porcine epidemic diarrhea virus strain Y17-ZJ2018 S protein (S) gene, complete cds	G2cchinanew.txt	622	G2c	MH991861.1|Y17-ZJ2018|27-Apr-2018|China	27-Apr-2018	missing_or_unparseable_date
+MH991862.1	Porcine epidemic diarrhea virus strain Y1-HA2018 S protein (S) gene, complete cds	G2cchinanew.txt	212	G2c	MH991862.1|Y1-HA2018|27-Apr-2018|China	27-Apr-2018	missing_or_unparseable_date
+MH991863.1	Porcine epidemic diarrhea virus strain Y2-HA2018 S protein (S) gene, complete cds	G2cchinanew.txt	478	G2c	MH991863.1|Y2-HA2018|27-Apr-2018|China	27-Apr-2018	missing_or_unparseable_date
+MH991866.1	Porcine epidemic diarrhea virus strain Z1-HB2018 S protein (S) gene, complete cds	G2cchinanew.txt	797	G2c	MH991866.1|Z1-HB2018|28-May-2018|China	28-May-2018	missing_or_unparseable_date
+MH991867.1	Porcine epidemic diarrhea virus strain Z7-HA2018 S protein (S) gene, complete cds	G2cchinanew.txt	371	G2c	MH991867.1|Z7-HA2018|28-May-2018|China	28-May-2018	missing_or_unparseable_date
+MH991868.1	Porcine epidemic diarrhea virus strain Z8-HB2018 S protein (S) gene, complete cds	G2cchinanew.txt	798	G2c	MH991868.1|Z8-HB2018|28-May-2018|China	28-May-2018	missing_or_unparseable_date
+MK532982.1	Porcine epidemic diarrhea virus strain A2-GD2016 spike protein (S) gene, complete cds	G2cchinanew.txt	239	G2c	MK532982.1|A2-GD2016|30-Dec-2016|China	30-Dec-2016	missing_or_unparseable_date
+MK532989.1	Porcine epidemic diarrhea virus strain B9-GD2017 spike protein (S) gene, complete cds	G2cchinanew.txt	14	G2c	MK532989.1|B9-GD2017|17-Feb-2017|China	17-Feb-2017	missing_or_unparseable_date
+MK532990.1	Porcine epidemic diarrhea virus strain C1-GD2017 spike protein (S) gene, complete cds	G2cchinanew.txt	535	G2c	MK532990.1|C1-GD2017|19-Feb-2017|China	19-Feb-2017	missing_or_unparseable_date
+MK532991.1	Porcine epidemic diarrhea virus strain C2-HB2017 spike protein (S) gene, complete cds	G2cchinanew.txt	536	G2c	MK532991.1|C2-HB2017|19-Feb-2017|China	19-Feb-2017	missing_or_unparseable_date
+MK532992.1	Porcine epidemic diarrhea virus strain E5-SN2017 spike protein (S) gene, complete cds	G2cchinanew.txt	101	G2c	MK532992.1|E5-SN2017|18-Mar-2017|China	18-Mar-2017	missing_or_unparseable_date
+MK532993.1	Porcine epidemic diarrhea virus strain F14-HA2017 spike protein (S) gene, complete cds	G2cchinanew.txt	37	G2c	MK532993.1|F14-HA2017|26-May-2017|China	26-May-2017	missing_or_unparseable_date
+MK532994.1	Porcine epidemic diarrhea virus strain H1-SD2017 spike protein (S) gene, complete cds	G2cchinanew.txt	498	G2c	MK532994.1|H1-SD2017|04-Sep-2017|China	04-Sep-2017	missing_or_unparseable_date
+MK532995.1	Porcine epidemic diarrhea virus strain L1-HB2017 spike protein (S) gene, complete cds	G2cchinanew.txt	45	G2c	MK532995.1|L1-HB2017|20-Oct-2017|China	20-Oct-2017	missing_or_unparseable_date
+MK532996.1	Porcine epidemic diarrhea virus strain M5-SX2017 spike protein (S) gene, complete cds	G2cchinanew.txt	91	G2c	MK532996.1|M5-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MK532997.1	Porcine epidemic diarrhea virus strain M6-SX2017 spike protein (S) gene, complete cds	G2cchinanew.txt	92	G2c	MK532997.1|M6-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MK532998.1	Porcine epidemic diarrhea virus strain M11-SX2017 spike protein (S) gene, complete cds	G2cchinanew.txt	607	G2c	MK532998.1|M11-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MK532999.1	Porcine epidemic diarrhea virus strain M12-SX2017 spike protein (S) gene, complete cds	G2cchinanew.txt	609	G2c	MK532999.1|M12-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MK533000.1	Porcine epidemic diarrhea virus strain M13-SX2017 spike protein (S) gene, complete cds	G2cchinanew.txt	610	G2c	MK533000.1|M13-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MK533001.1	Porcine epidemic diarrhea virus strain M16-SX2017 spike protein (S) gene, complete cds	G2cchinanew.txt	608	G2c	MK533001.1|M16-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MK533003.1	Porcine epidemic diarrhea virus strain N12-GD2017 spike protein (S) gene, complete cds	G2cchinanew.txt	750	G2c	MK533003.1|N12-GD2017|13-Nov-2017|China	13-Nov-2017	missing_or_unparseable_date
+MK533005.1	Porcine epidemic diarrhea virus strain P13-HB2017 spike protein (S) gene, complete cds	G2cchinanew.txt	147	G2c	MK533005.1|P13-HB2017|15-Dec-2017|China	15-Dec-2017	missing_or_unparseable_date
+MK533006.1	Porcine epidemic diarrhea virus strain PA4-GD2018 spike protein (S) gene, complete cds	G2cchinanew.txt	429	G2c	MK533006.1|PA4-GD2018|15-Jun-2018|China	15-Jun-2018	missing_or_unparseable_date
+MK533007.1	Porcine epidemic diarrhea virus strain PB1-SD2018 spike protein (S) gene, complete cds	G2cchinanew.txt	426	G2c	MK533007.1|PB1-SD2018|29-Jun-2018|China	29-Jun-2018	missing_or_unparseable_date
+MK533008.1	Porcine epidemic diarrhea virus strain Q2-AH2017 spike protein (S) gene, complete cds	G2cchinanew.txt	771	G2c	MK533008.1|Q2-AH2017|22-Dec-2017|China	22-Dec-2017	missing_or_unparseable_date
+MK533009.1	Porcine epidemic diarrhea virus strain S2-GD2018 spike protein (S) gene, complete cds	G2cchinanew.txt	505	G2c	MK533009.1|S2-GD2018|23-Jan-2018|China	23-Jan-2018	missing_or_unparseable_date
+MK533010.1	Porcine epidemic diarrhea virus strain V15-HB2018 spike protein (S) gene, complete cds	G2cchinanew.txt	88	G2c	MK533010.1|V15-HB2018|09-Mar-2018|China	09-Mar-2018	missing_or_unparseable_date
+MK606369.1	Porcine epidemic diarrhea virus isolate CH-HB2-2018, complete genome	G2cchinanew.txt	102	G2c	MK606369.1|CH-HB2-2018|06-Aug-2018|China	06-Aug-2018	missing_or_unparseable_date
+MK628688.1	Porcine epidemic diarrhea virus spike protein gene, complete cds	G2cchinanew.txt	65	G2c	MK628688.1|NA|26-Jan-2018|China	26-Jan-2018	missing_or_unparseable_date
+MK644601.1	Porcine epidemic diarrhea virus isolate G2-HE2017, complete genome	G2cchinanew.txt	585	G2c	MK644601.1|G2-HE2017|01-Jun-2017|China	01-Jun-2017	missing_or_unparseable_date
+MK644602.1	Porcine epidemic diarrhea virus isolate L6-HB2017, complete genome	G2cchinanew.txt	47	G2c	MK644602.1|L6-HB2017|20-Oct-2017|China	20-Oct-2017	missing_or_unparseable_date
+MK644603.1	Porcine epidemic diarrhea virus isolate M3-SX2017, complete genome	G2cchinanew.txt	606	G2c	MK644603.1|M3-SX2017|27-Oct-2017|China	27-Oct-2017	missing_or_unparseable_date
+MK644605.1	Porcine epidemic diarrhea virus isolate T10-HB2018, complete genome	G2cchinanew.txt	471	G2c	MK644605.1|T10-HB2018|02-Feb-2018|China	02-Feb-2018	missing_or_unparseable_date
+MK656505.1	Porcine epidemic diarrhea virus strain JN1806-24 S protein gene, partial cds	G2cchinanew.txt	54	G2c	MK656505.1|JN1806-24|26-Jun-2018|China	26-Jun-2018	missing_or_unparseable_date
+MK656506.1	Porcine epidemic diarrhea virus strain JN1806-28 S protein gene, partial cds	G2cchinanew.txt	767	G2c	MK656506.1|JN1806-28|27-Jun-2018|China	27-Jun-2018	missing_or_unparseable_date
+MK656507.1	Porcine epidemic diarrhea virus strain JN1806-31 S protein gene, complete cds	G2cchinanew.txt	503	G2c	MK656507.1|JN1806-31|10-Jun-2018|China	10-Jun-2018	missing_or_unparseable_date
+MN368665.1	Porcine epidemic diarrhea virus isolate FJzz15 spike protein (S) gene, complete cds	G2cchinanew.txt	64	G2c	MN368665.1|FJzz15|NA|China	N/A	missing_or_unparseable_date
+MN368668.1	Porcine epidemic diarrhea virus isolate GDhy15 spike protein (S) gene, complete cds	G2cchinanew.txt	7	G2c	MN368668.1|GDhy15|NA|China	N/A	missing_or_unparseable_date
+MN368669.1	Porcine epidemic diarrhea virus isolate GDhz15 spike protein (S) gene, complete cds	G2cchinanew.txt	6	G2c	MN368669.1|GDhz15|NA|China	N/A	missing_or_unparseable_date
+MN368670.1	Porcine epidemic diarrhea virus isolate GDjm15 spike protein (S) gene, complete cds	G2cchinanew.txt	134	G2c	MN368670.1|GDjm15|NA|China	N/A	missing_or_unparseable_date
+MN368672.1	Porcine epidemic diarrhea virus isolate GDsg15-1 spike protein (S) gene, complete cds	G2cchinanew.txt	8	G2c	MN368672.1|GDsg15-1|NA|China	N/A	missing_or_unparseable_date
+MN368677.1	Porcine epidemic diarrhea virus isolate GDzq15-3 spike protein (S) gene, complete cds	G2cchinanew.txt	34	G2c	MN368677.1|GDzq15-3|NA|China	N/A	missing_or_unparseable_date
+MN368678.1	Porcine epidemic diarrhea virus isolate GXnn15 spike protein (S) gene, complete cds	G2cchinanew.txt	5	G2c	MN368678.1|GXnn15|NA|China	N/A	missing_or_unparseable_date
+MN368679.1	Porcine epidemic diarrhea virus isolate GZgy15 spike protein (S) gene, complete cds	G2cchinanew.txt	150	G2c	MN368679.1|GZgy15|NA|China	N/A	missing_or_unparseable_date
+MN368681.1	Porcine epidemic diarrhea virus isolate JXgz15 spike protein (S) gene, complete cds	G2cchinanew.txt	66	G2c	MN368681.1|JXgz15|NA|China	N/A	missing_or_unparseable_date
+MN368682.1	Porcine epidemic diarrhea virus isolate GDzq16 spike protein (S) gene, complete cds	G2cchinanew.txt	25	G2c	MN368682.1|GDzq16|NA|China	N/A	missing_or_unparseable_date
+MN368683.1	Porcine epidemic diarrhea virus isolate FJqz16 spike protein (S) gene, complete cds	G2cchinanew.txt	527	G2c	MN368683.1|FJqz16|NA|China	N/A	missing_or_unparseable_date
+MN368684.1	Porcine epidemic diarrhea virus isolate GDfs16 spike protein (S) gene, complete cds	G2cchinanew.txt	524	G2c	MN368684.1|GDfs16|NA|China	N/A	missing_or_unparseable_date
+MN368685.1	Porcine epidemic diarrhea virus isolate GDhy16 spike protein (S) gene, complete cds	G2cchinanew.txt	26	G2c	MN368685.1|GDhy16|NA|China	N/A	missing_or_unparseable_date
+MN368686.1	Porcine epidemic diarrhea virus isolate GDhz16 spike protein (S) gene, complete cds	G2cchinanew.txt	38	G2c	MN368686.1|GDhz16|NA|China	N/A	missing_or_unparseable_date
+MN368687.1	Porcine epidemic diarrhea virus isolate GDjm16-1 spike protein (S) gene, complete cds	G2cchinanew.txt	595	G2c	MN368687.1|GDjm16-1|NA|China	N/A	missing_or_unparseable_date
+MN368689.1	Porcine epidemic diarrhea virus isolate GDjx16 spike protein (S) gene, complete cds	G2cchinanew.txt	571	G2c	MN368689.1|GDjx16|NA|China	N/A	missing_or_unparseable_date
+MN368690.1	Porcine epidemic diarrhea virus isolate GDsg16-1 spike protein (S) gene, complete cds	G2cchinanew.txt	526	G2c	MN368690.1|GDsg16-1|NA|China	N/A	missing_or_unparseable_date
+MN368691.1	Porcine epidemic diarrhea virus isolate GDsg16-2 spike protein (S) gene, complete cds	G2cchinanew.txt	413	G2c	MN368691.1|GDsg16-2|NA|China	N/A	missing_or_unparseable_date
+MN368692.1	Porcine epidemic diarrhea virus isolate GDyj16 spike protein (S) gene, complete cds	G2cchinanew.txt	39	G2c	MN368692.1|GDyj16|NA|China	N/A	missing_or_unparseable_date
+MN368693.1	Porcine epidemic diarrhea virus isolate GDdg17 spike protein (S) gene, complete cds	G2cchinanew.txt	525	G2c	MN368693.1|GDdg17|NA|China	N/A	missing_or_unparseable_date
+MN368695.1	Porcine epidemic diarrhea virus isolate FJfz17-1 spike protein (S) gene, complete cds	G2cchinanew.txt	56	G2c	MN368695.1|FJfz17-1|NA|China	N/A	missing_or_unparseable_date
+MN368698.1	Porcine epidemic diarrhea virus isolate FJqz17-2 spike protein (S) gene, complete cds	G2cchinanew.txt	572	G2c	MN368698.1|FJqz17-2|NA|China	N/A	missing_or_unparseable_date
+MN368699.1	Porcine epidemic diarrhea virus isolate GDhy17 spike protein (S) gene, complete cds	G2cchinanew.txt	564	G2c	MN368699.1|GDhy17|NA|China	N/A	missing_or_unparseable_date
+MN368703.1	Porcine epidemic diarrhea virus isolate GDjm17-3 spike protein (S) gene, complete cds	G2cchinanew.txt	627	G2c	MN368703.1|GDjm17-3|NA|China	N/A	missing_or_unparseable_date
+MN368704.1	Porcine epidemic diarrhea virus isolate GDmm17-1 spike protein (S) gene, complete cds	G2cchinanew.txt	566	G2c	MN368704.1|GDmm17-1|NA|China	N/A	missing_or_unparseable_date
+MN368705.1	Porcine epidemic diarrhea virus isolate GDmm17-2 spike protein (S) gene, complete cds	G2cchinanew.txt	565	G2c	MN368705.1|GDmm17-2|NA|China	N/A	missing_or_unparseable_date
+MN368707.1	Porcine epidemic diarrhea virus isolate HNcz17 spike protein (S) gene, complete cds	G2cchinanew.txt	211	G2c	MN368707.1|HNcz17|NA|China	N/A	missing_or_unparseable_date
+MN368708.1	Porcine epidemic diarrhea virus isolate JXnc17 spike protein (S) gene, complete cds	G2cchinanew.txt	506	G2c	MN368708.1|JXnc17|NA|China	N/A	missing_or_unparseable_date
+MN368709.1	Porcine epidemic diarrhea virus isolate SDbz18 spike protein (S) gene, complete cds	G2cchinanew.txt	302	G2c	MN368709.1|SDbz18|NA|China	N/A	missing_or_unparseable_date
+MN368711.1	Porcine epidemic diarrhea virus isolate FJfz18-2 spike protein (S) gene, complete cds	G2cchinanew.txt	472	G2c	MN368711.1|FJfz18-2|NA|China	N/A	missing_or_unparseable_date
+MN368712.1	Porcine epidemic diarrhea virus isolate FJqz18 spike protein (S) gene, complete cds	G2cchinanew.txt	253	G2c	MN368712.1|FJqz18|NA|China	N/A	missing_or_unparseable_date
+MN368713.1	Porcine epidemic diarrhea virus isolate GDhy18-1 spike protein (S) gene, complete cds	G2cchinanew.txt	398	G2c	MN368713.1|GDhy18-1|NA|China	N/A	missing_or_unparseable_date
+MN368714.1	Porcine epidemic diarrhea virus isolate GDhy18-2 spike protein (S) gene, complete cds	G2cchinanew.txt	397	G2c	MN368714.1|GDhy18-2|NA|China	N/A	missing_or_unparseable_date
+MN368715.1	Porcine epidemic diarrhea virus isolate GDhy18-3 spike protein (S) gene, complete cds	G2cchinanew.txt	364	G2c	MN368715.1|GDhy18-3|NA|China	N/A	missing_or_unparseable_date
+MN368716.1	Porcine epidemic diarrhea virus isolate GDhz18 spike protein (S) gene, complete cds	G2cchinanew.txt	303	G2c	MN368716.1|GDhz18|NA|China	N/A	missing_or_unparseable_date
+MN368717.1	Porcine epidemic diarrhea virus isolate GDjm18-1 spike protein (S) gene, complete cds	G2cchinanew.txt	399	G2c	MN368717.1|GDjm18-1|NA|China	N/A	missing_or_unparseable_date
+MN368719.1	Porcine epidemic diarrhea virus isolate GDmm18-1 spike protein (S) gene, complete cds	G2cchinanew.txt	400	G2c	MN368719.1|GDmm18-1|NA|China	N/A	missing_or_unparseable_date
+MN368720.1	Porcine epidemic diarrhea virus isolate GDmm18-2 spike protein (S) gene, complete cds	G2cchinanew.txt	567	G2c	MN368720.1|GDmm18-2|NA|China	N/A	missing_or_unparseable_date
+MN368721.1	Porcine epidemic diarrhea virus isolate GDsg18-1 spike protein (S) gene, complete cds	G2cchinanew.txt	382	G2c	MN368721.1|GDsg18-1|NA|China	N/A	missing_or_unparseable_date
+MN368722.1	Porcine epidemic diarrhea virus isolate GDsg18-2 spike protein (S) gene, complete cds	G2cchinanew.txt	599	G2c	MN368722.1|GDsg18-2|NA|China	N/A	missing_or_unparseable_date
+MN368723.1	Porcine epidemic diarrhea virus isolate GDst18 spike protein (S) gene, complete cds	G2cchinanew.txt	354	G2c	MN368723.1|GDst18|NA|China	N/A	missing_or_unparseable_date
+MN368725.1	Porcine epidemic diarrhea virus isolate GDzj18-2 spike protein (S) gene, complete cds	G2cchinanew.txt	227	G2c	MN368725.1|GDzj18-2|NA|China	N/A	missing_or_unparseable_date
+MN617858.1	Porcine epidemic diarrhea virus isolate CH/SCCD-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	736	G2c	MN617858.1|CH/SCCD-1/2018|25-Feb-2018|China	25-Feb-2018	missing_or_unparseable_date
+MN617859.1	Porcine epidemic diarrhea virus isolate CH/SCCD-2/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	733	G2c	MN617859.1|CH/SCCD-2/2018|28-Feb-2018|China	28-Feb-2018	missing_or_unparseable_date
+MN617860.1	Porcine epidemic diarrhea virus isolate CH/SCMS-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	739	G2c	MN617860.1|CH/SCMS-1/2018|19-Feb-2018|China	19-Feb-2018	missing_or_unparseable_date
+MN617861.1	Porcine epidemic diarrhea virus isolate CH/SCZY-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	421	G2c	MN617861.1|CH/SCZY-1/2018|23-Mar-2018|China	23-Mar-2018	missing_or_unparseable_date
+MN617862.1	Porcine epidemic diarrhea virus isolate CH/SCMY-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	763	G2c	MN617862.1|CH/SCMY-1/2018|03-Apr-2018|China	03-Apr-2018	missing_or_unparseable_date
+MN617864.1	Porcine epidemic diarrhea virus isolate CH/SCLS-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	856	G2c	MN617864.1|CH/SCLS-1/2018|29-Apr-2018|China	29-Apr-2018	missing_or_unparseable_date
+MN617865.1	Porcine epidemic diarrhea virus isolate CH/SCYB-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	734	G2c	MN617865.1|CH/SCYB-1/2018|14-Oct-2018|China	14-Oct-2018	missing_or_unparseable_date
+MN617866.1	Porcine epidemic diarrhea virus isolate CH/SCQL-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	738	G2c	MN617866.1|CH/SCQL-1/2018|18-Apr-2018|China	18-Apr-2018	missing_or_unparseable_date
+MN617867.1	Porcine epidemic diarrhea virus isolate CH/SCQL-2/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	740	G2c	MN617867.1|CH/SCQL-2/2018|22-Oct-2018|China	22-Oct-2018	missing_or_unparseable_date
+MN893406.1	Porcine epidemic diarrhea virus isolate CH-HNAY-2016 spike glycoprotein gene, complete cds	G2cchinanew.txt	68	G2c	MN893406.1|CH-HNAY-2016|01-Nov-2016|China	01-Nov-2016	missing_or_unparseable_date
+MN893407.1	Porcine epidemic diarrhea virus isolate CH-HNAY-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	69	G2c	MN893407.1|CH-HNAY-2017|01-Mar-2017|China	01-Mar-2017	missing_or_unparseable_date
+MN893411.1	Porcine epidemic diarrhea virus isolate CH-HNLH-2016 spike glycoprotein gene, complete cds	G2cchinanew.txt	67	G2c	MN893411.1|CH-HNLH-2016|01-Sep-2016|China	01-Sep-2016	missing_or_unparseable_date
+MN893412.1	Porcine epidemic diarrhea virus isolate CH-HNLH-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	70	G2c	MN893412.1|CH-HNLH-2017|01-Mar-2017|China	01-Mar-2017	missing_or_unparseable_date
+MN893413.1	Porcine epidemic diarrhea virus isolate CH-HNNY-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	74	G2c	MN893413.1|CH-HNNY-2017|01-Mar-2017|China	01-Mar-2017	missing_or_unparseable_date
+MN893416.1	Porcine epidemic diarrhea virus isolate CH-HNPY-2016 spike glycoprotein gene, complete cds	G2cchinanew.txt	81	G2c	MN893416.1|CH-HNPY-2016|01-Sep-2016|China	01-Sep-2016	missing_or_unparseable_date
+MN893418.1	Porcine epidemic diarrhea virus isolate CH-HNXX-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	85	G2c	MN893418.1|CH-HNXX-2017|01-Sep-2017|China	01-Sep-2017	missing_or_unparseable_date
+MN893419.1	Porcine epidemic diarrhea virus isolate CH-HNXY-1-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	86	G2c	MN893419.1|CH-HNXY-1-2017|01-Nov-2017|China	01-Nov-2017	missing_or_unparseable_date
+MN893420.1	Porcine epidemic diarrhea virus isolate CH-HNXY-2-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	89	G2c	MN893420.1|CH-HNXY-2-2017|01-Dec-2017|China	01-Dec-2017	missing_or_unparseable_date
+MN893421.1	Porcine epidemic diarrhea virus isolate CH-HNXY-3-2018 spike glycoprotein gene, complete cds	G2cchinanew.txt	473	G2c	MN893421.1|CH-HNXY-3-2018|01-Jan-2018|China	01-Jan-2018	missing_or_unparseable_date
+MN893422.1	Porcine epidemic diarrhea virus isolate CH-HNZK-1-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	58	G2c	MN893422.1|CH-HNZK-1-2017|01-Apr-2017|China	01-Apr-2017	missing_or_unparseable_date
+MN893423.1	Porcine epidemic diarrhea virus isolate CH-HNZK-2-2018 spike glycoprotein gene, complete cds	G2cchinanew.txt	75	G2c	MN893423.1|CH-HNZK-2-2018|01-Jan-2018|China	01-Jan-2018	missing_or_unparseable_date
+MN893425.1	Porcine epidemic diarrhea virus isolate CH-HNZK-4-2017 spike glycoprotein gene, complete cds	G2cchinanew.txt	256	G2c	MN893425.1|CH-HNZK-4-2017|01-Jun-2017|China	01-Jun-2017	missing_or_unparseable_date
+MT031819.1	Porcine epidemic diarrhea virus strain CH/CC-1/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	77	G2c	MT031819.1|CH/CC-1/2018|05-Dec-2018|China	05-Dec-2018	missing_or_unparseable_date
+MT031820.1	Porcine epidemic diarrhea virus strain CH/CC-2/2018 spike protein (S) gene, complete cds	G2cchinanew.txt	350	G2c	MT031820.1|CH/CC-2/2018|05-Dec-2018|China	05-Dec-2018	missing_or_unparseable_date
+MT263014.1	Porcine epidemic diarrhea virus isolate SC-YB73, partial genome	G2cchinanew.txt	82	G2c	MT263014.1|SC-YB73|10-Oct-2019|China	10-Oct-2019	missing_or_unparseable_date
+MW398867.1	Porcine epidemic diarrhea virus strain CH/SCNC-1/2020 spike protein gene, complete cds	G2cchinanew.txt	672	G2c	MW398867.1|CH/SCNC-1/2020|26-Oct-2020|China	26-Oct-2020	missing_or_unparseable_date
+MZ241108.1	Porcine epidemic diarrhea virus isolate SXSL, complete genome	G2cchinanew.txt	1023	G2c	MZ241108.1|SXSL|25-Dec-2020|China	25-Dec-2020	missing_or_unparseable_date
+MZ364310.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/1401/2016, complete genome	G2cchinanew.txt	592	G2c	MZ364310.1|CH/GX/PEDV/1401/2016|08-Dec-2016|China	08-Dec-2016	missing_or_unparseable_date
+MZ364311.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/1902/2017, complete genome	G2cchinanew.txt	573	G2c	MZ364311.1|CH/GX/PEDV/1902/2017|22-Dec-2017|China	22-Dec-2017	missing_or_unparseable_date
+MZ364312.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/1939/2018, complete genome	G2cchinanew.txt	574	G2c	MZ364312.1|CH/GX/PEDV/1939/2018|15-Jan-2018|China	15-Jan-2018	missing_or_unparseable_date
+MZ364313.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/1984/2018, complete genome	G2cchinanew.txt	55	G2c	MZ364313.1|CH/GX/PEDV/1984/2018|27-Feb-2018|China	27-Feb-2018	missing_or_unparseable_date
+MZ364315.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/2467/2019, complete genome	G2cchinanew.txt	394	G2c	MZ364315.1|CH/GX/PEDV/2467/2019|11-Jan-2019|China	11-Jan-2019	missing_or_unparseable_date
+MZ364316.1	Porcine epidemic diarrhea virus strain CH/GX/PEDV/2473/2019, complete genome	G2cchinanew.txt	395	G2c	MZ364316.1|CH/GX/PEDV/2473/2019|17-Jan-2019|China	17-Jan-2019	missing_or_unparseable_date
+MZ570133.1	Porcine epidemic diarrhea virus isolate CH/HNKF-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	185	G2c	MZ570133.1|CH/HNKF-01/2020|10-Jul-2020|China	10-Jul-2020	missing_or_unparseable_date
+MZ570134.1	Porcine epidemic diarrhea virus isolate CH/HNXX-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	847	G2c	MZ570134.1|CH/HNXX-01/2020|17-Sep-2020|China	17-Sep-2020	missing_or_unparseable_date
+MZ570135.1	Porcine epidemic diarrhea virus isolate CH/HNXX-02/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	1040	G2c	MZ570135.1|CH/HNXX-02/2020|22-Oct-2020|China	22-Oct-2020	missing_or_unparseable_date
+MZ570136.1	Porcine epidemic diarrhea virus isolate CH/HNXY-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	845	G2c	MZ570136.1|CH/HNXY-01/2020|30-Nov-2020|China	30-Nov-2020	missing_or_unparseable_date
+MZ570137.1	Porcine epidemic diarrhea virus isolate CH/HNLH-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	1048	G2c	MZ570137.1|CH/HNLH-01/2020|05-Jun-2020|China	05-Jun-2020	missing_or_unparseable_date
+MZ570138.1	Porcine epidemic diarrhea virus isolate CH/HNJZ-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	639	G2c	MZ570138.1|CH/HNJZ-01/2020|12-Jul-2020|China	12-Jul-2020	missing_or_unparseable_date
+MZ570139.1	Porcine epidemic diarrhea virus isolate CH/HNXC-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	1127	G2c	MZ570139.1|CH/HNXC-01/2020|17-Sep-2020|China	17-Sep-2020	missing_or_unparseable_date
+MZ570140.1	Porcine epidemic diarrhea virus isolate CH/HNLH-02/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	640	G2c	MZ570140.1|CH/HNLH-02/2020|25-Oct-2020|China	25-Oct-2020	missing_or_unparseable_date
+MZ570141.1	Porcine epidemic diarrhea virus isolate CH/HNKF-02/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	1146	G2c	MZ570141.1|CH/HNKF-02/2020|09-Nov-2020|China	09-Nov-2020	missing_or_unparseable_date
+MZ570142.1	Porcine epidemic diarrhea virus isolate CH/HNXC-02/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	634	G2c	MZ570142.1|CH/HNXC-02/2020|14-Nov-2020|China	14-Nov-2020	missing_or_unparseable_date
+MZ570143.1	Porcine epidemic diarrhea virus isolate CH/HNSMX-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	614	G2c	MZ570143.1|CH/HNSMX-01/2020|22-Nov-2020|China	22-Nov-2020	missing_or_unparseable_date
+MZ570144.1	Porcine epidemic diarrhea virus isolate CH/HNAY-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	838	G2c	MZ570144.1|CH/HNAY-01/2020|28-Nov-2020|China	28-Nov-2020	missing_or_unparseable_date
+MZ570145.1	Porcine epidemic diarrhea virus isolate CH/HNKF-03/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	779	G2c	MZ570145.1|CH/HNKF-03/2020|02-Dec-2020|China	02-Dec-2020	missing_or_unparseable_date
+MZ570146.1	Porcine epidemic diarrhea virus isolate CH/HNSQ-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	1054	G2c	MZ570146.1|CH/HNSQ-01/2020|07-Dec-2020|China	07-Dec-2020	missing_or_unparseable_date
+MZ570147.1	Porcine epidemic diarrhea virus isolate CH/HNXC-03/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	1055	G2c	MZ570147.1|CH/HNXC-03/2020|11-Dec-2020|China	11-Dec-2020	missing_or_unparseable_date
+MZ570148.1	Porcine epidemic diarrhea virus isolate CH/HNXC-04/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	719	G2c	MZ570148.1|CH/HNXC-04/2020|18-Dec-2020|China	18-Dec-2020	missing_or_unparseable_date
+MZ570149.1	Porcine epidemic diarrhea virus isolate CH/HNNY-01/2020 spike protein (S) gene, complete cds	G2cchinanew.txt	852	G2c	MZ570149.1|CH/HNNY-01/2020|26-Dec-2020|China	26-Dec-2020	missing_or_unparseable_date
+MZ740469.1	Porcine epidemic diarrhea virus strain CH-HNLH-03 spike protein (S) gene, complete cds	G2cchinanew.txt	1180	G2c	MZ740469.1|CH-HNLH-03|02-Mar-2021|China	02-Mar-2021	missing_or_unparseable_date
+MZ740470.1	Porcine epidemic diarrhea virus strain CH-HNJY-01 spike protein (S) gene, complete cds	G2cchinanew.txt	760	G2c	MZ740470.1|CH-HNJY-01|18-Mar-2021|China	18-Mar-2021	missing_or_unparseable_date
+MZ740471.1	Porcine epidemic diarrhea virus strain CH-HNPDS-01 spike protein (S) gene, complete cds	G2cchinanew.txt	332	G2c	MZ740471.1|CH-HNPDS-01|15-Apr-2021|China	15-Apr-2021	missing_or_unparseable_date
+MZ740472.1	Porcine epidemic diarrhea virus strain CH-HNNY-02 spike protein (S) gene, complete cds	G2cchinanew.txt	320	G2c	MZ740472.1|CH-HNNY-02|17-May-2021|China	17-May-2021	missing_or_unparseable_date
+OL348059.1	Porcine epidemic diarrhea virus strain XJ1904-34, complete genome	G2cchinanew.txt	275	G2c	OL348059.1|XJ1904-34|20-Apr-2019|China	20-Apr-2019	missing_or_unparseable_date
+OL841533.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate CH/HB/BD01 spike-like (S) gene, complete sequence	G2cchinanew.txt	440	G2c	OL841533.1|CH/HB/BD01|25-Sep-2020|China	25-Sep-2020	missing_or_unparseable_date
+OL841534.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate CH/HB/BD02 spike-like (S) gene, complete sequence	G2cchinanew.txt	1114	G2c	OL841534.1|CH/HB/BD02|21-Oct-2020|China	21-Oct-2020	missing_or_unparseable_date
+OL841535.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate CH/HB/BD03 spike-like (S) gene, complete sequence	G2cchinanew.txt	1112	G2c	OL841535.1|CH/HB/BD03|14-Apr-2021|China	14-Apr-2021	missing_or_unparseable_date
+OL841536.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate CH/HB/HD01 spike-like (S) gene, complete sequence	G2cchinanew.txt	442	G2c	OL841536.1|CH/HB/HD01|18-Apr-2021|China	18-Apr-2021	missing_or_unparseable_date
+OL841537.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate CH/HB/HD02 spike-like (S) gene, complete sequence	G2cchinanew.txt	444	G2c	OL841537.1|CH/HB/HD02|20-Apr-2021|China	20-Apr-2021	missing_or_unparseable_date
+OL841538.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate CH/HB/XT01 spike-like (S) gene, complete sequence	G2cchinanew.txt	1115	G2c	OL841538.1|CH/HB/XT01|20-May-2021|China	20-May-2021	missing_or_unparseable_date
+OL870433.1	Porcine epidemic diarrhea virus isolate CH/HB/CZ01 spike (S) gene, complete cds	G2cchinanew.txt	441	G2c	OL870433.1|CH/HB/CZ01|19-Jun-2021|China	19-Jun-2021	missing_or_unparseable_date
+OL870434.1	Porcine epidemic diarrhea virus isolate CH/HB/CZ02 spike (S) gene, complete cds	G2cchinanew.txt	1113	G2c	OL870434.1|CH/HB/CZ02|15-Aug-2021|China	15-Aug-2021	missing_or_unparseable_date
+OL870435.1	Porcine epidemic diarrhea virus isolate CH/HB/ZJK01 spike (S) gene, complete cds	G2cchinanew.txt	445	G2c	OL870435.1|CH/HB/ZJK01|20-Sep-2021|China	20-Sep-2021	missing_or_unparseable_date
+OL870436.1	Porcine epidemic diarrhea virus isolate CH/HB/ZJK02 spike (S) gene, complete cds	G2cchinanew.txt	443	G2c	OL870436.1|CH/HB/ZJK02|25-Oct-2021|China	25-Oct-2021	missing_or_unparseable_date
+OM505025.1	Porcine epidemic diarrhea virus isolate CHN-SC2021, complete genome	G2cchinanew.txt	656	G2c	OM505025.1|CHN-SC2021|01-Mar-2021|China	01-Mar-2021	missing_or_unparseable_date
+OM914738.1	Porcine epidemic diarrhea virus isolate CH/HLJBQL/2022, complete genome	G2cchinanew.txt	337	G2c	OM914738.1|CH/HLJBQL/2022|20-Nov-2021|China	20-Nov-2021	missing_or_unparseable_date
+ON168803.1	Porcine epidemic diarrhea virus strain NH-TA2020 spike protein gene, complete cds	G2cchinanew.txt	820	G2c	ON168803.1|NH-TA2020|12-Mar-2020|China	12-Mar-2020	missing_or_unparseable_date
+ON960076.1	Porcine epidemic diarrhea virus strain CH/HNLYL/2021, complete genome	G2cchinanew.txt	980	G2c	ON960076.1|CH/HNLYL/2021|22-Dec-2021|China	22-Dec-2021	missing_or_unparseable_date
+ON960077.1	Porcine epidemic diarrhea virus strain CH/HNWMB/2021, complete genome	G2cchinanew.txt	860	G2c	ON960077.1|CH/HNWMB/2021|15-May-2021|China	15-May-2021	missing_or_unparseable_date
+ON968723.1	Porcine epidemic diarrhea virus isolate CH/HLJJS/2022, complete genome	G2cchinanew.txt	1154	G2c	ON968723.1|CH/HLJJS/2022|20-Mar-2022|China	20-Mar-2022	missing_or_unparseable_date
+ON988085.1	Porcine epidemic diarrhea virus isolate SDHY_DY spike protein (S) gene, partial cds	G2cchinanew.txt	59	G2c	ON988085.1|SDHY_DY|12-Dec-2020|China	12-Dec-2020	missing_or_unparseable_date
+ON988086.1	Porcine epidemic diarrhea virus isolate SDHY_ZB spike protein (S) gene, partial cds	G2cchinanew.txt	810	G2c	ON988086.1|SDHY_ZB|20-Nov-2020|China	20-Nov-2020	missing_or_unparseable_date
+ON988087.1	Porcine epidemic diarrhea virus isolate SDHY_YT spike protein (S) gene, partial cds	G2cchinanew.txt	1009	G2c	ON988087.1|SDHY_YT|18-Dec-2019|China	18-Dec-2019	missing_or_unparseable_date
+ON988088.1	Porcine epidemic diarrhea virus isolate SDHY_TA03 spike protein (S) gene, partial cds	G2cchinanew.txt	42	G2c	ON988088.1|SDHY_TA03|10-Jan-2021|China	10-Jan-2021	missing_or_unparseable_date
+ON988089.1	Porcine epidemic diarrhea virus isolate SDHY_TA02 spike protein (S) gene, partial cds	G2cchinanew.txt	701	G2c	ON988089.1|SDHY_TA02|07-Dec-2020|China	07-Dec-2020	missing_or_unparseable_date
+ON988090.1	Porcine epidemic diarrhea virus isolate SDHY_TA01 spike protein (S) gene, partial cds	G2cchinanew.txt	700	G2c	ON988090.1|SDHY_TA01|26-Jan-2019|China	26-Jan-2019	missing_or_unparseable_date
+ON988091.1	Porcine epidemic diarrhea virus isolate SDHY_QD spike protein (S) gene, partial cds	G2cchinanew.txt	749	G2c	ON988091.1|SDHY_QD|21-Jan-2021|China	21-Jan-2021	missing_or_unparseable_date
+ON988092.1	Porcine epidemic diarrhea virus isolate SDHY_LW spike protein (S) gene, partial cds	G2cchinanew.txt	699	G2c	ON988092.1|SDHY_LW|20-Nov-2019|China	20-Nov-2019	missing_or_unparseable_date
+ON988093.1	Porcine epidemic diarrhea virus isolate SDHY_LC spike protein (S) gene, partial cds	G2cchinanew.txt	732	G2c	ON988093.1|SDHY_LC|02-Mar-2021|China	02-Mar-2021	missing_or_unparseable_date
+ON988094.1	Porcine epidemic diarrhea virus isolate SDHY_JN02 spike protein (S) gene, partial cds	G2cchinanew.txt	702	G2c	ON988094.1|SDHY_JN02|24-Nov-2020|China	24-Nov-2020	missing_or_unparseable_date
+ON988095.1	Porcine epidemic diarrhea virus isolate SDHY_JN01 spike protein (S) gene, partial cds	G2cchinanew.txt	43	G2c	ON988095.1|SDHY_JN01|05-Nov-2020|China	05-Nov-2020	missing_or_unparseable_date
+ON988096.1	Porcine epidemic diarrhea virus isolate SDHY_BZ spike protein (S) gene, partial cds	G2cchinanew.txt	811	G2c	ON988096.1|SDHY_BZ|02-Mar-2021|China	02-Mar-2021	missing_or_unparseable_date
+OP019335.1	Porcine epidemic diarrhea virus isolate PEDV/CH/FJ/2022 spike protein (S) gene, partial cds	G2cchinanew.txt	1095	G2c	OP019335.1|PEDV/CH/FJ/2022|23-Mar-2022|China	23-Mar-2022	missing_or_unparseable_date
+OP019336.1	Porcine epidemic diarrhea virus isolate PEDV/CH/GU/2021 spike protein (S) gene, partial cds	G2cchinanew.txt	345	G2c	OP019336.1|PEDV/CH/GU/2021|06-Jul-2021|China	06-Jul-2021	missing_or_unparseable_date
+OP019338.1	Porcine epidemic diarrhea virus isolate PEDV/CH/GZ/TN/2021 spike protein (S) gene, partial cds	G2cchinanew.txt	1078	G2c	OP019338.1|PEDV/CH/GZ/TN/2021|12-Aug-2021|China	12-Aug-2021	missing_or_unparseable_date
+OP019340.1	Porcine epidemic diarrhea virus isolate PEDV/CH/HN/NK1/2021 spike protein (S) gene, partial cds	G2cchinanew.txt	1049	G2c	OP019340.1|PEDV/CH/HN/NK1/2021|16-Dec-2021|China	16-Dec-2021	missing_or_unparseable_date
+OP019341.1	Porcine epidemic diarrhea virus isolate PEDV/CH/HN/NK/2021 spike protein (S) gene, partial cds	G2cchinanew.txt	1042	G2c	OP019341.1|PEDV/CH/HN/NK/2021|16-Dec-2021|China	16-Dec-2021	missing_or_unparseable_date
+OP019350.1	Porcine epidemic diarrhea virus isolate PEDV/CH/SC/CY/2022 spike protein (S) gene, partial cds	G2cchinanew.txt	1140	G2c	OP019350.1|PEDV/CH/SC/CY/2022|22-Jan-2022|China	22-Jan-2022	missing_or_unparseable_date
+OP019351.1	Porcine epidemic diarrhea virus isolate PEDV/CH/TS/J/2022 spike protein (S) gene, partial cds	G2cchinanew.txt	705	G2c	OP019351.1|PEDV/CH/TS/J/2022|04-Jan-2022|China	04-Jan-2022	missing_or_unparseable_date
+OP019352.1	Porcine epidemic diarrhea virus isolate PEDV/CH/WF/RZ1/2021 spike protein (S) gene, partial cds	G2cchinanew.txt	666	G2c	OP019352.1|PEDV/CH/WF/RZ1/2021|15-Dec-2021|China	15-Dec-2021	missing_or_unparseable_date
+OP433730.1	Porcine epidemic diarrhea virus isolate S-GDDL spike protein (S) gene, complete cds	G2cchinanew.txt	1010	G2c	OP433730.1|S-GDDL|11-Nov-2021|China	11-Nov-2021	missing_or_unparseable_date
+OP433731.1	Porcine epidemic diarrhea virus isolate S-GDRY spike protein (S) gene, complete cds	G2cchinanew.txt	1166	G2c	OP433731.1|S-GDRY|05-Aug-2021|China	05-Aug-2021	missing_or_unparseable_date
+OP433732.1	Porcine epidemic diarrhea virus isolate S-GDYD spike protein (S) gene, complete cds	G2cchinanew.txt	1164	G2c	OP433732.1|S-GDYD|21-Mar-2021|China	21-Mar-2021	missing_or_unparseable_date
+OP433733.1	Porcine epidemic diarrhea virus isolate S-GDHP spike protein (S) gene, complete cds	G2cchinanew.txt	244	G2c	OP433733.1|S-GDHP|12-Apr-2021|China	12-Apr-2021	missing_or_unparseable_date
+OP433734.1	Porcine epidemic diarrhea virus isolate S-GDBQ spike protein (S) gene, complete cds	G2cchinanew.txt	1159	G2c	OP433734.1|S-GDBQ|20-Apr-2021|China	20-Apr-2021	missing_or_unparseable_date
+OP433735.1	Porcine epidemic diarrhea virus isolate S-GDXF spike protein (S) gene, complete cds	G2cchinanew.txt	824	G2c	OP433735.1|S-GDXF|04-Jun-2021|China	04-Jun-2021	missing_or_unparseable_date
+OP433737.1	Porcine epidemic diarrhea virus isolate S-GDQT spike protein (S) gene, complete cds	G2cchinanew.txt	1011	G2c	OP433737.1|S-GDQT|18-Nov-2021|China	18-Nov-2021	missing_or_unparseable_date
+OP433738.1	Porcine epidemic diarrhea virus isolate S-GDYH spike protein (S) gene, complete cds	G2cchinanew.txt	1167	G2c	OP433738.1|S-GDYH|24-Nov-2021|China	24-Nov-2021	missing_or_unparseable_date
+OP433739.1	Porcine epidemic diarrhea virus isolate S-GDDM spike protein (S) gene, complete cds	G2cchinanew.txt	1165	G2c	OP433739.1|S-GDDM|02-Nov-2021|China	02-Nov-2021	missing_or_unparseable_date
+OP433740.1	Porcine epidemic diarrhea virus isolate S-GDENP spike protein (S) gene, complete cds	G2cchinanew.txt	245	G2c	OP433740.1|S-GDENP|10-Oct-2021|China	10-Oct-2021	missing_or_unparseable_date
+OP433741.1	Porcine epidemic diarrhea virus isolate S-GDYX spike protein (S) gene, complete cds	G2cchinanew.txt	1160	G2c	OP433741.1|S-GDYX|17-Oct-2021|China	17-Oct-2021	missing_or_unparseable_date
+OP433742.1	Porcine epidemic diarrhea virus isolate S-GDSL spike protein (S) gene, complete cds	G2cchinanew.txt	825	G2c	OP433742.1|S-GDSL|25-Oct-2021|China	25-Oct-2021	missing_or_unparseable_date
+OP433743.1	Porcine epidemic diarrhea virus isolate S-GDCW spike protein (S) gene, complete cds	G2cchinanew.txt	243	G2c	OP433743.1|S-GDCW|12-Dec-2021|China	12-Dec-2021	missing_or_unparseable_date
+OP433744.1	Porcine epidemic diarrhea virus isolate S-GDGZ spike protein (S) gene, complete cds	G2cchinanew.txt	1158	G2c	OP433744.1|S-GDGZ|21-Dec-2021|China	21-Dec-2021	missing_or_unparseable_date
+OP433745.1	Porcine epidemic diarrhea virus isolate S-GDDH spike protein (S) gene, complete cds	G2cchinanew.txt	823	G2c	OP433745.1|S-GDDH|27-Dec-2021|China	27-Dec-2021	missing_or_unparseable_date
+OP480878.1	Porcine epidemic diarrhea virus isolate CH/Yinchuan/2021, complete genome	G2cchinanew.txt	871	G2c	OP480878.1|CH/Yinchuan/2021|23-Jul-2021|China	23-Jul-2021	missing_or_unparseable_date
+OQ122084.1	Porcine epidemic diarrhea virus isolate JSYC/2021 spike protein (S) gene, complete cds	G2cchinanew.txt	696	G2c	OQ122084.1|JSYC/2021|12-Jan-2021|China	12-Jan-2021	missing_or_unparseable_date
+OQ122085.1	Porcine epidemic diarrhea virus isolate GSJQ/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	831	G2c	OQ122085.1|GSJQ/2022|17-Sep-2022|China	17-Sep-2022	missing_or_unparseable_date
+OQ122086.1	Porcine epidemic diarrhea virus isolate HBXN/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	883	G2c	OQ122086.1|HBXN/2022|14-Jun-2022|China	14-Jun-2022	missing_or_unparseable_date
+OQ122087.1	Porcine epidemic diarrhea virus isolate HBXY/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1072	G2c	OQ122087.1|HBXY/2022|06-Apr-2022|China	06-Apr-2022	missing_or_unparseable_date
+OQ122088.1	Porcine epidemic diarrhea virus isolate HNNY/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	537	G2c	OQ122088.1|HNNY/2022|24-Jun-2022|China	24-Jun-2022	missing_or_unparseable_date
+OQ122089.1	Porcine epidemic diarrhea virus isolate SDLY/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	695	G2c	OQ122089.1|SDLY/2022|14-Jun-2022|China	14-Jun-2022	missing_or_unparseable_date
+OQ122090.1	Porcine epidemic diarrhea virus isolate SXSZ-2/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1032	G2c	OQ122090.1|SXSZ-2/2022|07-Jun-2022|China	07-Jun-2022	missing_or_unparseable_date
+OQ122091.1	Porcine epidemic diarrhea virus isolate SXSZ-1/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1031	G2c	OQ122091.1|SXSZ-1/2022|06-Jun-2022|China	06-Jun-2022	missing_or_unparseable_date
+OQ122093.1	Porcine epidemic diarrhea virus isolate HNXY-1/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	678	G2c	OQ122093.1|HNXY-1/2022|31-May-2022|China	31-May-2022	missing_or_unparseable_date
+OQ122094.1	Porcine epidemic diarrhea virus isolate GDFS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	957	G2c	OQ122094.1|GDFS/2022|29-May-2022|China	29-May-2022	missing_or_unparseable_date
+OQ122095.1	Porcine epidemic diarrhea virus isolate HBYC-4/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1098	G2c	OQ122095.1|HBYC-4/2022|26-May-2022|China	26-May-2022	missing_or_unparseable_date
+OQ122096.1	Porcine epidemic diarrhea virus isolate JXJA/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	676	G2c	OQ122096.1|JXJA/2022|03-May-2022|China	03-May-2022	missing_or_unparseable_date
+OQ122097.1	Porcine epidemic diarrhea virus isolate SCMY/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1018	G2c	OQ122097.1|SCMY/2022|02-May-2022|China	02-May-2022	missing_or_unparseable_date
+OQ122099.1	Porcine epidemic diarrhea virus isolate GXGL/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	532	G2c	OQ122099.1|GXGL/2022|23-Mar-2022|China	23-Mar-2022	missing_or_unparseable_date
+OQ122101.1	Porcine epidemic diarrhea virus isolate ZJWZ/2021 spike protein (S) gene, complete cds	G2cchinanew.txt	224	G2c	OQ122101.1|ZJWZ/2021|27-Oct-2021|China	27-Oct-2021	missing_or_unparseable_date
+OQ122107.1	Porcine epidemic diarrhea virus isolate HBJZ/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	680	G2c	OQ122107.1|HBJZ/2022|14-Jun-2022|China	14-Jun-2022	missing_or_unparseable_date
+OQ122110.1	Porcine epidemic diarrhea virus isolate GZQXN-2/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1070	G2c	OQ122110.1|GZQXN-2/2022|16-Mar-2022|China	16-Mar-2022	missing_or_unparseable_date
+OQ122112.1	Porcine epidemic diarrhea virus isolate GZQXN-1/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1071	G2c	OQ122112.1|GZQXN-1/2022|07-Mar-2022|China	07-Mar-2022	missing_or_unparseable_date
+OQ122113.1	Porcine epidemic diarrhea virus isolate GZBJ/2021 spike protein (S) gene, complete cds	G2cchinanew.txt	560	G2c	OQ122113.1|GZBJ/2021|25-Dec-2021|China	25-Dec-2021	missing_or_unparseable_date
+OQ122114.1	Porcine epidemic diarrhea virus isolate HBYC/2021 spike protein (S) gene, complete cds	G2cchinanew.txt	1020	G2c	OQ122114.1|HBYC/2021|25-Dec-2021|China	25-Dec-2021	missing_or_unparseable_date
+OQ122115.1	Porcine epidemic diarrhea virus isolate HNZK/2021 spike protein (S) gene, complete cds	G2cchinanew.txt	189	G2c	OQ122115.1|HNZK/2021|21-Nov-2021|China	21-Nov-2021	missing_or_unparseable_date
+OQ122116.1	Porcine epidemic diarrhea virus isolate SDJN/2021 spike protein (S) gene, complete cds	G2cchinanew.txt	694	G2c	OQ122116.1|SDJN/2021|16-Dec-2021|China	16-Dec-2021	missing_or_unparseable_date
+OQ122117.1	Porcine epidemic diarrhea virus isolate JSSQ/2021 spike protein (S) gene, complete cds	G2cchinanew.txt	755	G2c	OQ122117.1|JSSQ/2021|08-Nov-2021|China	08-Nov-2021	missing_or_unparseable_date
+OQ269588.1	Porcine epidemic diarrhea virus isolate XJ1904-700, complete genome	G2cchinanew.txt	602	G2c	OQ269588.1|XJ1904-700|20-Apr-2019|China	20-Apr-2019	missing_or_unparseable_date
+OQ269590.1	Porcine epidemic diarrhea virus isolate FJFZ2004-1017, complete genome	G2cchinanew.txt	759	G2c	OQ269590.1|FJFZ2004-1017|26-Apr-2020|China	26-Apr-2020	missing_or_unparseable_date
+OQ269591.1	Porcine epidemic diarrhea virus isolate JSNT2112-1248, complete genome	G2cchinanew.txt	1187	G2c	OQ269591.1|JSNT2112-1248|29-Dec-2021|China	29-Dec-2021	missing_or_unparseable_date
+OQ269592.1	Porcine epidemic diarrhea virus isolate HNZMD2202-1405, complete genome	G2cchinanew.txt	1135	G2c	OQ269592.1|HNZMD2202-1405|25-Feb-2022|China	25-Feb-2022	missing_or_unparseable_date
+OQ412638.1	Porcine epidemic diarrhea virus strain ECQ1, complete genome	G2cchinanew.txt	352	G2c	OQ412638.1|ECQ1|25-Jun-2018|China	25-Jun-2018	missing_or_unparseable_date
+OQ412639.1	Porcine epidemic diarrhea virus strain EHuB2, complete genome	G2cchinanew.txt	859	G2c	OQ412639.1|EHuB2|28-Nov-2018|China	28-Nov-2018	missing_or_unparseable_date
+OQ504178.1	Porcine epidemic diarrhea virus strain PEDV-01/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	882	G2c	OQ504178.1|PEDV-01/JS/2022|22-Jun-2022|China	22-Jun-2022	missing_or_unparseable_date
+OQ504179.1	Porcine epidemic diarrhea virus strain PEDV-02/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	879	G2c	OQ504179.1|PEDV-02/JS/2022|22-Jun-2022|China	22-Jun-2022	missing_or_unparseable_date
+OQ504180.1	Porcine epidemic diarrhea virus strain PEDV-03/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	311	G2c	OQ504180.1|PEDV-03/JS/2022|10-Jul-2022|China	10-Jul-2022	missing_or_unparseable_date
+OQ504181.1	Porcine epidemic diarrhea virus strain PEDV-04/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1145	G2c	OQ504181.1|PEDV-04/JS/2022|10-Jul-2022|China	10-Jul-2022	missing_or_unparseable_date
+OQ504182.1	Porcine epidemic diarrhea virus strain PEDV-05/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1039	G2c	OQ504182.1|PEDV-05/JS/2022|10-Jul-2022|China	10-Jul-2022	missing_or_unparseable_date
+OQ504183.1	Porcine epidemic diarrhea virus strain PEDV-06/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	312	G2c	OQ504183.1|PEDV-06/JS/2022|15-Aug-2022|China	15-Aug-2022	missing_or_unparseable_date
+OQ504184.1	Porcine epidemic diarrhea virus strain PEDV-07/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	758	G2c	OQ504184.1|PEDV-07/JS/2022|15-Aug-2022|China	15-Aug-2022	missing_or_unparseable_date
+OQ504185.1	Porcine epidemic diarrhea virus strain PEDV-08/JS/2022 spike protein (S) gene, complete cds	G2cchinanew.txt	321	G2c	OQ504185.1|PEDV-08/JS/2022|15-Aug-2022|China	15-Aug-2022	missing_or_unparseable_date
+OQ657291.1	Porcine epidemic diarrhea virus strain HNZK1 spike protein (S) gene, complete cds	G2cchinanew.txt	546	G2c	OQ657291.1|HNZK1|31-Jan-2021|China	31-Jan-2021	missing_or_unparseable_date
+OQ657292.1	Porcine epidemic diarrhea virus strain HNZK2 spike protein (S) gene, complete cds	G2cchinanew.txt	547	G2c	OQ657292.1|HNZK2|31-Jan-2021|China	31-Jan-2021	missing_or_unparseable_date
+OQ657293.1	Porcine epidemic diarrhea virus strain HNZK3 spike protein (S) gene, complete cds	G2cchinanew.txt	241	G2c	OQ657293.1|HNZK3|31-Jan-2021|China	31-Jan-2021	missing_or_unparseable_date
+OQ657294.1	Porcine epidemic diarrhea virus strain HNZK5 spike protein (S) gene, complete cds	G2cchinanew.txt	715	G2c	OQ657294.1|HNZK5|31-Jan-2021|China	31-Jan-2021	missing_or_unparseable_date
+OQ657295.1	Porcine epidemic diarrhea virus strain HNLY spike protein (S) gene, complete cds	G2cchinanew.txt	846	G2c	OQ657295.1|HNLY|31-Jan-2021|China	31-Jan-2021	missing_or_unparseable_date
+OQ657296.1	Porcine epidemic diarrhea virus strain HNXH spike protein (S) gene, complete cds	G2cchinanew.txt	799	G2c	OQ657296.1|HNXH|31-Jan-2021|China	31-Jan-2021	missing_or_unparseable_date
+OQ657297.1	Porcine epidemic diarrhea virus strain HNYZ spike protein (S) gene, complete cds	G2cchinanew.txt	795	G2c	OQ657297.1|HNYZ|31-Jan-2021|China	31-Jan-2021	missing_or_unparseable_date
+OQ703966.1	Porcine epidemic diarrhea virus isolate CH-HeN-ZLH-2022, complete genome	G2cchinanew.txt	978	G2c	OQ703966.1|CH-HeN-ZLH-2022|15-Mar-2022|China	15-Mar-2022	missing_or_unparseable_date
+OQ718883.1	Porcine epidemic diarrhea virus isolate CH-HeN01-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	861	G2c	OQ718883.1|CH-HeN01-2021|15-May-2021|China	15-May-2021	missing_or_unparseable_date
+OQ718884.1	Porcine epidemic diarrhea virus isolate CH-HeN03-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	690	G2c	OQ718884.1|CH-HeN03-2021|24-Apr-2021|China	24-Apr-2021	missing_or_unparseable_date
+OQ718885.1	Porcine epidemic diarrhea virus isolate CH-HeN04-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	691	G2c	OQ718885.1|CH-HeN04-2021|24-Apr-2021|China	24-Apr-2021	missing_or_unparseable_date
+OQ718886.1	Porcine epidemic diarrhea virus isolate CH-HeN05-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	689	G2c	OQ718886.1|CH-HeN05-2021|24-Apr-2021|China	24-Apr-2021	missing_or_unparseable_date
+OQ718887.1	Porcine epidemic diarrhea virus isolate CH-HeN07-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	857	G2c	OQ718887.1|CH-HeN07-2021|10-May-2021|China	10-May-2021	missing_or_unparseable_date
+OQ718888.1	Porcine epidemic diarrhea virus isolate CH-HeN08-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	401	G2c	OQ718888.1|CH-HeN08-2021|17-May-2021|China	17-May-2021	missing_or_unparseable_date
+OQ718889.1	Porcine epidemic diarrhea virus isolate CH-HeN09-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	870	G2c	OQ718889.1|CH-HeN09-2021|17-May-2021|China	17-May-2021	missing_or_unparseable_date
+OQ718890.1	Porcine epidemic diarrhea virus isolate CH-HeN10-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	723	G2c	OQ718890.1|CH-HeN10-2021|17-May-2021|China	17-May-2021	missing_or_unparseable_date
+OQ718891.1	Porcine epidemic diarrhea virus isolate CH-HeN11-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	872	G2c	OQ718891.1|CH-HeN11-2021|21-Jul-2021|China	21-Jul-2021	missing_or_unparseable_date
+OQ718892.1	Porcine epidemic diarrhea virus isolate CH-HeN13-2021 spike protein (S) gene, complete cds	G2cchinanew.txt	983	G2c	OQ718892.1|CH-HeN13-2021|01-Aug-2021|China	01-Aug-2021	missing_or_unparseable_date
+OQ718893.1	Porcine epidemic diarrhea virus isolate CH-HeN12-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	976	G2c	OQ718893.1|CH-HeN12-2022|12-Jun-2022|China	12-Jun-2022	missing_or_unparseable_date
+OQ718894.1	Porcine epidemic diarrhea virus isolate CH-HeN14-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	873	G2c	OQ718894.1|CH-HeN14-2022|05-Jul-2022|China	05-Jul-2022	missing_or_unparseable_date
+OQ718895.1	Porcine epidemic diarrhea virus isolate CH-HeN15-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	756	G2c	OQ718895.1|CH-HeN15-2022|05-Jul-2022|China	05-Jul-2022	missing_or_unparseable_date
+OQ718896.1	Porcine epidemic diarrhea virus isolate CH-HeN16-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	757	G2c	OQ718896.1|CH-HeN16-2022|05-Jul-2022|China	05-Jul-2022	missing_or_unparseable_date
+OQ718897.1	Porcine epidemic diarrhea virus isolate CH-HeN17-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	985	G2c	OQ718897.1|CH-HeN17-2022|16-Aug-2022|China	16-Aug-2022	missing_or_unparseable_date
+OQ718898.1	Porcine epidemic diarrhea virus isolate CH-HeN18-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	984	G2c	OQ718898.1|CH-HeN18-2022|16-Aug-2022|China	16-Aug-2022	missing_or_unparseable_date
+OQ718899.1	Porcine epidemic diarrhea virus isolate CH-HeN19-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	986	G2c	OQ718899.1|CH-HeN19-2022|16-Aug-2022|China	16-Aug-2022	missing_or_unparseable_date
+OQ718900.1	Porcine epidemic diarrhea virus isolate CH-HeN20-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	874	G2c	OQ718900.1|CH-HeN20-2022|25-Oct-2022|China	25-Oct-2022	missing_or_unparseable_date
+OQ718901.1	Porcine epidemic diarrhea virus isolate CH-HeN21-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	724	G2c	OQ718901.1|CH-HeN21-2022|09-Dec-2022|China	09-Dec-2022	missing_or_unparseable_date
+OQ718902.1	Porcine epidemic diarrhea virus isolate CH-HeN22-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	981	G2c	OQ718902.1|CH-HeN22-2022|22-Dec-2022|China	22-Dec-2022	missing_or_unparseable_date
+OQ718903.1	Porcine epidemic diarrhea virus isolate CH-HeN23-2022 spike protein (S) gene, complete cds	G2cchinanew.txt	982	G2c	OQ718903.1|CH-HeN23-2022|22-Dec-2022|China	22-Dec-2022	missing_or_unparseable_date
+OQ718904.1	Porcine epidemic diarrhea virus isolate CH-HeN24-2023 spike protein (S) gene, complete cds	G2cchinanew.txt	975	G2c	OQ718904.1|CH-HeN24-2023|07-Jan-2023|China	07-Jan-2023	missing_or_unparseable_date
+OQ718905.1	Porcine epidemic diarrhea virus isolate CH-HeN25-2023 spike protein (S) gene, complete cds	G2cchinanew.txt	977	G2c	OQ718905.1|CH-HeN25-2023|07-Jan-2023|China	07-Jan-2023	missing_or_unparseable_date
+OQ718906.1	Porcine epidemic diarrhea virus isolate CH-HeN26-2023 spike protein (S) gene, complete cds	G2cchinanew.txt	726	G2c	OQ718906.1|CH-HeN26-2023|07-Jan-2023|China	07-Jan-2023	missing_or_unparseable_date
+OQ718907.1	Porcine epidemic diarrhea virus isolate CH-HeN28-2023 spike protein (S) gene, complete cds	G2cchinanew.txt	679	G2c	OQ718907.1|CH-HeN28-2023|17-Jan-2023|China	17-Jan-2023	missing_or_unparseable_date
+OQ718908.1	Porcine epidemic diarrhea virus isolate CH-HeN29-2023 spike protein (S) gene, complete cds	G2cchinanew.txt	677	G2c	OQ718908.1|CH-HeN29-2023|18-Feb-2023|China	18-Feb-2023	missing_or_unparseable_date
+OQ718910.1	Porcine epidemic diarrhea virus isolate CH-HeN31-2023 spike protein (S) gene, complete cds	G2cchinanew.txt	979	G2c	OQ718910.1|CH-HeN31-2023|15-Mar-2023|China	15-Mar-2023	missing_or_unparseable_date
+OQ718911.1	Porcine epidemic diarrhea virus isolate CH-HeN32-2023 spike protein (S) gene, complete cds	G2cchinanew.txt	727	G2c	OQ718911.1|CH-HeN32-2023|26-Mar-2023|China	26-Mar-2023	missing_or_unparseable_date
+OQ731918.1	Porcine epidemic diarrhea virus isolate PEDV-GX02/2022, complete genome	G2cchinanew.txt	383	G2c	OQ731918.1|PEDV-GX02/2022|12-Mar-2022|China	12-Mar-2022	missing_or_unparseable_date
+OR001815.1	Porcine epidemic diarrhea virus isolate A2021014 spike protein (S) gene, complete cds	G2cchinanew.txt	802	G2c	OR001815.1|A2021014|07-Apr-2021|China	07-Apr-2021	missing_or_unparseable_date
+OR001816.1	Porcine epidemic diarrhea virus isolate A2021015 spike protein (S) gene, complete cds	G2cchinanew.txt	803	G2c	OR001816.1|A2021015|07-Apr-2021|China	07-Apr-2021	missing_or_unparseable_date
+OR001818.1	Porcine epidemic diarrhea virus isolate A2021016 spike protein (S) gene, complete cds	G2cchinanew.txt	539	G2c	OR001818.1|A2021016|07-Apr-2021|China	07-Apr-2021	missing_or_unparseable_date
+OR001819.1	Porcine epidemic diarrhea virus isolate A2021018 spike protein (S) gene, complete cds	G2cchinanew.txt	544	G2c	OR001819.1|A2021018|07-Apr-2021|China	07-Apr-2021	missing_or_unparseable_date
+OR001820.1	Porcine epidemic diarrhea virus isolate A22073102 spike protein (S) gene, complete cds	G2cchinanew.txt	543	G2c	OR001820.1|A22073102|31-Jul-2022|China	31-Jul-2022	missing_or_unparseable_date
+OR001821.1	Porcine epidemic diarrhea virus isolate LY02 spike protein (S) gene, complete cds	G2cchinanew.txt	437	G2c	OR001821.1|LY02|18-May-2020|China	18-May-2020	missing_or_unparseable_date
+OR001822.1	Porcine epidemic diarrhea virus isolate LY03 spike protein (S) gene, complete cds	G2cchinanew.txt	474	G2c	OR001822.1|LY03|18-May-2020|China	18-May-2020	missing_or_unparseable_date
+OR001823.1	Porcine epidemic diarrhea virus isolate A2021017 spike protein (S) gene, complete cds	G2cchinanew.txt	545	G2c	OR001823.1|A2021017|07-Apr-2021|China	07-Apr-2021	missing_or_unparseable_date
+OR234022.1	Porcine epidemic diarrhea virus isolate SXXY, complete genome	G2cchinanew.txt	415	G2c	OR234022.1|SXXY|05-Nov-2021|China	05-Nov-2021	missing_or_unparseable_date
+OR240110.1	Porcine epidemic diarrhea virus isolate CHN/TZ2023 spike protein (S) gene, complete cds	G2cchinanew.txt	822	G2c	OR240110.1|CHN/TZ2023|08-Apr-2023|China	08-Apr-2023	missing_or_unparseable_date
+OR472492.1	Porcine epidemic diarrhea virus isolate SXXY-1 spike protein gene, complete cds	G2cchinanew.txt	418	G2c	OR472492.1|SXXY-1|21-Dec-2021|China	21-Dec-2021	missing_or_unparseable_date
+OR479080.1	Porcine epidemic diarrhea virus isolate CH/JX2301 spike protein (S) gene, complete cds	G2cchinanew.txt	1087	G2c	OR479080.1|CH/JX2301|NA|China	N/A	missing_or_unparseable_date
+OR526953.1	Porcine epidemic diarrhea virus isolate PEDV-LN-P15 spike protein gene, complete cds	G2cchinanew.txt	381	G2c	OR526953.1|PEDV-LN-P15|31-Jan-2020|China	31-Jan-2020	missing_or_unparseable_date
+OR567503.1	Porcine epidemic diarrhea virus isolate CHN/HuB-202201 spike protein gene, complete cds	G2cchinanew.txt	126	G2c	OR567503.1|CHN/HuB-202201|28-Jan-2022|China	28-Jan-2022	missing_or_unparseable_date
+OR567504.1	Porcine epidemic diarrhea virus isolate CHN/HuB-202202 spike protein gene, complete cds	G2cchinanew.txt	814	G2c	OR567504.1|CHN/HuB-202202|28-Jan-2022|China	28-Jan-2022	missing_or_unparseable_date
+OR567505.1	Porcine epidemic diarrhea virus isolate CHN/HuN-202201 spike protein gene, complete cds	G2cchinanew.txt	815	G2c	OR567505.1|CHN/HuN-202201|13-Jun-2022|China	13-Jun-2022	missing_or_unparseable_date
+OR567506.1	Porcine epidemic diarrhea virus isolate CHN/HuN-202202 spike protein gene, complete cds	G2cchinanew.txt	649	G2c	OR567506.1|CHN/HuN-202202|13-Jun-2022|China	13-Jun-2022	missing_or_unparseable_date
+OR567507.1	Porcine epidemic diarrhea virus isolate CHN/JX-202202 spike protein gene, complete cds	G2cchinanew.txt	619	G2c	OR567507.1|CHN/JX-202202|15-Aug-2022|China	15-Aug-2022	missing_or_unparseable_date
+OR567508.1	Porcine epidemic diarrhea virus isolate CHN/JX-202203 spike protein gene, complete cds	G2cchinanew.txt	653	G2c	OR567508.1|CHN/JX-202203|15-Aug-2022|China	15-Aug-2022	missing_or_unparseable_date
+OR567509.1	Porcine epidemic diarrhea virus isolate CHN/JX-202204 spike protein gene, complete cds	G2cchinanew.txt	1133	G2c	OR567509.1|CHN/JX-202204|15-Aug-2022|China	15-Aug-2022	missing_or_unparseable_date
+OR587951.1	Porcine epidemic diarrhea virus isolate CH/HLJGS/2023, complete genome	G2cchinanew.txt	1134	G2c	OR587951.1|CH/HLJGS/2023|10-Mar-2023|China	10-Mar-2023	missing_or_unparseable_date
+OR808014.1	Porcine epidemic diarrhea virus isolate JSxz2021 spike protein (S) gene, complete cds	G2cchinanew.txt	809	G2c	OR808014.1|JSxz2021|05-Feb-2021|China	05-Feb-2021	missing_or_unparseable_date
+OR808015.1	Porcine epidemic diarrhea virus isolate JSxz2023 spike protein (S) gene, complete cds	G2cchinanew.txt	1170	G2c	OR808015.1|JSxz2023|10-Mar-2023|China	10-Mar-2023	missing_or_unparseable_date
+OR808016.1	Porcine epidemic diarrhea virus isolate JSyc2021 spike protein (S) gene, complete cds	G2cchinanew.txt	355	G2c	OR808016.1|JSyc2021|13-Jan-2021|China	13-Jan-2021	missing_or_unparseable_date
+OR808017.1	Porcine epidemic diarrhea virus isolate AHbz2022 spike protein (S) gene, complete cds	G2cchinanew.txt	1002	G2c	OR808017.1|AHbz2022|01-Feb-2022|China	01-Feb-2022	missing_or_unparseable_date
+OR808020.1	Porcine epidemic diarrhea virus isolate AHfy2023 spike protein (S) gene, complete cds	G2cchinanew.txt	186	G2c	OR808020.1|AHfy2023|10-Mar-2023|China	10-Mar-2023	missing_or_unparseable_date
+PP198349.1	Porcine epidemic diarrhea virus strain CHN/JX-202201, complete genome	G2cchinanew.txt	813	G2c	PP198349.1|CHN/JX-202201|15-Aug-2022|China	15-Aug-2022	missing_or_unparseable_date
+PP395568.1	Porcine epidemic diarrhea virus strain SC2020LS spike protein (S) gene, complete cds	G2cchinanew.txt	1089	G2c	PP395568.1|SC2020LS|06-Feb-2020|China	06-Feb-2020	missing_or_unparseable_date
+PP395573.1	Porcine epidemic diarrhea virus strain SC2020NC spike protein (S) gene, complete cds	G2cchinanew.txt	1102	G2c	PP395573.1|SC2020NC|12-Nov-2020|China	12-Nov-2020	missing_or_unparseable_date
+PP395574.1	Porcine epidemic diarrhea virus strain SC2020CD spike protein (S) gene, complete cds	G2cchinanew.txt	869	G2c	PP395574.1|SC2020CD|26-Nov-2020|China	26-Nov-2020	missing_or_unparseable_date
+PP395575.1	Porcine epidemic diarrhea virus strain SC2020GY spike protein (S) gene, complete cds	G2cchinanew.txt	242	G2c	PP395575.1|SC2020GY|14-Dec-2020|China	14-Dec-2020	missing_or_unparseable_date
+PP395577.1	Porcine epidemic diarrhea virus strain SC2021BZ spike protein (S) gene, complete cds	G2cchinanew.txt	596	G2c	PP395577.1|SC2021BZ|16-Jan-2021|China	16-Jan-2021	missing_or_unparseable_date
+PP395579.1	Porcine epidemic diarrhea virus strain SC2021ZG spike protein (S) gene, complete cds	G2cchinanew.txt	455	G2c	PP395579.1|SC2021ZG|06-Apr-2021|China	06-Apr-2021	missing_or_unparseable_date
+PP395580.1	Porcine epidemic diarrhea virus strain SC2021GA spike protein (S) gene, complete cds	G2cchinanew.txt	556	G2c	PP395580.1|SC2021GA|16-Oct-2021|China	16-Oct-2021	missing_or_unparseable_date
+PP395581.1	Porcine epidemic diarrhea virus strain SC2021YA spike protein (S) gene, complete cds	G2cchinanew.txt	517	G2c	PP395581.1|SC2021YA|03-Nov-2021|China	03-Nov-2021	missing_or_unparseable_date
+PP395583.1	Porcine epidemic diarrhea virus strain SC2022LS spike protein (S) gene, complete cds	G2cchinanew.txt	109	G2c	PP395583.1|SC2022LS|22-Jan-2022|China	22-Jan-2022	missing_or_unparseable_date
+PP395586.1	Porcine epidemic diarrhea virus strain SC2022MS spike protein (S) gene, complete cds	G2cchinanew.txt	1	G2c	PP395586.1|SC2022MS|09-Mar-2022|China	09-Mar-2022	missing_or_unparseable_date
+PP395587.1	Porcine epidemic diarrhea virus strain SC2022ZG spike protein (S) gene, complete cds	G2cchinanew.txt	48	G2c	PP395587.1|SC2022ZG|07-May-2022|China	07-May-2022	missing_or_unparseable_date
+PP395589.1	Porcine epidemic diarrhea virus strain SC2022CD spike protein (S) gene, complete cds	G2cchinanew.txt	378	G2c	PP395589.1|SC2022CD|18-Oct-2022|China	18-Oct-2022	missing_or_unparseable_date
+PP395590.1	Porcine epidemic diarrhea virus strain SC2022NC spike protein (S) gene, complete cds	G2cchinanew.txt	635	G2c	PP395590.1|SC2022NC|05-Nov-2022|China	05-Nov-2022	missing_or_unparseable_date
+PP395591.1	Porcine epidemic diarrhea virus strain SC2022GY spike protein (S) gene, complete cds	G2cchinanew.txt	407	G2c	PP395591.1|SC2022GY|21-Nov-2022|China	21-Nov-2022	missing_or_unparseable_date
+PP395592.1	Porcine epidemic diarrhea virus strain SC2022DZ spike protein (S) gene, complete cds	G2cchinanew.txt	408	G2c	PP395592.1|SC2022DZ|01-Dec-2022|China	01-Dec-2022	missing_or_unparseable_date
+PP395593.1	Porcine epidemic diarrhea virus strain SC2022GZ spike protein (S) gene, complete cds	G2cchinanew.txt	368	G2c	PP395593.1|SC2022GZ|18-Dec-2022|China	18-Dec-2022	missing_or_unparseable_date
+PP472642.1	Porcine epidemic diarrhea virus isolate JSYC/2021, complete genome	G2cchinanew.txt	698	G2c	PP472642.1|JSYC/2021|12-Jan-2021|China	12-Jan-2021	missing_or_unparseable_date
+PP472643.1	Porcine epidemic diarrhea virus isolate HNNY/2022, complete genome	G2cchinanew.txt	538	G2c	PP472643.1|HNNY/2022|24-Jun-2022|China	24-Jun-2022	missing_or_unparseable_date
+PP472644.1	Porcine epidemic diarrhea virus isolate GXGL/2022, complete genome	G2cchinanew.txt	533	G2c	PP472644.1|GXGL/2022|23-Mar-2022|China	23-Mar-2022	missing_or_unparseable_date
+PP472646.1	Porcine epidemic diarrhea virus isolate ZJWZ/2021, complete genome	G2cchinanew.txt	225	G2c	PP472646.1|ZJWZ/2021|27-Oct-2021|China	27-Oct-2021	missing_or_unparseable_date
+PP501550.1	Porcine epidemic diarrhea virus strain FJ-NP spike protein gene, complete cds	G2cchinanew.txt	1076	G2c	PP501550.1|FJ-NP|30-Jan-2024|China	30-Jan-2024	missing_or_unparseable_date
+PP537163.1	Porcine epidemic diarrhea virus isolate MLS-23 spike protein gene, complete cds	G2cchinanew.txt	1119	G2c	PP537163.1|MLS-23|01-Jan-2023|China	01-Jan-2023	missing_or_unparseable_date
+PP580800.1	Porcine epidemic diarrhea virus isolate SD-WF2023 spike protein (S) gene, complete cds	G2cchinanew.txt	1029	G2c	PP580800.1|SD-WF2023|24-Nov-2023|China	24-Nov-2023	missing_or_unparseable_date
+PP595924.1	Porcine epidemic diarrhea virus strain XJ-KT-1 spike protein (S) gene, complete cds	G2cchinanew.txt	327	G2c	PP595924.1|XJ-KT-1|02-Mar-2024|China	02-Mar-2024	missing_or_unparseable_date
+PP623116.1	Porcine epidemic diarrhea virus isolate SCABTC-GA, complete genome	G2cchinanew.txt	1090	G2c	PP623116.1|SCABTC-GA|15-Nov-2022|China	15-Nov-2022	missing_or_unparseable_date
+PP690527.1	Porcine epidemic diarrhea virus isolate SCCD-P05, complete genome	G2cchinanew.txt	403	G2c	PP690527.1|SCCD-P05|22-Mar-2023|China	22-Mar-2023	missing_or_unparseable_date
+PQ014389.1	Porcine epidemic diarrhea virus strain CH-JX-2024, complete genome	G2cchinanew.txt	1088	G2c	PQ014389.1|CH-JX-2024|14-Apr-2024|China	14-Apr-2024	missing_or_unparseable_date
+PQ123997.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-CY S protein gene, complete cds	G2cchinanew.txt	1149	G2c	PQ123997.1|SCABTC-PEDV-CY|25-Sep-2023|China	25-Sep-2023	missing_or_unparseable_date
+PQ123998.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-DK S protein gene, complete cds	G2cchinanew.txt	959	G2c	PQ123998.1|SCABTC-PEDV-DK|21-Mar-2024|China	21-Mar-2024	missing_or_unparseable_date
+PQ124001.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-HT S protein gene, complete cds	G2cchinanew.txt	897	G2c	PQ124001.1|SCABTC-PEDV-HT|05-Sep-2023|China	05-Sep-2023	missing_or_unparseable_date
+PQ124002.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-JC S protein gene, complete cds	G2cchinanew.txt	948	G2c	PQ124002.1|SCABTC-PEDV-JC|09-May-2023|China	09-May-2023	missing_or_unparseable_date
+PQ124003.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-JL S protein gene, complete cds	G2cchinanew.txt	1130	G2c	PQ124003.1|SCABTC-PEDV-JL|12-Feb-2024|China	12-Feb-2024	missing_or_unparseable_date
+PQ124004.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-M6 S protein gene, complete cds	G2cchinanew.txt	1073	G2c	PQ124004.1|SCABTC-PEDV-M6|21-Jan-2024|China	21-Jan-2024	missing_or_unparseable_date
+PQ124005.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-M7 S protein gene, complete cds	G2cchinanew.txt	1123	G2c	PQ124005.1|SCABTC-PEDV-M7|19-Feb-2024|China	19-Feb-2024	missing_or_unparseable_date
+PQ124006.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-M8 S protein gene, complete cds	G2cchinanew.txt	1150	G2c	PQ124006.1|SCABTC-PEDV-M8|11-Jan-2024|China	11-Jan-2024	missing_or_unparseable_date
+PQ124008.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-SL S protein gene, complete cds	G2cchinanew.txt	456	G2c	PQ124008.1|SCABTC-PEDV-SL|03-Oct-2023|China	03-Oct-2023	missing_or_unparseable_date
+PQ124009.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-T S protein gene, complete cds	G2cchinanew.txt	840	G2c	PQ124009.1|SCABTC-PEDV-T|24-Nov-2023|China	24-Nov-2023	missing_or_unparseable_date
+PQ124010.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-XN S protein gene, complete cds	G2cchinanew.txt	1005	G2c	PQ124010.1|SCABTC-PEDV-XN|10-Feb-2024|China	10-Feb-2024	missing_or_unparseable_date
+PQ124011.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-ZY S protein gene, complete cds	G2cchinanew.txt	1131	G2c	PQ124011.1|SCABTC-PEDV-ZY|20-Nov-2023|China	20-Nov-2023	missing_or_unparseable_date
+PQ124012.1	Porcine epidemic diarrhea virus strain SCABTC-PEDV-ZYC S protein gene, complete cds	G2cchinanew.txt	180	G2c	PQ124012.1|SCABTC-PEDV-ZYC|16-Nov-2023|China	16-Nov-2023	missing_or_unparseable_date
+PQ631046.1	Porcine epidemic diarrhea virus isolate PEDV HLJHG, complete genome	G2cchinanew.txt	246	G2c	PQ631046.1|PEDV_HLJHG|01-Nov-2022|China	01-Nov-2022	missing_or_unparseable_date
+PQ642131.1	Porcine epidemic diarrhea virus isolate GD1S spike protein (S) gene, complete cds	G2cchinanew.txt	905	G2c	PQ642131.1|GD1S|01-Apr-2024|China	01-Apr-2024	missing_or_unparseable_date
+PQ846960.1	Porcine epidemic diarrhea virus isolate GZ/2024, complete genome	G2cchinanew.txt	446	G2c	PQ846960.1|GZ/2024|08-Feb-2024|China	08-Feb-2024	missing_or_unparseable_date
+PV098397.1	Porcine epidemic diarrhea virus isolate PEDV-BJ-2023, complete genome	G2cchinanew.txt	229	G2c	PV098397.1|PEDV-BJ-2023|10-Feb-2023|China	10-Feb-2023	missing_or_unparseable_date
+PV098398.1	Porcine epidemic diarrhea virus isolate PEDV-ZY-2023, complete genome	G2cchinanew.txt	947	G2c	PV098398.1|PEDV-ZY-2023|10-Feb-2023|China	10-Feb-2023	missing_or_unparseable_date
+PV164718.1	Porcine epidemic diarrhea virus isolate PEDV HN22HN1101 spike protein (S) gene, complete cds	G2cchinanew.txt	555	G2c	PV164718.1|PEDV_HN22HN1101|24-Nov-2022|China	24-Nov-2022	missing_or_unparseable_date
+PV164719.1	Porcine epidemic diarrhea virus isolate PEDV JS22SQ0301-02 spike protein (S) gene, complete cds	G2cchinanew.txt	754	G2c	PV164719.1|PEDV_JS22SQ0301-02|08-Mar-2022|China	08-Mar-2022	missing_or_unparseable_date
+PV164723.1	Porcine epidemic diarrhea virus isolate PEDV YN23YN0501-01 spike protein (S) gene, complete cds	G2cchinanew.txt	1069	G2c	PV164723.1|PEDV_YN23YN0501-01|21-May-2023|China	21-May-2023	missing_or_unparseable_date
+PV164724.1	Porcine epidemic diarrhea virus isolate PEDV ZJ23HZ0201 spike protein (S) gene, complete cds	G2cchinanew.txt	899	G2c	PV164724.1|PEDV_ZJ23HZ0201|20-Feb-2023|China	20-Feb-2023	missing_or_unparseable_date
+PV164725.1	Porcine epidemic diarrhea virus isolate PEDV ZJ23HZ0401-01 spike protein (S) gene, complete cds	G2cchinanew.txt	921	G2c	PV164725.1|PEDV_ZJ23HZ0401-01|14-Apr-2023|China	14-Apr-2023	missing_or_unparseable_date
+PV164726.1	Porcine epidemic diarrhea virus isolate PEDV ZJ23LS0201-02 spike protein (S) gene, complete cds	G2cchinanew.txt	1086	G2c	PV164726.1|PEDV_ZJ23LS0201-02|17-Feb-2023|China	17-Feb-2023	missing_or_unparseable_date
+PV164730.1	Porcine epidemic diarrhea virus isolate PEDV AH24AH0501-01 spike protein (S) gene, complete cds	G2cchinanew.txt	866	G2c	PV164730.1|PEDV_AH24AH0501-01|28-May-2024|China	28-May-2024	missing_or_unparseable_date
+PV164731.1	Porcine epidemic diarrhea virus isolate PEDV HN24HN0401 spike protein (S) gene, complete cds	G2cchinanew.txt	911	G2c	PV164731.1|PEDV_HN24HN0401|15-Apr-2024|China	15-Apr-2024	missing_or_unparseable_date
+PV164732.1	Porcine epidemic diarrhea virus isolate PEDV SX24SX0701-04 spike protein (S) gene, complete cds	G2cchinanew.txt	1075	G2c	PV164732.1|PEDV_SX24SX0701-04|22-Jul-2024|China	22-Jul-2024	missing_or_unparseable_date
+PV164733.1	Porcine epidemic diarrhea virus isolate PEDV ZJ24LS0201 spike protein (S) gene, complete cds	G2cchinanew.txt	842	G2c	PV164733.1|PEDV_ZJ24LS0201|25-Feb-2024|China	25-Feb-2024	missing_or_unparseable_date
+PV164735.1	Porcine epidemic diarrhea virus isolate PEDV ZJ24NB0401 spike protein (S) gene, complete cds	G2cchinanew.txt	849	G2c	PV164735.1|PEDV_ZJ24NB0401|03-Apr-2024|China	03-Apr-2024	missing_or_unparseable_date
+PV235412.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate 2024-GXYL sequence	G2cchinanew.txt	929	G2c	PV235412.1|2024-GXYL|31-Jan-2024|China	31-Jan-2024	missing_or_unparseable_date
+PV235413.1	Porcine epidemic diarrhea virus isolate 2024-JXNC spike (S) gene, complete cds	G2cchinanew.txt	655	G2c	PV235413.1|2024-JXNC|14-Nov-2024|China	14-Nov-2024	missing_or_unparseable_date
+PV235414.1	Porcine epidemic diarrhea virus isolate 2024-JXYX spike (S) gene, complete cds	G2cchinanew.txt	314	G2c	PV235414.1|2024-JXYX|14-Nov-2024|China	14-Nov-2024	missing_or_unparseable_date
+PV235415.1	Porcine epidemic diarrhea virus isolate 2021-HBMC spike (S) gene, complete cds	G2cchinanew.txt	854	G2c	PV235415.1|2021-HBMC|15-Aug-2021|China	15-Aug-2021	missing_or_unparseable_date
+PV536060.1	Porcine epidemic diarrhea virus isolate PEDV-AHCD1-2023, partial genome	G2cchinanew.txt	1188	G2c	PV536060.1|PEDV-AHCD1-2023|16-May-2023|China	16-May-2023	missing_or_unparseable_date
+PV536061.1	Porcine epidemic diarrhea virus isolate PEDV-AHCD5-2023, partial genome	G2cchinanew.txt	1189	G2c	PV536061.1|PEDV-AHCD5-2023|16-May-2023|China	16-May-2023	missing_or_unparseable_date
+PV536062.1	Porcine epidemic diarrhea virus isolate PEDV-AHFW5-2023, partial genome	G2cchinanew.txt	681	G2c	PV536062.1|PEDV-AHFW5-2023|10-Nov-2023|China	10-Nov-2023	missing_or_unparseable_date
+PV536063.1	Porcine epidemic diarrhea virus isolate PEDV-AHHJ13-2023, partial genome	G2cchinanew.txt	683	G2c	PV536063.1|PEDV-AHHJ13-2023|02-Aug-2023|China	02-Aug-2023	missing_or_unparseable_date
+PV536064.1	Porcine epidemic diarrhea virus isolate PEDV-AHHJ17-2023, partial genome	G2cchinanew.txt	684	G2c	PV536064.1|PEDV-AHHJ17-2023|02-Aug-2023|China	02-Aug-2023	missing_or_unparseable_date
+PV536065.1	Porcine epidemic diarrhea virus isolate PEDV-AHHJ19-2023, partial genome	G2cchinanew.txt	682	G2c	PV536065.1|PEDV-AHHJ19-2023|02-Aug-2023|China	02-Aug-2023	missing_or_unparseable_date
+PV536067.1	Porcine epidemic diarrhea virus isolate PEDV-AHHT10-2023, partial genome	G2cchinanew.txt	991	G2c	PV536067.1|PEDV-AHHT10-2023|15-Jan-2024|China	15-Jan-2024	missing_or_unparseable_date
+PV536075.1	Porcine epidemic diarrhea virus isolate PEDV-AHJN3-2023, partial genome	G2cchinanew.txt	992	G2c	PV536075.1|PEDV-AHJN3-2023|15-Jan-2024|China	15-Jan-2024	missing_or_unparseable_date
+PV536076.1	Porcine epidemic diarrhea virus isolate PEDV-AHLY25-2022, partial genome	G2cchinanew.txt	900	G2c	PV536076.1|PEDV-AHLY25-2022|01-Dec-2022|China	01-Dec-2022	missing_or_unparseable_date
+PV536077.1	Porcine epidemic diarrhea virus isolate PEDV-AHLY7-2022, partial genome	G2cchinanew.txt	901	G2c	PV536077.1|PEDV-AHLY7-2022|01-Dec-2022|China	01-Dec-2022	missing_or_unparseable_date
+PV536078.1	Porcine epidemic diarrhea virus isolate PEDV-AHSG1-2023, partial genome	G2cchinanew.txt	993	G2c	PV536078.1|PEDV-AHSG1-2023|15-Jan-2024|China	15-Jan-2024	missing_or_unparseable_date
+PV536082.1	Porcine epidemic diarrhea virus isolate PEDV-GSLX2-2023, partial genome	G2cchinanew.txt	827	G2c	PV536082.1|PEDV-GSLX2-2023|22-Jun-2023|China	22-Jun-2023	missing_or_unparseable_date
+PV536083.1	Porcine epidemic diarrhea virus isolate PEDV-GSLX3-2023, partial genome	G2cchinanew.txt	828	G2c	PV536083.1|PEDV-GSLX3-2023|22-Jun-2023|China	22-Jun-2023	missing_or_unparseable_date
+PV536084.1	Porcine epidemic diarrhea virus isolate PEDV-GSXY6-2023, partial genome	G2cchinanew.txt	834	G2c	PV536084.1|PEDV-GSXY6-2023|15-Dec-2023|China	15-Dec-2023	missing_or_unparseable_date
+PV536085.1	Porcine epidemic diarrhea virus isolate PEDV-GSXY7-2023, partial genome	G2cchinanew.txt	835	G2c	PV536085.1|PEDV-GSXY7-2023|15-Dec-2023|China	15-Dec-2023	missing_or_unparseable_date
+PV536087.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-GSYT4-2023, partial genome	G2cchinanew.txt	832	G2c	PV536087.1|PEDV-GSYT4-2023|14-Apr-2023|China	14-Apr-2023	missing_or_unparseable_date
+PV536088.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-GSYT5-2023, partial genome	G2cchinanew.txt	833	G2c	PV536088.1|PEDV-GSYT5-2023|14-Apr-2023|China	14-Apr-2023	missing_or_unparseable_date
+PV536089.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-GSYT8-2023, partial genome	G2cchinanew.txt	836	G2c	PV536089.1|PEDV-GSYT8-2023|14-Apr-2023|China	14-Apr-2023	missing_or_unparseable_date
+PV536090.1	Porcine epidemic diarrhea virus isolate PEDV-GSYT9-2023, partial genome	G2cchinanew.txt	837	G2c	PV536090.1|PEDV-GSYT9-2023|14-Apr-2023|China	14-Apr-2023	missing_or_unparseable_date
+PV536092.1	Porcine epidemic diarrhea virus isolate PEDV-HuBXL10-2023, partial genome	G2cchinanew.txt	925	G2c	PV536092.1|PEDV-HuBXL10-2023|27-Aug-2023|China	27-Aug-2023	missing_or_unparseable_date
+PV536094.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-HuBXL14-2023, partial genome	G2cchinanew.txt	924	G2c	PV536094.1|PEDV-HuBXL14-2023|27-Aug-2023|China	27-Aug-2023	missing_or_unparseable_date
+PV536095.1	Porcine epidemic diarrhea virus isolate PEDV-HuBXL2-2023, partial genome	G2cchinanew.txt	926	G2c	PV536095.1|PEDV-HuBXL2-2023|27-Aug-2023|China	27-Aug-2023	missing_or_unparseable_date
+PV536096.1	Porcine epidemic diarrhea virus isolate PEDV-HuBXL4-2023, partial genome	G2cchinanew.txt	927	G2c	PV536096.1|PEDV-HuBXL4-2023|27-Aug-2023|China	27-Aug-2023	missing_or_unparseable_date
+PV536097.1	Porcine epidemic diarrhea virus isolate PEDV-JLBC9-2023, partial genome	G2cchinanew.txt	328	G2c	PV536097.1|PEDV-JLBC9-2023|24-Dec-2023|China	24-Dec-2023	missing_or_unparseable_date
+PV536098.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-JLCG12-2024, partial genome	G2cchinanew.txt	919	G2c	PV536098.1|PEDV-JLCG12-2024|20-Apr-2024|China	20-Apr-2024	missing_or_unparseable_date
+PV536100.1	Porcine epidemic diarrhea virus isolate PEDV-JLCG9-2024, partial genome	G2cchinanew.txt	293	G2c	PV536100.1|PEDV-JLCG9-2024|20-Apr-2024|China	20-Apr-2024	missing_or_unparseable_date
+PV536101.1	Porcine epidemic diarrhea virus isolate PEDV-JSJL1-2023, partial genome	G2cchinanew.txt	748	G2c	PV536101.1|PEDV-JSJL1-2023|05-Apr-2022|China	05-Apr-2022	missing_or_unparseable_date
+PV536102.1	Porcine epidemic diarrhea virus isolate PEDV-JSYM2-2023, partial genome	G2cchinanew.txt	945	G2c	PV536102.1|PEDV-JSYM2-2023|16-Jan-2024|China	16-Jan-2024	missing_or_unparseable_date
+PV536103.1	Porcine epidemic diarrhea virus isolate PEDV-JSYM5-2023, partial genome	G2cchinanew.txt	946	G2c	PV536103.1|PEDV-JSYM5-2023|16-Jan-2024|China	16-Jan-2024	missing_or_unparseable_date
+PV536104.1	Porcine epidemic diarrhea virus isolate PEDV-LNDC35-2023, partial genome	G2cchinanew.txt	181	G2c	PV536104.1|PEDV-LNDC35-2023|28-Feb-2024|China	28-Feb-2024	missing_or_unparseable_date
+PV536105.1	Porcine epidemic diarrhea virus isolate PEDV-LNDC36-2023, partial genome	G2cchinanew.txt	182	G2c	PV536105.1|PEDV-LNDC36-2023|28-Feb-2024|China	28-Feb-2024	missing_or_unparseable_date
+PV536107.1	Porcine epidemic diarrhea virus isolate PEDV-SDJG18-2023, partial genome	G2cchinanew.txt	967	G2c	PV536107.1|PEDV-SDJG18-2023|19-Sep-2023|China	19-Sep-2023	missing_or_unparseable_date
+PV536113.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-XJDB5-2023, partial genome	G2cchinanew.txt	287	G2c	PV536113.1|PEDV-XJDB5-2023|10-Apr-2023|China	10-Apr-2023	missing_or_unparseable_date
+PV536114.1	Porcine epidemic diarrhea virus isolate PEDV-XJDB9-2023, partial genome	G2cchinanew.txt	288	G2c	PV536114.1|PEDV-XJDB9-2023|10-Apr-2023|China	10-Apr-2023	missing_or_unparseable_date
+PV536115.1	Porcine epidemic diarrhea virus isolate PEDV-XJTYQ11-2023, partial genome	G2cchinanew.txt	270	G2c	PV536115.1|PEDV-XJTYQ11-2023|14-Aug-2023|China	14-Aug-2023	missing_or_unparseable_date
+PV536116.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-XJTYQ8-2023, partial genome	G2cchinanew.txt	271	G2c	PV536116.1|PEDV-XJTYQ8-2023|14-Aug-2023|China	14-Aug-2023	missing_or_unparseable_date
+PV536117.1	Porcine epidemic diarrhea virus isolate PEDV-YNQW1-2023, partial genome	G2cchinanew.txt	233	G2c	PV536117.1|PEDV-YNQW1-2023|26-Mar-2023|China	26-Mar-2023	missing_or_unparseable_date
+PV536118.1	Porcine epidemic diarrhea virus isolate PEDV-YNQW21-2023, partial genome	G2cchinanew.txt	232	G2c	PV536118.1|PEDV-YNQW21-2023|26-Mar-2023|China	26-Mar-2023	missing_or_unparseable_date
+PV536119.1	Porcine epidemic diarrhea virus isolate PEDV-YNQW2-2023, partial genome	G2cchinanew.txt	234	G2c	PV536119.1|PEDV-YNQW2-2023|26-Mar-2023|China	26-Mar-2023	missing_or_unparseable_date
+PV536120.1	Porcine epidemic diarrhea virus isolate PEDV-YNQW22-2023, partial genome	G2cchinanew.txt	235	G2c	PV536120.1|PEDV-YNQW22-2023|26-Mar-2023|China	26-Mar-2023	missing_or_unparseable_date
+PV536121.1	UNVERIFIED_ASMBLY: Porcine epidemic diarrhea virus isolate PEDV-YNQW24-2023, partial genome	G2cchinanew.txt	236	G2c	PV536121.1|PEDV-YNQW24-2023|26-Mar-2023|China	26-Mar-2023	missing_or_unparseable_date
+PV837602.1	Porcine epidemic diarrhea virus strain swine/QD2306, complete genome	G2cchinanew.txt	1085	G2c	PV837602.1|swine/QD2306|28-Jun-2023|China	28-Jun-2023	missing_or_unparseable_date
+PV890852.1	Porcine epidemic diarrhea virus isolate HNNY-10 spike protein (S) gene, complete cds	G2cchinanew.txt	1137	G2c	PV890852.1|HNNY-10|28-Nov-2023|China	28-Nov-2023	missing_or_unparseable_date
+PV890853.1	Porcine epidemic diarrhea virus isolate HNNY-11 spike protein (S) gene, complete cds	G2cchinanew.txt	1138	G2c	PV890853.1|HNNY-11|28-Nov-2023|China	28-Nov-2023	missing_or_unparseable_date
+PV890854.1	Porcine epidemic diarrhea virus isolate HNNY-12 spike protein (S) gene, complete cds	G2cchinanew.txt	1136	G2c	PV890854.1|HNNY-12|28-Nov-2023|China	28-Nov-2023	missing_or_unparseable_date
+PV890855.1	Porcine epidemic diarrhea virus isolate HNJZ-14 spike protein (S) gene, complete cds	G2cchinanew.txt	1003	G2c	PV890855.1|HNJZ-14|25-Dec-2023|China	25-Dec-2023	missing_or_unparseable_date
+PV890856.1	Porcine epidemic diarrhea virus isolate HNXC-15 spike protein (S) gene, complete cds	G2cchinanew.txt	190	G2c	PV890856.1|HNXC-15|06-Dec-2023|China	06-Dec-2023	missing_or_unparseable_date
+PV890858.1	Porcine epidemic diarrhea virus isolate HNYZ-8 spike protein (S) gene, complete cds	G2cchinanew.txt	191	G2c	PV890858.1|HNYZ-8|29-Nov-2023|China	29-Nov-2023	missing_or_unparseable_date
+PV890859.1	Porcine epidemic diarrhea virus isolate HNYZ-9 spike protein (S) gene, complete cds	G2cchinanew.txt	192	G2c	PV890859.1|HNYZ-9|29-Nov-2023|China	29-Nov-2023	missing_or_unparseable_date
+PV890860.1	Porcine epidemic diarrhea virus isolate HNZK-38 spike protein (S) gene, complete cds	G2cchinanew.txt	965	G2c	PV890860.1|HNZK-38|02-Dec-2024|China	02-Dec-2024	missing_or_unparseable_date
+PV890861.1	Porcine epidemic diarrhea virus isolate HNZK-39 spike protein (S) gene, complete cds	G2cchinanew.txt	966	G2c	PV890861.1|HNZK-39|02-Dec-2024|China	02-Dec-2024	missing_or_unparseable_date
+PV890862.1	Porcine epidemic diarrhea virus isolate HNBY-31 spike protein (S) gene, complete cds	G2cchinanew.txt	1100	G2c	PV890862.1|HNBY-31|14-Feb-2024|China	14-Feb-2024	missing_or_unparseable_date
+PV890863.1	Porcine epidemic diarrhea virus isolate HNBY-32 spike protein (S) gene, complete cds	G2cchinanew.txt	1101	G2c	PV890863.1|HNBY-32|14-Feb-2024|China	14-Feb-2024	missing_or_unparseable_date
+PV890864.1	Porcine epidemic diarrhea virus isolate HNPY-22 spike protein (S) gene, complete cds	G2cchinanew.txt	1191	G2c	PV890864.1|HNPY-22|20-Jan-2024|China	20-Jan-2024	missing_or_unparseable_date
+PV890865.1	Porcine epidemic diarrhea virus isolate HNHB-23 spike protein (S) gene, complete cds	G2cchinanew.txt	904	G2c	PV890865.1|HNHB-23|20-Jan-2024|China	20-Jan-2024	missing_or_unparseable_date
+PV890866.1	Porcine epidemic diarrhea virus isolate HNLS-28 spike protein (S) gene, complete cds	G2cchinanew.txt	942	G2c	PV890866.1|HNLS-28|29-Jan-2024|China	29-Jan-2024	missing_or_unparseable_date
+PV890867.1	Porcine epidemic diarrhea virus isolate HNBY-33 spike protein (S) gene, complete cds	G2cchinanew.txt	1099	G2c	PV890867.1|HNBY-33|18-Feb-2024|China	18-Feb-2024	missing_or_unparseable_date
+PV890868.1	Porcine epidemic diarrhea virus isolate HNZK-62 spike protein (S) gene, complete cds	G2cchinanew.txt	951	G2c	PV890868.1|HNZK-62|24-Feb-2025|China	24-Feb-2025	missing_or_unparseable_date
+PV890869.1	Porcine epidemic diarrhea virus isolate HNPDS-56 spike protein (S) gene, complete cds	G2cchinanew.txt	1081	G2c	PV890869.1|HNPDS-56|14-Nov-2024|China	14-Nov-2024	missing_or_unparseable_date
+PV890870.1	Porcine epidemic diarrhea virus isolate HNZM-55 spike protein (S) gene, complete cds	G2cchinanew.txt	923	G2c	PV890870.1|HNZM-55|12-Dec-2024|China	12-Dec-2024	missing_or_unparseable_date
+PV935323.1	Porcine epidemic diarrhea virus isolate JX2307 spike protein (S) gene, complete cds	G2cchinanew.txt	917	G2c	PV935323.1|JX2307|29-Jul-2023|China	29-Jul-2023	missing_or_unparseable_date
+PV935324.1	Porcine epidemic diarrhea virus isolate GX2311 spike protein (S) gene, complete cds	G2cchinanew.txt	1060	G2c	PV935324.1|GX2311|12-Nov-2023|China	12-Nov-2023	missing_or_unparseable_date
+PX470115.1	Porcine epidemic diarrhea virus isolate HeN2024 S protein (S) gene, complete cds	G2cchinanew.txt	939	G2c	PX470115.1|HeN2024|20-Nov-2024|China	20-Nov-2024	missing_or_unparseable_date
+PX619214.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SHB/2025-01 genomic sequence	G2cchinanew.txt	439	G2c	PX619214.1|SHB/2025-01|03-Oct-2024|China	03-Oct-2024	missing_or_unparseable_date
+PX619216.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SHC/2025-01 genomic sequence	G2cchinanew.txt	894	G2c	PX619216.1|SHC/2025-01|03-Oct-2024|China	03-Oct-2024	missing_or_unparseable_date
+PX619217.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SHC/2025-03 genomic sequence	G2cchinanew.txt	893	G2c	PX619217.1|SHC/2025-03|03-Oct-2024|China	03-Oct-2024	missing_or_unparseable_date
+PX619218.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SHA/2025 genomic sequence	G2cchinanew.txt	307	G2c	PX619218.1|SHA/2025|03-Oct-2024|China	03-Oct-2024	missing_or_unparseable_date
+PX705503.1	Porcine epidemic diarrhea virus isolate GX2023, complete genome	G2cchinanew.txt	1079	G2c	PX705503.1|GX2023|15-Sep-2023|China	15-Sep-2023	missing_or_unparseable_date

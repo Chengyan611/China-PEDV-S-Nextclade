@@ -1,0 +1,185 @@
+MH726393.1 Porcine epidemic diarrhea virus isolate GDS14, complete genome
+JX242458.1 Porcine epidemic diarrhea virus isolate CH-LC-10-2011 spike protein gene, partial cds
+JX242463.1 Porcine epidemic diarrhea virus isolate CH-LC-12-2011 spike protein gene, partial cds
+JX188454.1 Porcine epidemic diarrhea virus strain AJ1102, complete genome
+JX489155.1 Porcine epidemic diarrhea virus strain LC, complete genome
+KT021228.1 Porcine epidemic diarrhea virus strain YN15, complete genome
+KM225247.1 Porcine epidemic diarrhea virus strain YN4-15 spike protein (S) gene, complete cds
+KM225248.1 Porcine epidemic diarrhea virus strain YN4-30 spike protein (S) gene, complete cds
+MZ604716.1 Porcine epidemic diarrhea virus strain YN17, complete genome
+KT021229.1 Porcine epidemic diarrhea virus strain YN30, complete genome
+KT021230.1 Porcine epidemic diarrhea virus strain YN60, complete genome
+KT021231.1 Porcine epidemic diarrhea virus strain YN90, complete genome
+KM225249.1 Porcine epidemic diarrhea virus strain YN4-60 spike protein (S) gene, complete cds
+KM225250.1 Porcine epidemic diarrhea virus strain YN4-90 spike protein (S) gene, complete cds
+KT021233.1 Porcine epidemic diarrhea virus strain YN200, complete genome
+MZ581326.1 Porcine epidemic diarrhea virus strain YN150, complete genome
+KM225251.1 Porcine epidemic diarrhea virus strain YN4-120 spike protein (S) gene, complete cds
+KM225252.1 Porcine epidemic diarrhea virus strain YN4-144 spike protein (S) gene, complete cds
+OP171888.1 Porcine epidemic diarrhea virus isolate FJLY02-2017 spike protein (S) gene, complete cds
+OP171891.1 Porcine epidemic diarrhea virus isolate FJLY03-2016 spike protein (S) gene, complete cds
+JQ638918.1 Porcine epidemic diarrhea virus strain CH/HBBD/2011 spike glycoprotein S2 (S) gene, complete cds
+KP399616.1 Porcine epidemic diarrhea virus strain CH-TPC-03-2013 S protein (S) gene, complete cds
+KP399624.1 Porcine epidemic diarrhea virus strain CH-HGCP-12-2013 S protein (S) gene, complete cds
+KC787536.1 Porcine epidemic diarrhea virus isolate CH-CCC-01-2013 spike protein gene, partial cds
+KT388421.1 Porcine epidemic diarrhea virus isolate CH-CCC-2013 spike glycoprotein gene, complete cds
+KP399619.1 Porcine epidemic diarrhea virus strain CH-SHC-12-2013 S protein (S) gene, complete cds
+KP399628.1 Porcine epidemic diarrhea virus strain CH-CCC-05-2013 S protein (S) gene, complete cds
+MH726398.1 Porcine epidemic diarrhea virus isolate GDS37, complete genome
+MH726396.1 Porcine epidemic diarrhea virus isolate GDS35, complete genome
+MH726397.1 Porcine epidemic diarrhea virus isolate GDS38, complete genome
+MH726394.1 Porcine epidemic diarrhea virus isolate GDS31, complete genome
+MH726401.1 Porcine epidemic diarrhea virus isolate GDS41, complete genome
+MH726395.1 Porcine epidemic diarrhea virus isolate GDS32, complete genome
+MH726399.1 Porcine epidemic diarrhea virus isolate GDS42, complete genome
+MH726400.1 Porcine epidemic diarrhea virus isolate GDS45, complete genome
+MZ161006.1 Porcine epidemic diarrhea virus strain CH/JSSZ/12/2020 spike protein (S) gene, complete cds
+PP580813.1 Porcine epidemic diarrhea virus isolate GD-GZ2020-10 spike protein (S) gene, complete cds
+MN368700.1 Porcine epidemic diarrhea virus isolate GDhz17 spike protein (S) gene, complete cds
+MN368702.1 Porcine epidemic diarrhea virus isolate GDjm17-2 spike protein (S) gene, complete cds
+KU133255.1 Porcine epidemic diarrhea virus isolate CH-SDLY-3-2014 spike protein (S) gene, complete cds
+KU380331.1 Porcine epidemic diarrhea virus isolate CH-SD01, complete genome
+KU133254.1 Porcine epidemic diarrhea virus isolate CH-SDLY-2-2014 spike protein (S) gene, complete cds
+KX791060.1 Porcine epidemic diarrhea virus isolate CHSD2014, complete genome
+PP395584.1 Porcine epidemic diarrhea virus strain SC2022YA spike protein (S) gene, complete cds
+KY775035.1 Porcine epidemic diarrhea virus isolate HBJM1 spike protein (S) gene, complete cds
+KY775036.1 Porcine epidemic diarrhea virus isolate HBJM2 spike protein (S) gene, complete cds
+MG334004.1 Porcine epidemic diarrhea virus isolate YnP3 spike glycoprotein (S) gene, complete cds
+KP698767.1 Porcine epidemic diarrhea virus isolate GD17 spike gene, complete cds
+MZ364308.1 Porcine epidemic diarrhea virus strain CH/GX/PEDV/997/2016, complete genome
+MZ364307.1 Porcine epidemic diarrhea virus strain CH/GX/PEDV/938/2016, complete genome
+MZ364309.1 Porcine epidemic diarrhea virus strain CH/GX/PEDV/1008/2016, complete genome
+KP399607.1 Porcine epidemic diarrhea virus strain CH-SCC-05-2014 S protein (S) gene, complete cds
+KP399621.1 Porcine epidemic diarrhea virus strain CH-QTC-11-2013 S protein (S) gene, complete cds
+MG132639.1 Porcine epidemic diarrhea virus isolate HB160135 spike protein mRNA, complete cds
+MG132637.1 Porcine epidemic diarrhea virus isolate HB160123 spike protein mRNA, complete cds
+MG132638.1 Porcine epidemic diarrhea virus isolate HB160134 spike protein mRNA, complete cds
+MH726384.1 Porcine epidemic diarrhea virus isolate GDS06, complete genome
+KY211050.1 Porcine epidemic diarrhea virus isolate NY9S spike protein gene, complete cds
+JQ239429.1 Porcine epidemic diarrhea virus strain CH1 spike protein (S) gene, complete cds
+KY211052.1 Porcine epidemic diarrhea virus isolate PDS1S spike protein gene, complete cds
+JQ638915.1 Porcine epidemic diarrhea virus strain CH/GD/2011 spike glycoprotein S2 (S) gene, complete cds
+KT989354.1 Porcine epidemic diarrhea virus isolate CH-HNKF-14.7 spike protein gene, complete cds
+OM201218.1 Porcine epidemic diarrhea virus isolate PEDV/JL89 spike protein gene, complete cds
+MW145533.1 Porcine epidemic diarrhea virus strain CH/SCZY-2/2020 spike protein (S) gene, complete cds
+OR479077.1 Porcine epidemic diarrhea virus isolate CH/GX2301 spike protein (S) gene, complete cds
+KF384500.1 Porcine epidemic diarrhea virus strain CH/GDGZ/2012, complete genome
+MH708895.1 Porcine epidemic diarrhea virus isolate FJ2011, complete genome
+AB857234.1 Porcine epidemic diarrhea virus S gene for spike protein, complete cds, strain: GDS02
+KM609204.1 Porcine epidemic diarrhea virus strain PEDV-7C, complete genome
+JX145339.1 Porcine epidemic diarrhea virus strain CH-GDHY-2011 spike protein mRNA, complete cds
+KP870115.1 Porcine epidemic diarrhea virus isolate CH/GD-03/2012 spike protein (S) gene, complete cds
+MN508818.1 Porcine epidemic diarrhea virus isolate SHpd/2012 S protein (S) gene, complete cds
+JN980698.1 Porcine epidemic diarrhea virus isolate CHGD-01 spike protein (S) gene, complete cds
+KY211061.1 Porcine epidemic diarrhea virus isolate XY5S spike protein gene, complete cds
+JX242454.1 Porcine epidemic diarrhea virus isolate CH-HYC-08-2011 spike protein gene, partial cds
+JX242455.1 Porcine epidemic diarrhea virus isolate CH-HYC-10-2011 spike protein gene, partial cds
+JX242457.1 Porcine epidemic diarrhea virus isolate CH-HYC-12-2011 spike protein gene, partial cds
+JX242456.1 Porcine epidemic diarrhea virus isolate CH-HYC-11-2011 spike protein gene, partial cds
+JX242460.1 Porcine epidemic diarrhea virus isolate CH-YHC-12-2011 spike protein gene, partial cds
+MG198632.1 Porcine epidemic diarrhea virus isolate JSNJ1602 spike protein gene, complete cds
+KF601197.1 Porcine epidemic diarrhea virus isolate HNCZ/2013 spike protein (S) gene, complete cds
+KF601199.1 Porcine epidemic diarrhea virus isolate GXHZ/2013 spike protein (S) gene, complete cds
+JX018179.1 Porcine epidemic diarrhea virus isolate CH/GXNN/2012 spike protein gene, complete cds
+KT989357.1 Porcine epidemic diarrhea virus isolate CH-HNLY-15.4 spike protein gene, complete cds
+MK288006.1 Porcine epidemic diarrhea virus isolate FJzz1, complete genome
+OP171892.1 Porcine epidemic diarrhea virus isolate FJLY03-2017 spike protein (S) gene, complete cds
+KU985230.1 Porcine epidemic diarrhea virus strain GDU spike protein gene, complete cds
+JX647847.1 Porcine epidemic diarrhea virus strain GD-1, complete genome
+OR576821.1 Porcine epidemic diarrhea virus isolate CH/GD441/2022 spike protein (S) gene, complete cds
+MH726385.1 Porcine epidemic diarrhea virus isolate GDS08, complete genome
+MH726387.1 Porcine epidemic diarrhea virus isolate GDS12, complete genome
+MK392335.1 Porcine epidemic diarrhea virus isolate LW/L, complete genome
+MZ161041.1 Porcine epidemic diarrhea virus strain CH/JXPY/07/2020 spike protein (S) gene, complete cds
+PP580808.1 Porcine epidemic diarrhea virus isolate AH-FY2022 spike protein (S) gene, complete cds
+PP580811.1 Porcine epidemic diarrhea virus isolate SD-TA2022 spike protein (S) gene, complete cds
+ON262797.1 Porcine epidemic diarrhea virus strain AH2012/12-P102, complete genome
+KU646831.1 Porcine epidemic diarrhea virus isolate AH2012/12, complete genome
+MH726386.1 Porcine epidemic diarrhea virus isolate GDS16, complete genome
+JX261936.1 Porcine epidemic diarrhea virus strain CHGD-01, complete genome
+OQ437174.1 Porcine epidemic diarrhea virus strain YNLP/2022, complete genome
+MH726388.1 Porcine epidemic diarrhea virus isolate GDS36, complete genome
+MH726389.1 Porcine epidemic diarrhea virus isolate GDS39, complete genome
+OP894120.1 UNVERIFIED: Porcine epidemic diarrhea virus isolate PEDV SD/2020, complete genome
+KP870119.1 Porcine epidemic diarrhea virus isolate CH/GD-07/2012 spike protein (S) gene, complete cds
+KP870129.1 Porcine epidemic diarrhea virus isolate CH/GD-19/2013 spike protein (S) gene, complete cds
+KP870130.1 Porcine epidemic diarrhea virus isolate CH/GD-20/2013 spike protein (S) gene, complete cds
+KP870139.1 Porcine epidemic diarrhea virus isolate CH/GD-29/2014 spike protein (S) gene, complete cds
+KP765609.1 Porcine epidemic diarrhea virus strain FL2013, complete genome
+MH726392.1 Porcine epidemic diarrhea virus isolate GDS44, complete genome
+OR479075.1 Porcine epidemic diarrhea virus isolate CH/GX2101 spike protein (S) gene, complete cds
+MH726390.1 Porcine epidemic diarrhea virus isolate GDS40, complete genome
+MH726391.1 Porcine epidemic diarrhea virus isolate GDS15, complete genome
+OR479072.1 Porcine epidemic diarrhea virus isolate CH/GD2101 spike protein (S) gene, complete cds
+MN759311.1 Porcine epidemic diarrhea virus strain GD-XL-2019, complete genome
+KM089829.1 Porcine epidemic diarrhea virus strain GDS01, complete genome
+ON649885.1 Porcine epidemic diarrhea virus strain JS-B, complete genome
+OP287015.1 Porcine epidemic diarrhea virus isolate JS-A, complete genome
+MH748550.1 Porcine epidemic diarrhea virus strain PEDV JS-A, complete genome
+MW386982.1 Porcine epidemic diarrhea virus isolate JX2020, complete genome
+OQ589489.1 Porcine epidemic diarrhea virus strain attenuated AJ1102-R, complete genome
+MK584552.1 Porcine epidemic diarrhea virus strain AJ1102(F12), complete genome
+PX482649.1 Porcine epidemic diarrhea virus isolate CH-SWM-LS, complete genome
+MZ161078.1 Porcine epidemic diarrhea virus strain CH/SCYT/05/2020 spike protein (S) gene, complete cds
+MW145530.1 Porcine epidemic diarrhea virus strain CH/SCMY-2/2019 spike protein (S) gene, complete cds
+PV523941.1 Porcine epidemic diarrhea virus isolate AH02-04-CN_2024 spike protein (S) gene, complete cds
+PV523942.1 Porcine epidemic diarrhea virus isolate GX03-05-CN_2024 spike protein (S) gene, complete cds
+PV695983.1 Porcine epidemic diarrhea virus isolate HB-2024, complete genome
+MZ161037.1 Porcine epidemic diarrhea virus strain CH/SCCN/08/2020 spike protein (S) gene, complete cds
+PX229706.1 Porcine epidemic diarrhea virus isolate JS-CZYZ202201 spike protein gene, partial cds
+PV164728.1 Porcine epidemic diarrhea virus isolate PEDV ZJ23TZ0201-01 spike protein (S) gene, complete cds
+OR479078.1 Porcine epidemic diarrhea virus isolate CH/JX2101 spike protein (S) gene, complete cds
+OQ122105.1 Porcine epidemic diarrhea virus isolate FJLY/2021 spike protein (S) gene, complete cds
+MZ161033.1 Porcine epidemic diarrhea virus strain CH/JSJH/10/2020 spike protein (S) gene, complete cds
+PV609800.1 Porcine epidemic diarrhea virus isolate PEDV LZ2401 spike protein (S) gene, partial cds
+PV146395.1 Porcine epidemic diarrhea virus isolate PEDV/CHN/SW34/2023 S protein (S) gene, partial cds
+PV146397.1 Porcine epidemic diarrhea virus isolate PEDV/CHN/SW36/2023 S protein (S) gene, partial cds
+PV641632.1 Porcine epidemic diarrhea virus isolate PEDV CD2404 spike protein (S) gene, complete cds
+PV614330.1 Porcine epidemic diarrhea virus isolate SN2401 spike protein (S) gene, partial cds
+PV641626.1 Porcine epidemic diarrhea virus isolate PEDV ZY2402 spike protein (S) gene, partial cds
+OR085311.1 Porcine epidemic diarrhea virus isolate PEDV-HuNYF2-2022, complete genome
+OR085309.1 Porcine epidemic diarrhea virus isolate PEDV-HuNYF4-2022, complete genome
+OR085310.1 Porcine epidemic diarrhea virus isolate PEDV-HuNYF3-2022, complete genome
+PV844370.1 Porcine epidemic diarrhea virus isolate G2b spike protein gene, complete cds
+PV536106.1 Porcine epidemic diarrhea virus isolate PEDV-NMBB15-2023, partial genome
+OR085300.1 Porcine epidemic diarrhea virus isolate PEDV-NMBB1-2023, complete genome
+PP901935.1 Porcine epidemic diarrhea virus isolate PEDV/CN/JLTH spike protein (S) gene, partial cds
+PV036769.1 Porcine epidemic diarrhea virus isolate HLJ5, complete genome
+MZ161023.1 Porcine epidemic diarrhea virus strain CH/GXDX/10/2020 spike protein (S) gene, complete cds
+OR479079.1 Porcine epidemic diarrhea virus isolate CH/JX2201 spike protein (S) gene, complete cds
+MZ161025.1 Porcine epidemic diarrhea virus strain CH/HBSZ/10/2020 spike protein (S) gene, complete cds
+MZ161035.1 Porcine epidemic diarrhea virus strain CH/AHLA/10/2020 spike protein (S) gene, complete cds
+MZ161036.1 Porcine epidemic diarrhea virus strain CH/SCLZ/09/2020 spike protein (S) gene, complete cds
+PV536080.1 Porcine epidemic diarrhea virus isolate PEDV-GDYL30-2022, partial genome
+PV536081.1 Porcine epidemic diarrhea virus isolate PEDV-GDYL9-2022, partial genome
+OR479076.1 Porcine epidemic diarrhea virus isolate CH/GX2201 spike protein (S) gene, complete cds
+MZ364314.1 Porcine epidemic diarrhea virus strain CH/GX/PEDV/2373/2018, complete genome
+MZ161059.1 Porcine epidemic diarrhea virus strain CH/HNLY/03/2020 spike protein (S) gene, complete cds
+OP374021.1 Porcine epidemic diarrhea virus isolate PEDV/CHN/Guizhou/Sinder202206-2 spike gene, complete cds
+MZ161018.1 Porcine epidemic diarrhea virus strain CH/HBXT/11/2020 spike protein (S) gene, complete cds
+OR085299.1 Porcine epidemic diarrhea virus isolate PEDV-NMCL2-2022, complete genome
+MZ161024.1 Porcine epidemic diarrhea virus strain CH/HBBX/10/2020 spike protein (S) gene, complete cds
+MZ161030.1 Porcine epidemic diarrhea virus strain CH/AHBZ/10/2020 spike protein (S) gene, complete cds
+MZ161034.1 Porcine epidemic diarrhea virus strain CH/SCPZ/10/2020 spike protein (S) gene, complete cds
+OQ349221.1 Porcine epidemic diarrhea virus isolate JSyj10 spike protein (S) gene, partial cds
+PX652413.1 Porcine epidemic diarrhea virus strain P2C spike protein (S) gene, complete cds
+OR085298.1 Porcine epidemic diarrhea virus isolate PEDV-HeNNX12-2022, complete genome
+OR001817.1 Porcine epidemic diarrhea virus isolate A22073101 spike protein (S) gene, complete cds
+MZ161046.1 Porcine epidemic diarrhea virus strain CH/SCMY/06/2020 spike protein (S) gene, complete cds
+OP972835.1 Porcine epidemic diarrhea virus isolate YNBS/2022, complete genome
+MZ161014.1 Porcine epidemic diarrhea virus strain CH/GDYD/12/2020 spike protein (S) gene, complete cds
+PQ284571.1 Porcine epidemic diarrhea virus isolate CH-SX1-2023 spike protein (S) gene, complete cds
+PQ284572.1 Porcine epidemic diarrhea virus isolate CH-SX2-2023 spike protein (S) gene, complete cds
+PP723328.1 Porcine epidemic diarrhea virus isolate CH/Guangdong-S/2022 spike protein (S) gene, complete cds
+OP019333.1 Porcine epidemic diarrhea virus isolate PEDV/CH/BZ/2021 spike protein (S) gene, partial cds
+ON248872.1 Porcine epidemic diarrhea virus strain PEDV/CN/Anhui/Sinder202109-1 spike protein gene, complete cds
+OQ122103.1 Porcine epidemic diarrhea virus isolate HBXT/2021 spike protein (S) gene, complete cds
+OR479073.1 Porcine epidemic diarrhea virus isolate CH/GD2201 spike protein (S) gene, complete cds
+OQ122098.1 Porcine epidemic diarrhea virus isolate HBXG/2022 spike protein (S) gene, complete cds
+ON571549.1 Porcine epidemic diarrhea virus isolate JS2021, complete genome
+MZ161029.1 Porcine epidemic diarrhea virus strain CH/HBHS/10/2020 spike protein (S) gene, complete cds
+OR479074.1 Porcine epidemic diarrhea virus isolate CH/GD2301 spike protein (S) gene, complete cds
+OQ122111.1 Porcine epidemic diarrhea virus isolate JXGZ/2022 spike protein (S) gene, complete cds
+MZ161022.1 Porcine epidemic diarrhea virus strain CH/HNXX/11/2020 spike protein (S) gene, complete cds
+MZ161032.1 Porcine epidemic diarrhea virus strain CH/JSSQ/10/2020 spike protein (S) gene, complete cds
+PV844369.1 Porcine epidemic diarrhea virus isolate G2b spike protein gene, complete cds

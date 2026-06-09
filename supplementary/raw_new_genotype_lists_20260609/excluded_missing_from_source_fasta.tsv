@@ -1,0 +1,71 @@
+accession	description	source_file	line_no	clade	reason
+JX242459.1	Porcine epidemic diarrhea virus isolate CH-SONGB-12-2011 spike protein gene, partial cds	G2achinanew.txt	227	G2a	missing_from_source_fasta
+JX242461.1	Porcine epidemic diarrhea virus isolate CH-ZWC-12-2011 spike protein gene, partial cds	G2achinanew.txt	192	G2a	missing_from_source_fasta
+KM213245.1	Porcine epidemic diarrhea virus isolate ZJ13LY1201 S protein (S) gene, complete cds	G2achinanew.txt	24	G2a	missing_from_source_fasta
+KY211038.1	Porcine epidemic diarrhea virus isolate JZ1S spike protein gene, complete cds	G2achinanew.txt	123	G2a	missing_from_source_fasta
+KY211039.1	Porcine epidemic diarrhea virus isolate LH1S spike protein gene, complete cds	G2achinanew.txt	176	G2a	missing_from_source_fasta
+KY211040.1	Porcine epidemic diarrhea virus isolate LH2S spike protein gene, complete cds	G2achinanew.txt	139	G2a	missing_from_source_fasta
+KY211041.1	Porcine epidemic diarrhea virus isolate LY1S spike protein gene, complete cds	G2achinanew.txt	53	G2a	missing_from_source_fasta
+KY211042.1	Porcine epidemic diarrhea virus isolate NY1S spike protein gene, complete cds	G2achinanew.txt	291	G2a	missing_from_source_fasta
+KY211043.1	Porcine epidemic diarrhea virus isolate NY2S spike protein gene, complete cds	G2achinanew.txt	506	G2a	missing_from_source_fasta
+KY211045.1	Porcine epidemic diarrhea virus isolate NY4S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	301	G2a	missing_from_source_fasta
+KY211046.1	Porcine epidemic diarrhea virus isolate NY5S spike protein gene, complete cds	G2achinanew.txt	33	G2a	missing_from_source_fasta
+KY211047.1	Porcine epidemic diarrhea virus isolate NY6S spike protein gene, complete cds	G2achinanew.txt	346	G2a	missing_from_source_fasta
+KY211048.1	Porcine epidemic diarrhea virus isolate NY7S spike protein gene, complete cds	G2achinanew.txt	105	G2a	missing_from_source_fasta
+KY211049.1	Porcine epidemic diarrhea virus isolate NY8S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	539	G2a	missing_from_source_fasta
+KY211051.1	Porcine epidemic diarrhea virus isolate NY10S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	57	G2a	missing_from_source_fasta
+KY211053.1	Porcine epidemic diarrhea virus isolate PDS2S spike protein gene, complete cds	G2achinanew.txt	167	G2a	missing_from_source_fasta
+KY211054.1	Porcine epidemic diarrhea virus isolate XC1S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	366	G2a	missing_from_source_fasta
+KY211055.1	Porcine epidemic diarrhea virus isolate XC2S spike protein gene, complete cds	G2achinanew.txt	138	G2a	missing_from_source_fasta
+KY211056.1	Porcine epidemic diarrhea virus isolate XX1S spike protein gene, complete cds	G2achinanew.txt	148	G2a	missing_from_source_fasta
+KY211057.1	Porcine epidemic diarrhea virus isolate XY1S spike protein gene, complete cds	G2achinanew.txt	195	G2a	missing_from_source_fasta
+KY211060.1	Porcine epidemic diarrhea virus isolate XY4S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	174	G2a	missing_from_source_fasta
+KY211062.1	Porcine epidemic diarrhea virus isolate XY6S spike protein gene, complete cds	G2achinanew.txt	392	G2a	missing_from_source_fasta
+KY211063.1	Porcine epidemic diarrhea virus isolate XY7S spike protein gene, complete cds	G2achinanew.txt	449	G2a	missing_from_source_fasta
+KY211064.1	Porcine epidemic diarrhea virus isolate XY8S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	691	G2a	missing_from_source_fasta
+KY211065.1	Porcine epidemic diarrhea virus isolate XY9S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	88	G2a	missing_from_source_fasta
+KY211066.1	Porcine epidemic diarrhea virus isolate ZMD2S spike protein gene, complete cds	G2achinanew.txt	596	G2a	missing_from_source_fasta
+KY211067.1	Porcine epidemic diarrhea virus isolate ZMD3S spike protein gene, complete cds	G2achinanew.txt	411	G2a	missing_from_source_fasta
+KY211068.1	Porcine epidemic diarrhea virus isolate ZMD4S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	471	G2a	missing_from_source_fasta
+KY211069.1	Porcine epidemic diarrhea virus isolate ZMD5S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	101	G2a	missing_from_source_fasta
+KY211070.1	Porcine epidemic diarrhea virus isolate ZMD7S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	490	G2a	missing_from_source_fasta
+KY211071.1	Porcine epidemic diarrhea virus isolate ZMD8S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	113	G2a	missing_from_source_fasta
+KY211072.1	Porcine epidemic diarrhea virus isolate ZMD9S nonfunctional spike protein gene, partial sequence	G2achinanew.txt	128	G2a	missing_from_source_fasta
+KY211073.1	Porcine epidemic diarrhea virus isolate ZMD10S spike protein gene, complete cds	G2achinanew.txt	92	G2a	missing_from_source_fasta
+KY211074.1	Porcine epidemic diarrhea virus isolate ZMD11S spike protein gene, complete cds	G2achinanew.txt	405	G2a	missing_from_source_fasta
+KY211075.1	Porcine epidemic diarrhea virus isolate ZMD12S spike protein gene, complete cds	G2achinanew.txt	573	G2a	missing_from_source_fasta
+KY496316.1	Porcine epidemic diarrhea virus strain CH_lankao_2016 S protein (S) gene, complete cds	G2achinanew.txt	463	G2a	missing_from_source_fasta
+KY496317.1	Porcine epidemic diarrhea virus strain CH_nanyang_2015 S protein (S) gene, complete cds	G2achinanew.txt	402	G2a	missing_from_source_fasta
+KY496318.1	Porcine epidemic diarrhea virus strain CH_nanyang_2016 S protein (S) gene, complete cds	G2achinanew.txt	76	G2a	missing_from_source_fasta
+KY496319.1	Porcine epidemic diarrhea virus strain CH_shanxi_2015 S protein (S) gene, complete cds	G2achinanew.txt	49	G2a	missing_from_source_fasta
+KY496321.1	Porcine epidemic diarrhea virus strain CH_weishi_2016 S protein (S) gene, complete cds	G2achinanew.txt	424	G2a	missing_from_source_fasta
+KY496322.1	Porcine epidemic diarrhea virus strain CH_yuanyang_2015 S protein (S) gene, complete cds	G2achinanew.txt	321	G2a	missing_from_source_fasta
+MH056657.1	Porcine epidemic diarrhea virus strain JSX2014/ATT, complete genome	G2achinanew.txt	379	G2a	missing_from_source_fasta
+OL855978.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX01-2014 sequence	G2achinanew.txt	72	G2a	missing_from_source_fasta
+OL855979.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX02-2015 sequence	G2achinanew.txt	250	G2a	missing_from_source_fasta
+PF141447.1	KR 1020230109809-A/3: Attenuated Porcine Epidemic Diarrhea CKT-7N Virus and composition for Porcine Epidemic Diarrhea Vaccine comprising the same	G2achinanew.txt	709	G2a	missing_from_source_fasta
+JX242454.1	Porcine epidemic diarrhea virus isolate CH-HYC-08-2011 spike protein gene, partial cds	G2bchinanew.txt	75	G2b	missing_from_source_fasta
+JX242455.1	Porcine epidemic diarrhea virus isolate CH-HYC-10-2011 spike protein gene, partial cds	G2bchinanew.txt	76	G2b	missing_from_source_fasta
+JX242456.1	Porcine epidemic diarrhea virus isolate CH-HYC-11-2011 spike protein gene, partial cds	G2bchinanew.txt	78	G2b	missing_from_source_fasta
+JX242457.1	Porcine epidemic diarrhea virus isolate CH-HYC-12-2011 spike protein gene, partial cds	G2bchinanew.txt	77	G2b	missing_from_source_fasta
+JX242458.1	Porcine epidemic diarrhea virus isolate CH-LC-10-2011 spike protein gene, partial cds	G2bchinanew.txt	2	G2b	missing_from_source_fasta
+JX242460.1	Porcine epidemic diarrhea virus isolate CH-YHC-12-2011 spike protein gene, partial cds	G2bchinanew.txt	79	G2b	missing_from_source_fasta
+JX242463.1	Porcine epidemic diarrhea virus isolate CH-LC-12-2011 spike protein gene, partial cds	G2bchinanew.txt	3	G2b	missing_from_source_fasta
+KY211050.1	Porcine epidemic diarrhea virus isolate NY9S spike protein gene, complete cds	G2bchinanew.txt	58	G2b	missing_from_source_fasta
+KY211052.1	Porcine epidemic diarrhea virus isolate PDS1S spike protein gene, complete cds	G2bchinanew.txt	60	G2b	missing_from_source_fasta
+KY211061.1	Porcine epidemic diarrhea virus isolate XY5S spike protein gene, complete cds	G2bchinanew.txt	74	G2b	missing_from_source_fasta
+KY211058.1	Porcine epidemic diarrhea virus isolate XY2S spike protein gene, complete cds	G2cchinanew.txt	144	G2c	missing_from_source_fasta
+KY496313.1	Porcine epidemic diarrhea virus strain CH_huaiyang_2015 S protein (S) gene, complete cds	G2cchinanew.txt	495	G2c	missing_from_source_fasta
+KY496315.1	Porcine epidemic diarrhea virus strain CH_hubei_2016 S protein (S) gene, complete cds	G2cchinanew.txt	496	G2c	missing_from_source_fasta
+KY496320.1	Porcine epidemic diarrhea virus strain CH_sheqi_2015 S protein (S) gene, complete cds	G2cchinanew.txt	50	G2c	missing_from_source_fasta
+MG983755.1	Porcine epidemic diarrhea virus strain GDgh, complete genome	G2cchinanew.txt	529	G2c	missing_from_source_fasta
+OL855980.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX03-2018 sequence	G2cchinanew.txt	729	G2c	missing_from_source_fasta
+OL855981.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX04-2018 sequence	G2cchinanew.txt	716	G2c	missing_from_source_fasta
+OL855982.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX05-2019 sequence	G2cchinanew.txt	11	G2c	missing_from_source_fasta
+OL855983.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX06-2019 sequence	G2cchinanew.txt	12	G2c	missing_from_source_fasta
+OL855984.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX07-2020 sequence	G2cchinanew.txt	730	G2c	missing_from_source_fasta
+OL855985.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX08-2020 sequence	G2cchinanew.txt	717	G2c	missing_from_source_fasta
+OL855986.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX09-2021 sequence	G2cchinanew.txt	722	G2c	missing_from_source_fasta
+OL855987.1	UNVERIFIED: Porcine epidemic diarrhea virus isolate SX10-2021 sequence	G2cchinanew.txt	731	G2c	missing_from_source_fasta
+ON745405.1	Porcine epidemic diarrhea virus strain GDqy2017 spike (S) gene, complete cds	G2cchinanew.txt	570	G2c	missing_from_source_fasta
+PP461398.1	Porcine epidemic diarrhea virus isolate JMS S protein gene, complete cds	G2cchinanew.txt	310	G2c	missing_from_source_fasta
