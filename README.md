@@ -90,8 +90,8 @@ Validation against the curated source labels:
 | --- | ---: |
 | G1a | 5 |
 | G1b | 23 |
-| G2a | 533 |
-| G2b | 263 |
+| G2a | 625 |
+| G2b | 171 |
 | G2c | 1073 |
 | S-INDEL | 114 |
 | Blank calls | 0 |
