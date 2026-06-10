@@ -1,0 +1,23 @@
+{
+  "total_labels": 2244,
+  "counts_by_clade": {
+    "G1a": 5,
+    "G1b": 23,
+    "G2a": 724,
+    "G2b": 185,
+    "G2c": 1193,
+    "S-INDEL": 114
+  },
+  "tree_relabel_stats": {
+    "D:\\桌面\\2025PEDV全\\China\\China-PEDV-S-Nextclade\\nextclade_dataset_pedv_s_genbank_china_isolates\\tree.json": {
+      "tips_labelled": 2011,
+      "internal_pure": 1968,
+      "internal_majority": 41
+    },
+    "D:\\桌面\\2025PEDV全\\China\\China-PEDV-S-Nextclade\\auspice\\china_pedv_s_genbank.json": {
+      "tips_labelled": 2011,
+      "internal_pure": 1968,
+      "internal_majority": 41
+    }
+  }
+}
